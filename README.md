@@ -15,6 +15,7 @@ The NFDI4Biodiversity Self-Study Unit (SSU) provides in-depth knowledge for both
 
 The self-study unit undergoes periodic updates, responding to feedback from the community for continuous improvement. For inquiries or additional information, please feel free to reach out to us via our contact page: [NFDI4Biodiversity Contact](https://www.nfdi4biodiversity.org/de/kontakt/).
 
-## Published version
+## Published versions
 
 - December 14, 2023; Version 1.0.0: https://zenodo.org/records/10377868
+- December 22, 2023; Version 1.1.0: https://ilias.uni-marburg.de/goto.php?target=pg_443261_3276691&client_id=UNIMR
