@@ -5,6 +5,8 @@ Fischer, Marlen; Röder, Juliane; Signer, Johannes; Tschink, Daniel; Weibulat, T
 
 ## Description
 
+**(!) Please note that this version is still work-in-progress! We are currently implementing some final elements and will update this text to indicate the release of LiaScript version 1.0.**
+
 The NFDI4Biodiversity Self-Study Unit (SSU) provides in-depth knowledge for both students and researchers specializing in biodiversity and environmental sciences. This learning is based on the online learning unit "Forschungsdatenmanagement - eine Online-Einführung (HeFDI Data Learning Materials)" of the Hessian Research Data Infrastructures. Developed in collaboration between several partners within NFDI4Biodiversity, the SSU offers essential domain-specific knowledge in research data management. 
 
 - **Prerequisites**: No previous knowledge is required for this module. The chapters build on each other thematically, but can also be worked through individually. If information from other chapters is needed, they are linked.
