@@ -8,7 +8,7 @@ author:
 
 comment: NFDI4Biodiversity Self-Study Unit - Research Data Management for Biodiversity Data
 
-version: 0.1
+version: 1.0
 
 -->
 
