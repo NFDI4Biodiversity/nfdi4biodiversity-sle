@@ -31,7 +31,7 @@ The NFDI4Biodiversity Self-Study Unit (SSU) provides in-depth knowledge for both
 
 - **Learning objectives**: After completing this unit you will be able to understand the content and purpose of research data management and apply it in the field of biology. The detailed learning objectives are given at the beginning of each chapter.
 
-The self-study unit undergoes periodic updates, responding to feedback from the community for continuous improvement. For inquiries or additional information, please feel free to reach out to us via our contact page: [NFDI4Biodiversity Contact](https://www.nfdi4biodiversity.org/de/kontakt/).
+The self-study unit undergoes periodic updates, responding to feedback from the community for continuous improvement. For inquiries or additional information, please feel free to reach out to us via our contact page: [NFDI4Biodiversity Contact](https://www.nfdi4biodiversity.org/en/contact/).
 
 ## Published versions
 
