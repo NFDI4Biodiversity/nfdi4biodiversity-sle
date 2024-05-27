@@ -93,7 +93,7 @@ The CARE principles (**C**ollective Benefit, **A**uthority to Control, **R**espo
 
 ![The image is a circular, color-coded diagram resembling a pie chart with six segments, each representing a different step in the research data management cycle, as indicated by the acronym "RDMkit" in the bottom right corner. Starting from the top right and moving clockwise, each segment has an icon and a label:"Plan" - Illustrated with a pencil icon and colored in orange."Collect" - Depicted with a flask icon and colored in yellow."Process" - Represented by three circles connected by lines, suggesting a process flow, and colored in green "Analyse" - Shown with a bar chart icon and colored in darker green. "Preserve" - Indicated with a database or stack icon and colored in blue. "Share" - Represented by a share icon, two connected dots with a line, and colored in purple. "Reuse" - Illustrated with a circular arrow, implying recycling or reuse, and colored in red. The segments create a cycle around a central white empty circle, suggesting that each step leads to the next in a continuous loop. This diagram likely serves as a visual guide for the stages of managing research data, from planning to reusing data.](https://rdmkit.elixir-europe.org/images/data_life_cycle_9.png "Figure 2. The data life cycle.")
 
- Source: [RDMkit by ELIXIR-CONVERGE](https://rdmkit.elixir-europe.org/data_life_cycle), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Source: [RDMkit by ELIXIR-CONVERGE](https://rdmkit.elixir-europe.org/data_life_cycle), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 The data life cycle (DLC) is a conceptual tool which helps to understand the different steps that data follow from data generation to knowledge creation and specifically focuses on the role of data. It strongly suggests that a professional approach to research data management involves more than just collection and analysis, but begins with detailed planning. In order to cope with the heterogeneity of biological datasets, data users, and data producers, a large variety of DLC´s are commonly used within the community. DLC´s often include between 5 and 10 steps, depending on the institution and respective research mission. However, the message and content are quite similar across DLC´s and disciplines. All DLCs share the commonality of adhering to the FAIR principles at each individual step. The differentiation between research domains relates to specific tools and services that are used within the respective community. Figure 2 displays the exemplary DLC RDM-Kit developed by a diverse community of experts and educators spanning various disciplines within the life sciences. The RDM-Kit is a suitable DLC for introducing RDM to a wider audience. The seven phases of a data cycle according to the RDM-Kit are planning, collecting, processing, analysing, preserving, sharing and reusing; an unlimited number of subsequent cycles can follow. Each step of the DLC contains further explanations and specifications in order to cope with the challenges in biodiversity research. Ideally, the FAIR principles should be considered throughout the life cycle of research data. However, the realisation might vary depending on the type of conducted research, the type of collected data and the type of researchers. Here, we focus on the steps that are specifically important for researchers, which work with biodiversity and environmental data.
 
@@ -107,7 +107,6 @@ This video,[^1]explains the research data lifecycle.
 
 ## 2.3 Questions
 
-
 Which of the following statements is a goal of research data management? Choose the correct answer.
 
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
@@ -115,8 +114,6 @@ Which of the following statements is a goal of research data management? Choose 
 - [( )] Preventing active re-use of one's own research data by other researchers
 - [( )] Making any research data available to all without technical restrictions
 - [(X)] Minimising data loss
-
-
 
 What is **not** part of this unit? Choose the correct answer.
 
@@ -130,7 +127,7 @@ Select the correct abbreviations.
 
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
 - [[DLC] (ELN) (GBIF) (ROR) (NFDI) [FAIR] (EOSC)]
-- [ (X)   ( )   ( )    ( )   ( )    ( )     ( )  ]  Data Life Cycle
+- [ (X)   ( )   ( )    ( )   ( )    ( )     ( )  ] Data Life Cycle
 - [ ( )   (X)   ( )    ( )   ( )    ( )     ( )  ] Electronic Laboratory Notebook
 - [ ( )   ( )   (X)    ( )   ( )    ( )     ( )  ] Global Biodiversity Information Facility
 - [ ( )   ( )   ( )    (X)   ( )    ( )     ( )  ] Research Organisation Registry
@@ -146,10 +143,13 @@ Let's have a look at the first step in the data life cycle: planning is essentia
 
 After completing this chapter, you will be able to...
 
+    {{1}}
 ...define the key aspects of your planning process
 
+    {{2}}
 ...decide how to structure your data management plan
 
+    {{3}}
 ...find a suitable tool to help you create a data management plan
 
 ## 3.2. Relevant Aspects for Planning
@@ -230,7 +230,7 @@ Overall, the DMP will save you time later on in the publishing process and preve
 There is now a whole range of tools to support researchers during each step of the data lifecycle. Data Management Planning tools, for example, facilitate the creation of data management plans either using text modules ([RDMO Organiser on GitHub](https://rdmorganiser.github.io/en/), [RDMO University Marburg](https://rdmo.uni-marburg.de/)) or one is guided through a catalogue of questions. There are usually different templates for different funders and purposes that often provide web-based DMP tools that help you to draft your own suitable DMP [^1]. GFBio, for instance, offers a Data Management Plan Tool ([GFBio DMP-Tool](https://dmp.gfbio.org/), [DMP Tool](https://dmptool.org/), [DMP online](https://dmponline.dcc.ac.uk/)) that is tailored to create customised DMPs according to DFG guidelines based on the requirements of biodiversity, ecological, and environmental projects. Further, GFBio offers professional support. Thus, your DMP will be cross-checked by experts in the field.
 
 
-![alternative text](figure3a_DMP_form.png "Figure 3. User interface -left- and final DMP -right- of the [GFBio DMP Tool](https://dmp.gfbio.org/).") ![alternative text](figure3b_DMP_example.png "Figure 3")
+![alternative text](images/figure3a_DMP_form.png "Figure 3. User interface -left- and final DMP -right- of the [GFBio DMP Tool](https://dmp.gfbio.org/).") ![alternative text](images/figure3b_DMP_example.png "Figure 3")
 
 
 Furthermore, there are Data Management tools which support data management during the active project phase. Data management tools are software applications or platforms designed to efficiently collect, store, organise, process, and analyse data, but they often have to be set up and hosted by your institution or project partners. Here's a brief explanation of key aspects of data management tools:
@@ -265,7 +265,9 @@ GFBio recommends two major systems with [tools](https://www.gfbio.org/tools/) fo
 [^4]: Wolstencroft, K., Owen, S., Horridge, M., Krebs, O., Mueller, W., Snoep, J.L., et al. (2011). RightField: embedding ontology annotation in spreadsheets. Bioinformatics, 27, 2021–2022. https://www.doi.org/10.1093/bioinformatics/btr312
 [^5]: ZB Med. (2023). ELN Finder. TU Darmstadt. Available at: https://eln-finder.ulb.tu-darmstadt.de/home. Last accessed 30 October 2023.
 
-## 3.5 QuestionsWhich of these aspects are part of a data management plan?
+## 3.5 Questions
+
+Which of these aspects are part of a data management plan?
 
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
 - [[X]] Naming those responsible for data management
@@ -293,22 +295,30 @@ It is also possible to reuse already collected data and to integrate it into you
 
 Since in biology, taxonomic designations can vary depending on the source and concept used, harmonisation is necessary in some cases.
 
-After completing this chapter, you will be able to\...
+After completing this chapter, you will be able to...
 
-...select appropriate tools to assist you in the data collection process.
+    {{1}}
+...select appropriate tools to assist you in the data collection process
 
-\...recognise metadata and the benefits of metadata
+    {{2}}
+...recognise metadata and the benefits of metadata
 
-\...name important categories of metadata
+    {{3}}
+...name important categories of metadata
 
-\...name selected metadata standards
+    {{4}}
+...name selected metadata standards
 
-\...create your own metadata
+    {{5}}
+...create your own metadata
 
+    {{6}}
 ...select a suitable tool for handling metadata
 
-\...describe your research data via metadata so that your research data can be used in the future and by machine-reading systems
+    {{7}}
+...describe your research data via metadata so that your research data can be used in the future and by machine-reading systems
 
+    {{8}}
 ...name the important elements of taxonomic information that are necessary to merge different species data sets
 
 [^1]: ELIXIR converge. (2022b). Data Life Cycle - Collecting. RDMkit. Available at: https://rdmkit.elixir-europe.org/collecting. Last accessed 4 October 2023.
@@ -396,7 +406,6 @@ It makes sense, but is not absolutely necessary, for metadata to be readable not
 
 Machine readability is an essential point and becomes important, for example, when related research data are to be found by keyword search or compared with each other. A machine-readable file can be created using special programs. In the section "How do I create my metadata" you will be introduced to appropriate programs.
 
-
 #### 4.3.2.3. Metadata categories
 
 There are many categories that can and often need to be described by metadata (Figure 4). Depending on the field and research data, these categories can differ greatly, but some are considered standard categories for all disciplines.
@@ -421,7 +430,7 @@ Surrounding these question hexagons are larger blue segments with more specific 
 "Why" points to "Research question and hypothesis."
 "With what" points to "Devices and measurement technology used," "Documentation of the procedure," and "Settings of devices and techniques used."
 Each of these blue segments also contains smaller text detailing various aspects of research data management, such as rights of use, citation guidelines, possible uses of data, co-authors, and parameters.
-The overall diagram serves as a visual guide to the considerations and components of managing and understanding research data, emphasizing the interconnectedness of these elements.](figure4_metadata_categories_FOKUSproject.png)Figure 4. Different categories of metadata to describe the actual research data. Source: [FOKUS](https://www.uni-marburg.de/en/hefdi/about-hefdi/projects/fokus), by Henrike Becker, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), English translation by HeFDI.
+The overall diagram serves as a visual guide to the considerations and components of managing and understanding research data, emphasizing the interconnectedness of these elements.](images/figure4_metadata_categories_FOKUSproject.png)Figure 4. Different categories of metadata to describe the actual research data. Source: [FOKUS](https://www.uni-marburg.de/en/hefdi/about-hefdi/projects/fokus), by Henrike Becker, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), English translation by HeFDI.
 
 #### 4.3.2.4. Metadata standards
 
@@ -649,24 +658,28 @@ Species names connect physical, functional, spatial, and genetic data sets. Prov
 
 How do I collect metadata?
 
+<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
 - [(X)] I enquire about suitable metadata standards before starting research and collect as much metadata aspossible to ensure that the data can also be understood by other researchers:
 - [( )] I simply transfer the metadata from another project.
 - [( )] I always follow the same scheme, no matter what type of research data it is.
 
 When should the associated metadata be deleted if research data is deleted from a repository?
 
+<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
 - [(X)] Preferably not at all. If research data is withdrawn, the metadata provides an overview of the project andpossibly why the data was withdrawn.
 - [( )] The metadata is deleted together with the research data.
 - [( )] For legal reasons, the metadata must remain in the repository for at least one year.
 
 What exactly is metadata?
 
+<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
 - [(X)] Metadata describes other data of any kind in a structured way and helps to understand this data.
 - [( )] Metadata is data that stores information about files in encrypted form.
 - [( )] Metadata is used to make the actual research data available, as it would otherwise not be accessible.
 
 How should metadata ideally be stored?
 
+<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
 - [( )] I create metadata according to my own schema according to the requirements of my own researchdata.
 - [(X)] Metadata should be created according to specific metadata standards.
 - [( )]Metadata should only be readable by myself in order to protect my research data.
@@ -674,19 +687,22 @@ How should metadata ideally be stored?
 
 What is the correct order of a species name?
 
-
+<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
 [[ (Ptilocercus) | lowii | J. E. Gray | 1848 ]][[ Ptilocercus | lowii | J. E. Gray | (1848) ]] [[ Ptilocercus | lowii | (J. E. Gray) | 1848 ]] [[ Ptilocercus | (lowii) | J. E. Gray | 1848 ]]
 
 What is the correct order of a species name?
 
+<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
 [[ (Arthrobotrys) | oligospora | Fresen | 1850 ]] [[ Arthrobotrys | (oligospora) | Fresen | 1850 ]] [[ Arthrobotrys | oligospora | (Fresen) | 1850 ]] [[ Arthrobotrys | oligospora | Fresen | (1850) ]]
 
 What is the correct order of a species name?
 
+<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
 [[ (Cymothoa) | exigua | Schiødte & Meinert | 1884 ]] [[ Cymothoa | (exigua) | Schiødte & Meinert | 1884 ]][[ Cymothoa | exigua | (Schiødte & Meinert) | 1884 ]] [[ Cymothoa | exigua | Schiødte & Meinert | (1884) ]]
 
 What is the correct order of a species name?
 
+<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
 [[ Ailanthus | (altissima) | Mill. | Swingle ]][[ Ailanthus | altissima | Mill. | (Swingle) ]][[ Ailanthus | altissima | (Mill.) | Swingle ]][[ (Ailanthus) | altissima | Mill. | Swingle ]]
 
 # **5. Analysing Data**
@@ -699,8 +715,10 @@ Given that data analysis yields critical research outcomes, it's of utmost impor
 
 After completing this chapter, you will be able to...
 
+        {{1}}
 ...name useful tools to document your data analysis workflow
 
+        {{2}}
 ...explain why code management helps to make your data analyses more transparent
 
 [^1]: ELIXIR converge. (2022a). Data Life Cycle - Analysing. RDMkit. Available at: https://rdmkit.elixir-europe.org/analysing. Last accessed 4 October 2023.
@@ -789,14 +807,19 @@ However, in order to enable actual reuse, a number of conditions must be met.
 
 After completing this chapter, you will be able to...
 
+        {{1}}
 ... preserve your data in a comprehensible way
 
+        {{2}}
 ...choose durable, preferably non-proprietary (i.e. free and open source) file formats for your data
 
+        {{3}}
 ...select durable storage media
 
+        {{4}}
 ...assure the findability of your data
 
+        {{5}}
 ...choose a repository where to publish your data
 
 [^1]: ELIXIR converge. (2023c). Data Life Cycle - Preserving. RDMkit. Available at: https://rdmkit.elixir-europe.org/preserving. Last accessed 4 October 2023.
@@ -946,6 +969,7 @@ Which of these statements are true? Select all correct answers.
 
 Which of the following repositories are generic, and which are subject-specific? Assign the repositories to the two categories.
 
+<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
 | Definition      | Term |
 | ----------- | ----------- |
 | [[ (Generic) | Subject-specific ]]      | [[ Zenodo |(figshare) | data_UMR | RADAR | Dryad | Plant Genomics and Phenomics Research Data Repository (e!DAL-PGP) | PANGAEA | European Nucleotide Archive (ENA) | Movebank | Ocean Biodiversity Information System (OBIS) | FishBase ]]|
@@ -1037,7 +1061,7 @@ When handling research data, it's essential to navigate various legal aspects, i
 Before data can be made publicly available, there are many legal aspects to consider -- because not all data can or should be made public. The most important legal aspects are considered in the following decision aid in the form of a flow chart. Answering the questions will guide you through the decision-making process to a recommendation:
 
 
-![](images/figure6_decide_data_publication.png "Figure 6. Decision-making process for data publication ([Forschungsdaten veröffentlichen?](https://doi.org/10.5281/ZENODO.3368292) Source: [^1], English translation by HeFDI, [CC0](https://creativecommons.org/public-domain/cc0/)".)
+![](images/figure6_decide_data_publication.png "Figure 6. Decision-making process for data publication, Source: [Forschungsdaten veröffentlichen?](https://doi.org/10.5281/ZENODO.3368292) [^1], English translation by HeFDI, [CC0](https://creativecommons.org/public-domain/cc0/)")
 
 Essentially, but not exclusively, questions of data protection and copyright must be clarified before publication. The decisive course for the possibility of publishing research data in a repository is therefore often already set when the data are collected, and the corresponding declarations of consent are obtained. If you are unsure, contact the legal department of your university or institute.
 
@@ -1145,9 +1169,7 @@ CC BY-ND (Attribution required, No derivatives)
 CC BY-NC-ND (Attribution required, Non-commercial, No derivatives)
 These licenses are shown in circles with the respective abbreviations and symbols indicating the conditions of use: a person for attribution (BY), a dollar sign for no commercial use (NC), two arrows in a circle for ShareAlike (SA), and an equal sign in a circle for no derivatives (ND).
 At the bottom of the spectrum, labeled as "least open," is the traditional copyright symbol, a "C" within a circle, with the words "all rights reserved" next to it, and a bar indicating a gradient from green at the top (most open) to red at the bottom (least open).
-The background is divided into sections of light green, cream, and grey, each section darker as the licenses become less open. The graphic serves as a guide to understanding the levels of permissions and restrictions associated with different types of copyright licenses.](images/figure6_decide_data_publication.png "![Figure 7. [Creative Commons License Spectrum](https://commons.wikimedia.org/wiki/File:Creative_commons_license_spectrum.svg) by Shaddim, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)](images/figure7_CC-license_spectrum.png)
-Figure 7. [Creative Commons License Spectrum](https://commons.wikimedia.org/wiki/File:Creative_commons_license_spectrum.svg) by Shaddim, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-".)
+The background is divided into sections of light green, cream, and grey, each section darker as the licenses become less open. The graphic serves as a guide to understanding the levels of permissions and restrictions associated with different types of copyright licenses.](images/figure7_CC-license_spectrum.png "Figure 7. [Creative Commons License Spectrum](https://commons.wikimedia.org/wiki/File:Creative_commons_license_spectrum.svg) by Shaddim, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)]"))
 
 
 ---
@@ -1236,6 +1258,7 @@ The genetic resources provided by a country can be decoded and digitally archive
 
 Which of the following statements is NOT true? Choose the wrong answer.
 
+<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
 - [( )] The structure of a database is protected by copyright law in Germany
 - [( )] The owner of the database producer rights is usually the institution employing a researcher
 - [(X)] Quantitative, raw data, are copyright protected due to the investment to produce the data.
@@ -1243,10 +1266,12 @@ Which of the following statements is NOT true? Choose the wrong answer.
 
 What is the preferred choice for publishing research data? Sort the following data publication strategies from most accessible to least accessible
 
+<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
 [[ (Publishing data as an independent publication in a subject-specific repository under an open license) | Publishing data as an article in a data journal | Publishing data in a generic repository |Publishing data as a supplement to a scientific article | Publishing data in a subject-specific repository under an indefinite embargo | Publishing data as a supplement to a scientific article as a text table in a pdf ]]  [[ Publishing data as an independent publication in a subject-specific repository under an open license | (Publishing data as an article in a data journal) | Publishing data in a generic repository |Publishing data as a supplement to a scientific article | Publishing data in a subject-specific repository under an indefinite embargo | Publishing data as a supplement to a scientific article as a text table in a pdf ]]  [[ Publishing data as an independent publication in a subject-specific repository under an open license | Publishing data as an article in a data journal | (Publishing data in a generic repository) |Publishing data as a supplement to a scientific article | Publishing data in a subject-specific repository under an indefinite embargo | Publishing data as a supplement to a scientific article as a text table in a pdf ]]  [[ Publishing data as an independent publication in a subject-specific repository under an open license | Publishing data as an article in a data journal | Publishing data in a generic repository | (Publishing data as a supplement to a scientific article) | Publishing data in a subject-specific repository under an indefinite embargo | Publishing data as a supplement to a scientific article as a text table in a pdf ]]  [[ Publishing data as an independent publication in a subject-specific repository under an open license | Publishing data as an article in a data journal | Publishing data in a generic repository |Publishing data as a supplement to a scientific article | (Publishing data in a subject-specific repository under an indefinite embargo) | Publishing data as a supplement to a scientific article as a text table in a pdf ]]  [[ Publishing data as an independent publication in a subject-specific repository under an open license | Publishing data as an article in a data journal | Publishing data in a generic repository |Publishing data as a supplement to a scientific article | Publishing data in a subject-specific repository under an indefinite embargo | (Publishing data as a supplement to a scientific article as a text table in a pdf) ]]
 
 What role do persistent identifiers (PIDs) play in data retrieval and findability?  Choose the correct answer.
 
+<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
 - [( )] They provide encryption for data
 - [(X)] They link metadata to the actual data set
 - [( )] They limit access to confidential data
@@ -1254,6 +1279,7 @@ What role do persistent identifiers (PIDs) play in data retrieval and findabilit
 
 Why are open and documented data formats preferred for long-term data storage? Choose the correct answer.
 
+<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
 - [( )] They are less compatible with various systems
 - [( )] They require frequent migrations
 - [(X)] They facilitate interoperability and have a longer lifespan
