@@ -54,7 +54,7 @@ Collecting biodiversity data takes a lot of energy and resources. This makes bio
 
 To put good research practice[^6] and the FAIR principles into practice effective research data management (RDM) is needed. This requires a comprehensive approach that encompasses the planning, collection, storage, analysis, and collaborative sharing of diverse biodiversity data through a well-structured and coordinated research data management strategy[^7]. For research in the biodiversity field, research data management is even more important as non-repeatability and the need to rely on old data, e.g. for trend analysis, is of utmost relevance.
 
-!?[This video, published by GFBio, 2020, explains the challenges and solutions of dealing with heterogeneous data.](https://youtu.be/s2N2Nh0YNio "This video, published by GFBio, 2020, explains the challenges and solutions of dealing with heterogeneous data.")
+!?[This video by GFBio (2020) explains the challenges and solutions of dealing with heterogeneous data.](https://youtu.be/s2N2Nh0YNio "This video by GFBio (2020) explains the challenges and solutions of dealing with heterogeneous data.")
 
 [^1]: Biodiversity Data Journal. (2023). Biodiversity Data Journal. Available at: https://bdj.pensoft.net/. Last accessed 24 November 2023.
 [^2]: Haase, P., Tonkin, J.D., Stoll, S., Burkhard, B., Frenzel, M., Geijzendorffer, I.R., et al. (2018). The next generation of site-based long-term ecological monitoring: Linking essential biodiversity variables and ecosystem integrity. Science of The Total Environment, 613–614, 1376–1384. https://doi.org/10.1016/j.scitotenv.2017.08.111
@@ -948,22 +948,29 @@ Which of these statements are true? Select all correct answers.
 - [[X]] Publishing data in a subject-specific repository will increase data visibility and data citations.
 - [[X]] Publishing data is always free of charge.
 
+What is a repository?
+
+<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
+- [(X)] A digital, curated data center for the storage and reuse of research data
+- [( )] A search engine that makes any research data freely available to everyone without restrictions
+- [( )] A research community that deals with the reutilization of research data
+- [( )] A local copy of all research data collected in a project
+
 Which of the following repositories are generic, and which are subject-specific? Assign the repositories to the two categories.
 
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-| Definition      | Term |
-| ----------- | ----------- |
-| [[ (Generic) | Subject-specific ]]      | [[ Zenodo |(figshare) | data_UMR | RADAR | Dryad | Plant Genomics and Phenomics Research Data Repository (e!DAL-PGP) | PANGAEA | European Nucleotide Archive (ENA) | Movebank | Ocean Biodiversity Information System (OBIS) | FishBase ]]|
-| [[ (Generic) | Subject-specific ]]      | [[ (Zenodo) |figshare | data_UMR | RADAR | Dryad | Plant Genomics and Phenomics Research Data Repository (e!DAL-PGP) | PANGAEA | European Nucleotide Archive (ENA) | Movebank | Ocean Biodiversity Information System (OBIS) | FishBase ]]|
-| [[ (Generic) | Subject-specific ]]      | [[ Zenodo |figshare | (data_UMR) | RADAR | Dryad | Plant Genomics and Phenomics Research Data Repository (e!DAL-PGP) | PANGAEA | European Nucleotide Archive (ENA) | Movebank | Ocean Biodiversity Information System (OBIS) | FishBase ]]|
-| [[ (Generic) | Subject-specific ]]      | [[ Zenodo |figshare | data_UMR | (RADAR) | Dryad | Plant Genomics and Phenomics Research Data Repository (e!DAL-PGP) | PANGAEA | European Nucleotide Archive (ENA) | Movebank | Ocean Biodiversity Information System (OBIS) | FishBase ]]|
-| [[ (Generic) | Subject-specific ]]      | [[ Zenodo | figshare | data_UMR | RADAR | (Dryad) | Plant Genomics and Phenomics Research Data Repository (e!DAL-PGP) | PANGAEA | European Nucleotide Archive (ENA) | Movebank | Ocean Biodiversity Information System (OBIS) | FishBase ]]|
-| [[ Generic | (Subject-specific) ]]      | [[ Zenodo | figshare | data_UMR | RADAR | Dryad | (Plant Genomics and Phenomics Research Data Repository (e!DAL-PGP)) | PANGAEA | European Nucleotide Archive (ENA) | Movebank | Ocean Biodiversity Information System (OBIS) | FishBase ]]|
-| [[ Generic | (Subject-specific) ]]      | [[ Zenodo |figshare| data_UMR | RADAR | Dryad | Plant Genomics and Phenomics Research Data Repository (e!DAL-PGP) | (PANGAEA) | European Nucleotide Archive (ENA) | Movebank | Ocean Biodiversity Information System (OBIS) | FishBase ]]|
-| [[ Generic | (Subject-specific) ]]      | [[ Zenodo | figshare | data_UMR | RADAR | Dryad | Plant Genomics and Phenomics Research Data Repository (e!DAL-PGP) | PANGAEA | (European Nucleotide Archive (ENA)) | Movebank | Ocean Biodiversity Information System (OBIS) | FishBase ]]|
-| [[ Generic | (Subject-specific) ]]      | [[ Zenodo |figshare | data_UMR | RADAR | Dryad | Plant Genomics and Phenomics Research Data Repository (e!DAL-PGP) | PANGAEA | European Nucleotide Archive (ENA) | (Movebank) | Ocean Biodiversity Information System (OBIS) | FishBase ]]|
-| [[ Generic | (Subject-specific) ]]      | [[ Zenodo |figshare | data_UMR | RADAR | Dryad | Plant Genomics and Phenomics Research Data Repository (e!DAL-PGP) | PANGAEA | European Nucleotide Archive (ENA) | Movebank | (Ocean Biodiversity Information System (OBIS)) | FishBase ]]|
-| [[ Generic | (Subject-specific) ]]      | [[ Zenodo | figshare | data_UMR | RADAR | Dryad | Plant Genomics and Phenomics Research Data Repository (e!DAL-PGP) | PANGAEA | European Nucleotide Archive (ENA) | Movebank | Ocean Biodiversity Information System (OBIS) | (FishBase) ]]|
+- [[Generic]    [Subject-specific]]
+- [    (X)             ( )      ]  Zenodo  
+- [    (X)             ( )      ]  figshare  
+- [    (X)             ( )      ]  data_UMR  
+- [    (X)             ( )      ]  RADAR  
+- [    (X)             ( )      ]  Dryad
+- [    (X)             ( )      ]  Plant Genomics and Phenomics Research Data Repository (e!DAL-PGP)
+- [    ( )             (X)      ]  PANGAEA
+- [    ( )             (X)      ]  European Nucleotide Archive (ENA)
+- [    ( )             (X)      ]  Movebank
+- [    ( )             (X)      ]  Ocean Biodiversity Information System (OBIS)
+- [    ( )             (X)      ]  FishBase
 
 
 # **7. Sharing Data**
