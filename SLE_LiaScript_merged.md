@@ -1173,7 +1173,7 @@ These data are not typically protected by copyright. By using tools like [CC0](h
 
 In a scientific context, the combination of data from different sources is a common and important part of research. Making data interoperable is supposed to facilitate re-use and re-combination. However, not all CC licences are compatible (Figure 8). Therefore, it is important to choose an open licence like CC0 or CC BY 4.0.
 
-Figure 8. [CC licence compatibility chart](https://wiki.creativecommons.org/wiki/File:CC_License_Compatibility_Chart.png) by Kennisland, [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+![Figure 8. CC licence compatibility chart by Kennisland, CC0](https://wiki.creativecommons.org/images/5/5b/CC_License_Compatibility_Chart.png "Figure 8. CC licence compatibility chart by Kennisland, [CC0](https://creativecommons.org/publicdomain/zero/1.0/).")
 
 [^1]: HeFDI-Hessische Forschungsdateninfrastrukturen. (2021). Rechtliche Rahmenbedingungen des Forschungsdatenmanagements - Teil 1: Urheber- und Leistungsschutzrechte an Forschungsdaten; Teil 2: Entscheidungsbefugnis über den Umgang mit Forschungsdaten; Teil 3: Nutzungsrechtseinräumung an Forschungsdaten, Teil 7: Veröffentlichung und Lizenzierung von Forschungsdaten, Teil 8: (Nach-)Nutzung fremder Forschungsdaten, Teil 9: Haftungen bei Rechtsverletzungen im Rahmen des
 [^2]: Langner, P., Krippes, C. & Dworschak, N. (2022). Rechtliche Rahmenbedingungen des Forschungsdatenmanagements - Teil 10: Datenschutzrechtliche Vorgaben bei personenbezogenen Daten, Teil 11: Rechtmäßigkeit der Datenverarbeitung personenbezogener Daten, Teil 12: Haftungsfragen bei personenbezogenen Daten. https://www.doi.org/10.5281/ZENODO.6357219 .
