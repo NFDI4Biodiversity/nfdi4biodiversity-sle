@@ -14,7 +14,8 @@ version: 1.2.0
 
 # NFDI4Biodiversity Self-Study Unit - Research Data Management for Biodiversity Data
 
-Creators 
+Creators:
+
 Marlen Fischer, Juliane Röder, Johannes Signer, Daniel Tschink, Tanja Weibulat, Ortrun Brand
 
 For more details about NFDI4Biodiversity and research data management for biodiversity data, visit [www.nfdi4biodiversity.org](https://www.nfdi4biodiversity.org).
@@ -690,39 +691,39 @@ How should metadata ideally be stored?
 
 What is the correct order of a species name?
 
-[[ (Ptilocercus) | lowii | J. E. Gray | 1848 ]][[ Ptilocercus | (lowii) | J. E. Gray | 1848 ]][[ Ptilocercus | lowii | (J. E. Gray) | 1848 ]][[ Ptilocercus | lowii | J. E. Gray | (1848) ]] 
+[[ (_Ptilocercus_) | _lowii_ | J. E. Gray | 1848 ]][[ _Ptilocercus_ | (_lowii_) | J. E. Gray | 1848 ]][[ _Ptilocercus_ | _lowii_ | (J. E. Gray) | 1848 ]][[ _Ptilocercus_ | _lowii_ | J. E. Gray | (1848) ]] 
 ***
 Correct! Species names consist of Genus, epithet, authority, and year of publication of the species description.
 
-The pen-tailed treeshrew (Ptilocercus lowii J. E. Gray, 1848) is a treeshrew of the family Ptilocercidae native to southern Thailand, the Malay Peninsula, Borneo, and some Indonesian islands. In a study of wild pen-tailed treeshrews, the animals frequently consumed large amounts of fermented nectar, equivalent of 10–12 glasses of wine adjusted to body weight with an alcohol content up to 3.8%. The pen-tailed treeshrews did not show any signs of intoxication, probably because they use a different pathway to metabolize alcohol compared to humans.
+The pen-tailed treeshrew (_Ptilocercus lowii_ J. E. Gray, 1848) is a treeshrew of the family Ptilocercidae native to southern Thailand, the Malay Peninsula, Borneo, and some Indonesian islands. In a study of wild pen-tailed treeshrews, the animals frequently consumed large amounts of fermented nectar, equivalent of 10–12 glasses of wine adjusted to body weight with an alcohol content up to 3.8%. The pen-tailed treeshrews did not show any signs of intoxication, probably because they use a different pathway to metabolize alcohol compared to humans.
 ***
 
 What is the correct order of a species name?
 
-[[ (Arthrobotrys) | oligospora | Fresen | 1850 ]] [[ Arthrobotrys | (oligospora) | Fresen | 1850 ]] [[ Arthrobotrys | oligospora | (Fresen) | 1850 ]] [[ Arthrobotrys | oligospora | Fresen | (1850) ]]
+[[ (_Arthrobotrys_) | _oligospora_ | Fresen | 1850 ]] [[ _Arthrobotrys_ | (_oligospora_) | Fresen | 1850 ]] [[ _Arthrobotrys_ | _oligospora_ | (Fresen) | 1850 ]] [[ _Arthrobotrys_ | _oligospora_ | Fresen | (1850) ]]
 ***
 Correct! Species names consist of Genus, epithet, authority, and year of publication of the species description.
 
- Arthrobotrys oligospora Fresen. (1850) is a nematode-capturing fungus. In low nitrogen environments, it grows sticky nets from hyphae and attracts nematodes with semiochemicals1 that nematodes use to communicate with each other. Small nematodes can be caught with a single loop. The more the nematodes struggle to escape, the more they are glued to the net. Finally, the nematodes are paralysed and digested by hyphae growing into their bodies.
+_Arthrobotrys oligospora_ Fresen. (1850) is a nematode-capturing fungus. In low nitrogen environments, it grows sticky nets from hyphae and attracts nematodes with semiochemicals1 that nematodes use to communicate with each other. Small nematodes can be caught with a single loop. The more the nematodes struggle to escape, the more they are glued to the net. Finally, the nematodes are paralysed and digested by hyphae growing into their bodies.
  
 ***
 
 What is the correct order of a species name?
 
-[[ (Cymothoa) | exigua | Schiødte & Meinert | 1884 ]] [[ Cymothoa | (exigua) | Schiødte & Meinert | 1884 ]][[ Cymothoa | exigua | (Schiødte & Meinert) | 1884 ]] [[ Cymothoa | exigua | Schiødte & Meinert | (1884) ]]
+[[ (_Cymothoa_) | _exigua_ | Schiødte & Meinert | 1884 ]] [[ _Cymothoa_ | (_exigua_) | Schiødte & Meinert | 1884 ]][[ _Cymothoa_ | _exigua_ | (Schiødte & Meinert) | 1884 ]] [[ _Cymothoa_ | _exigua_ | Schiødte & Meinert | (1884) ]]
 ***
 Correct! Species names consist of Genus, epithet, authority, and year of publication of the species description.
 
-Cymothoa exigua (Schiødte & Meinert, 1884), the tongue-eating louse, is a parasitic isopod of the family Cymothoidae. Females attach to the tongue and sever the blood vessels. When the tongue falls off, the female attaches itself to the remaining stub of tongue and the parasite itself effectively serves as the fish's new "tongue". The parasite feeds on the host's blood and mucus. Juveniles likely first attach to the gills of a fish and become males. As they mature, they become females, with mating likely occurring on the gills.
+_Cymothoa exigua_ (Schiødte & Meinert, 1884), the tongue-eating louse, is a parasitic isopod of the family Cymothoidae. Females attach to the tongue and sever the blood vessels. When the tongue falls off, the female attaches itself to the remaining stub of tongue and the parasite itself effectively serves as the fish's new "tongue". The parasite feeds on the host's blood and mucus. Juveniles likely first attach to the gills of a fish and become males. As they mature, they become females, with mating likely occurring on the gills.
 ***
 
 What is the correct order of a species name?
 
-[[ (Ailanthus) | altissima | Mill. | Swingle ]][[ Ailanthus | (altissima) | Mill. | Swingle ]][[ Ailanthus | altissima | (Mill.) | Swingle ]][[ Ailanthus | altissima | Mill. | (Swingle) ]]
+[[ (_Ailanthus_) | _altissima_ | Mill. | Swingle ]][[ _Ailanthus_ | (_altissima_) | Mill. | Swingle ]][[ _Ailanthus_ | _altissima_ | (Mill.) | Swingle ]][[ _Ailanthus_ | _altissima_ | Mill. | (Swingle) ]]
 ***
 Correct! Species names of plants consist of Genus, epithet, and authority.
 
-Ailanthus altissima (Mill.) Swingle is a deciduous tree native to northeast and central China, and Taiwan. The tree grows rapidly and is very tolerant of pollution. It is considered to be one of the worst invasive species in Europe and North America. It spreads aggressively both by seeds and vegetatively by very long root sprouts, often "tunneling" even below wide streets and crossroads. This "tree of heaven" inhibits the growth of other plants in their sourroundings. Oh, and the male flowers have a very distinctive smell... 
+_Ailanthus altissima_ (Mill.) Swingle is a deciduous tree native to northeast and central China, and Taiwan. The tree grows rapidly and is very tolerant of pollution. It is considered to be one of the worst invasive species in Europe and North America. It spreads aggressively both by seeds and vegetatively by very long root sprouts, often "tunneling" even below wide streets and crossroads. This "tree of heaven" inhibits the growth of other plants in their sourroundings. Oh, and the male flowers have a very distinctive smell... 
 ***
 
 # **5. Analysing Data**
