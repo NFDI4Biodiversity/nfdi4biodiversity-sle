@@ -6,9 +6,9 @@ narrator: English Female
 
 author: Marlen Fischer, Juliane Röder, Johannes Signer, Daniel Tschink, Tanja Weibulat, Ortrun Brand
 
-comment: NFDI4Biodiversity Self-Study Unit - Research Data Management for Biodiversity Data
+comment: **NFDI4Biodiversity Self-Study Unit - Research Data Management for Biodiversity Data**
 
-version: 1.0
+version: 1.2.0
 
 -->
 
@@ -230,7 +230,7 @@ A DMP will make your project more efficient, simplify your own reuse of the data
 Overall, the DMP will save you time later on in the publishing process and prevents data loss - the main winner of creating a DMP is you! If you consider in advance how the data should be processed, stored, and filed, you probably won't have to reorganise your data. If, for example, it is already clear during data collection how the data is to be archived later, it can be formatted and stored right away in such a way that the transfer to the later archive is as simple as possible. Some domain-specific data centers strongly encourage you to contact them early on in a project to determine concrete requirements for taking on your data. There is a strong benefit of going towards FAIRness with a DMP: A DMP will allow you to gather in one document how to deal with the heterogeneous biodiversity data from collections, research, etc. and will serve as a model for understanding this information and disseminating it.
 
 [^1]: ELIXIR converge. (2023b). Data Life Cycle - Planning. RDMkit. Available at: https://rdmkit.elixir-europe.org/planning. Last accessed 4 October 2022.
-[^2]: forschungsdaten.info. (2023b). Der Daten­manage­ment­plan. Eine Wegbeschreibung für Daten. Forschungsdaten und Forschungsdatenmanagement. Available at: https://forschungsdaten.info/themen/informieren-und-planen/datenmanagementplan/. Last accessed 15 September 2022.
+[^2]: forschungsdaten.info. (2023b). Der Datenmanagementplan. Eine Wegbeschreibung für Daten. Forschungsdaten und Forschungsdatenmanagement. Available at: https://forschungsdaten.info/themen/informieren-und-planen/datenmanagementplan/. Last accessed 15 September 2022.
 
 ## 3.4. Tools for data management
 
@@ -690,23 +690,40 @@ How should metadata ideally be stored?
 
 What is the correct order of a species name?
 
-<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-[[ (Ptilocercus) | lowii | J. E. Gray | 1848 ]][[ Ptilocercus | lowii | J. E. Gray | (1848) ]] [[ Ptilocercus | lowii | (J. E. Gray) | 1848 ]] [[ Ptilocercus | (lowii) | J. E. Gray | 1848 ]]
+[[ (Ptilocercus) | lowii | J. E. Gray | 1848 ]][[ Ptilocercus | (lowii) | J. E. Gray | 1848 ]][[ Ptilocercus | lowii | (J. E. Gray) | 1848 ]][[ Ptilocercus | lowii | J. E. Gray | (1848) ]] 
+***
+Correct! Species names consist of Genus, epithet, authority, and year of publication of the species description.
+
+The pen-tailed treeshrew (Ptilocercus lowii J. E. Gray, 1848) is a treeshrew of the family Ptilocercidae native to southern Thailand, the Malay Peninsula, Borneo, and some Indonesian islands. In a study of wild pen-tailed treeshrews, the animals frequently consumed large amounts of fermented nectar, equivalent of 10–12 glasses of wine adjusted to body weight with an alcohol content up to 3.8%. The pen-tailed treeshrews did not show any signs of intoxication, probably because they use a different pathway to metabolize alcohol compared to humans.
+***
 
 What is the correct order of a species name?
 
-<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
 [[ (Arthrobotrys) | oligospora | Fresen | 1850 ]] [[ Arthrobotrys | (oligospora) | Fresen | 1850 ]] [[ Arthrobotrys | oligospora | (Fresen) | 1850 ]] [[ Arthrobotrys | oligospora | Fresen | (1850) ]]
+***
+Correct! Species names consist of Genus, epithet, authority, and year of publication of the species description.
+
+ Arthrobotrys oligospora Fresen. (1850) is a nematode-capturing fungus. In low nitrogen environments, it grows sticky nets from hyphae and attracts nematodes with semiochemicals1 that nematodes use to communicate with each other. Small nematodes can be caught with a single loop. The more the nematodes struggle to escape, the more they are glued to the net. Finally, the nematodes are paralysed and digested by hyphae growing into their bodies.
+ 
+***
 
 What is the correct order of a species name?
 
-<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
 [[ (Cymothoa) | exigua | Schiødte & Meinert | 1884 ]] [[ Cymothoa | (exigua) | Schiødte & Meinert | 1884 ]][[ Cymothoa | exigua | (Schiødte & Meinert) | 1884 ]] [[ Cymothoa | exigua | Schiødte & Meinert | (1884) ]]
+***
+Correct! Species names consist of Genus, epithet, authority, and year of publication of the species description.
+
+Cymothoa exigua (Schiødte & Meinert, 1884), the tongue-eating louse, is a parasitic isopod of the family Cymothoidae. Females attach to the tongue and sever the blood vessels. When the tongue falls off, the female attaches itself to the remaining stub of tongue and the parasite itself effectively serves as the fish's new "tongue". The parasite feeds on the host's blood and mucus. Juveniles likely first attach to the gills of a fish and become males. As they mature, they become females, with mating likely occurring on the gills.
+***
 
 What is the correct order of a species name?
 
-<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-[[ Ailanthus | (altissima) | Mill. | Swingle ]][[ Ailanthus | altissima | Mill. | (Swingle) ]][[ Ailanthus | altissima | (Mill.) | Swingle ]][[ (Ailanthus) | altissima | Mill. | Swingle ]]
+[[ (Ailanthus) | altissima | Mill. | Swingle ]][[ Ailanthus | (altissima) | Mill. | Swingle ]][[ Ailanthus | altissima | (Mill.) | Swingle ]][[ Ailanthus | altissima | Mill. | (Swingle) ]]
+***
+Correct! Species names of plants consist of Genus, epithet, and authority.
+
+Ailanthus altissima (Mill.) Swingle is a deciduous tree native to northeast and central China, and Taiwan. The tree grows rapidly and is very tolerant of pollution. It is considered to be one of the worst invasive species in Europe and North America. It spreads aggressively both by seeds and vegetatively by very long root sprouts, often "tunneling" even below wide streets and crossroads. This "tree of heaven" inhibits the growth of other plants in their sourroundings. Oh, and the male flowers have a very distinctive smell... 
+***
 
 # **5. Analysing Data**
 
@@ -938,7 +955,7 @@ Check [re3data.org](https://www.re3data.org/) and further resources listed in [T
 
 Data centers, in contrast to repositories, are well-equipped to ensure long-term preservation of data, often adhering to domain-specific standards and best practices for data management and archiving. They are typically connected to data portals that systematically harvest and disseminate metadata, enhancing data discoverability and accessibility on a broader scale. This structured approach and their commitment to domain-specific standards make data centers a reliable choice for researchers seeking robust and standardised long-term data preservation solutions. NFDI4Biodiversity collaborates with a network of specialised data centers, the GFBio Data Centers ([Table 5](#Table-5.-List-of-GFBio-Data-Centers)), each with distinct expertise. These centres include those focused on nucleotide, plant, and environmental data such as e!DAL-PGP, ENA, and PANGAEA, as well as data centers associated with natural science collections like the Botanical Garden and Botanical Museum Berlin (BGBM), DSMZ-German Collection of Microorganisms and Cell Cultures, Leibniz-Institut zur Analyse des Biodiversitätswandels (LIB), Museum für Naturkunde Berlin (MfN), Senckenberg, Staatliches Museum für Naturkunde Stuttgart (SMNS) and Staatliche Naturwissenschaftliche Sammlungen Bayerns (SNSB). These centres can manage a wide range of data types crucial for biodiversity research, from occurrence data and environmental variables to molecular sequences, multimedia files, experimental measurements, and even geospatial data like orthophotos and digital surface models, offering comprehensive support for biodiversity-related research endeavours. The method for data submission varies depending on the data center you choose. You have the option to submit data directly or utilise tools like Diversity Workbench. Additionally, the [GFBio Data Submission Service](https://submissions.gfbio.org/) offers professional assistance, particularly beneficial if you are dealing with heterogeneous datasets or are uncertain about the most suitable data center for your specific requirements. Regardless of where you end up publishing your data, always make sure to include a descriptive "metadata file" in addition to the data, describing the data and setting out the context of the data collection.
 
-[^1]: forschungsdaten.info. (2023a). Daten­schutz­recht. Schutz von personenbezogenen Forschungsdaten. forschungsdaten.info. Available at: https://forschungsdaten.info/themen/rechte-und-pflichten/datenschutzrecht/. Last accessed 28 September 2023
+[^1]: forschungsdaten.info. (2023a). Datenschutzrecht. Schutz von personenbezogenen Forschungsdaten. forschungsdaten.info. Available at: https://forschungsdaten.info/themen/rechte-und-pflichten/datenschutzrecht/. Last accessed 28 September 2023
 [^2]: DFG. (2022). Guidelines for Safeguarding Good Research Practice. Code of Conduct. https://doi.org/10.5281/zenodo.6472827
 
 ## 6.4. Persistent identifiers
@@ -1180,7 +1197,7 @@ The background is divided into sections of light green, cream, and grey, each se
 
 [^1]: HeFDI-Hessische Forschungsdateninfrastrukturen. (2021). Rechtliche Rahmenbedingungen des Forschungsdatenmanagements - Teil 1: Urheber- und Leistungsschutzrechte an Forschungsdaten; Teil 2: Entscheidungsbefugnis über den Umgang mit Forschungsdaten; Teil 3: Nutzungsrechtseinräumung an Forschungsdaten, Teil 7: Veröffentlichung und Lizenzierung von Forschungsdaten, Teil 8: (Nach-)Nutzung fremder Forschungsdaten, Teil 9: Haftungen bei Rechtsverletzungen im Rahmen des
 [^2]: Langner, P., Krippes, C. & Dworschak, N. (2022). Rechtliche Rahmenbedingungen des Forschungsdatenmanagements - Teil 10: Datenschutzrechtliche Vorgaben bei personenbezogenen Daten, Teil 11: Rechtmäßigkeit der Datenverarbeitung personenbezogener Daten, Teil 12: Haftungsfragen bei personenbezogenen Daten. https://www.doi.org/10.5281/ZENODO.6357219 .
-[^3]: Klimpel, P. (2012). Freies Wissen dank Creative-Commons-Lizenzen. Folgen, Risiken und Nebenwirkungen der Bedingung »nicht-kommerziell – NC«.
+[^3]: Klimpel, P. (2012). Freies Wissen dank Creative-Commons-Lizenzen. Folgen, Risiken und Nebenwirkungen der Bedinguung »nicht-kommerziell – NC«.
 [^4]: Kreutzer, T. & Deutsche UNESCO-Kommission (Eds.). (2014). Open Content: a practical guide to using Creative Commons Licences. German Comm. for UNESCO, Bonn.
 
 #### 7.2.5.2 Database material
@@ -1345,7 +1362,7 @@ Why are open and documented data formats preferred for long-term data storage? C
 * HeFDI-Hessische Forschungsdateninfrastrukturen. (2021). Rechtliche Rahmenbedingungen des Forschungsdatenmanagements - Teil 1: Urheber- und Leistungsschutzrechte an Forschungsdaten; Teil 2: Entscheidungsbefugnis über den Umgang mit Forschungsdaten; Teil 3: Nutzungsrechtseinräumung an Forschungsdaten, Teil 7: Veröffentlichung und Lizenzierung von Forschungsdaten, Teil 8: (Nach-)Nutzung fremder Forschungsdaten, Teil 9: Haftungen bei Rechtsverletzungen im Rahmen des Forschungsdatenmanagements. https://doi.org/10.5281/zenodo.3957678
 * IPBES. (2016). Summary for policymakers of the assessment report of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services on pollinators, pollination and food production. Zenodo. https://doi.org/10.5281/zenodo.2616458
 * IPBES. (2019). Summary for policymakers of the global assessment report on biodiversity and ecosystem services. Zenodo. https://doi.org/10.5281/zenodo.3553458
-* Klimpel, P. (2012). Freies Wissen dank Creative-Commons-Lizenzen. Folgen, Risiken und Nebenwirkungen der Bedingung »nicht-kommerziell – NC«. https://irights.info/wp-content/uploads/userfiles/CC-NC_Leitfaden_web.pdf
+* Klimpel, P. (2012). Freies Wissen dank Creative-Commons-Lizenzen. Folgen, Risiken und Nebenwirkungen der Bedingung »nicht-kommerziell – NC«. https://irights.info/wp-content/uploads/userfiles/CC-NC_Leitfaden_web.pdf
 * Kreutzer, T. & Deutsche UNESCO-Kommission (Eds.). (2014). Open Content: a practical guide to using Creative Commons Licences. German Comm. for UNESCO, Bonn.
 * Kultusministerkonferenz. (2020). Zugang – Transparenz – Kooperation. Leitlinien einer „3 Wege-Strategie“ für die Erfassung und digitale Veröffentlichung von Sammlungsgut aus kolonialen Kontexten in Deutschland. https://www.kmk.org/fileadmin/Dateien/pdf/PresseUndAktuelles/2020/201014_Kontaktstelle-Sammlungsgut_Konzept_3-Wege-Strategie.pdf
 * Lang, K., Assmann, C., Neute, N., Gerlach, R. & Rex, J. (2023). FAIR Assessment Tools Overview. https://zenodo.org/record/7022037
