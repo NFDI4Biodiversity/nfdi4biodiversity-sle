@@ -691,6 +691,7 @@ How should metadata ideally be stored?
 
 What is the correct order of a species name?
 
+<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
 [[ (_Ptilocercus_) | _lowii_ | J. E. Gray | 1848 ]][[ _Ptilocercus_ | (_lowii_) | J. E. Gray | 1848 ]][[ _Ptilocercus_ | _lowii_ | (J. E. Gray) | 1848 ]][[ _Ptilocercus_ | _lowii_ | J. E. Gray | (1848) ]] 
 ***
 Correct! Species names consist of Genus, epithet, authority, and year of publication of the species description.
@@ -700,6 +701,7 @@ The pen-tailed treeshrew (_Ptilocercus lowii_ J. E. Gray, 1848) is a treeshrew o
 
 What is the correct order of a species name?
 
+<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
 [[ (_Arthrobotrys_) | _oligospora_ | Fresen | 1850 ]] [[ _Arthrobotrys_ | (_oligospora_) | Fresen | 1850 ]] [[ _Arthrobotrys_ | _oligospora_ | (Fresen) | 1850 ]] [[ _Arthrobotrys_ | _oligospora_ | Fresen | (1850) ]]
 ***
 Correct! Species names consist of Genus, epithet, authority, and year of publication of the species description.
@@ -710,6 +712,7 @@ _Arthrobotrys oligospora_ Fresen. (1850) is a nematode-capturing fungus. In low 
 
 What is the correct order of a species name?
 
+<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
 [[ (_Cymothoa_) | _exigua_ | Schiødte & Meinert | 1884 ]] [[ _Cymothoa_ | (_exigua_) | Schiødte & Meinert | 1884 ]][[ _Cymothoa_ | _exigua_ | (Schiødte & Meinert) | 1884 ]] [[ _Cymothoa_ | _exigua_ | Schiødte & Meinert | (1884) ]]
 ***
 Correct! Species names consist of Genus, epithet, authority, and year of publication of the species description.
@@ -719,6 +722,7 @@ _Cymothoa exigua_ (Schiødte & Meinert, 1884), the tongue-eating louse, is a par
 
 What is the correct order of a species name?
 
+<!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
 [[ (_Ailanthus_) | _altissima_ | Mill. | Swingle ]][[ _Ailanthus_ | (_altissima_) | Mill. | Swingle ]][[ _Ailanthus_ | _altissima_ | (Mill.) | Swingle ]][[ _Ailanthus_ | _altissima_ | Mill. | (Swingle) ]]
 ***
 Correct! Species names of plants consist of Genus, epithet, and authority.
