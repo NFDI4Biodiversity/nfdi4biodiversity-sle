@@ -1327,8 +1327,8 @@ Why are open and documented data formats preferred for long-term data storage? C
 * ELIXIR converge. (2023d). Data Life Cycle - Sharing. RDMkit. Available at: https://rdmkit.elixir-europe.org/sharing. Last accessed 2 October 2023.
 * ELIXIR converge. (2023e). Data management plan. RDMkit. Available at: https://rdmkit.elixir-europe.org/data_management_plan. Last accessed 24 November 2023.
 * ELIXIR converge. (2023f). Documentation and metadata. RDMkit. Available at: https://rdmkit.elixir-europe.org/metadata_management. Last accessed 2 October 2023.
-* forschungsdaten.info. (2023a). Daten­schutz­recht. Schutz von personenbezogenen Forschungsdaten. forschungsdaten.info. Available at: https://forschungsdaten.info/themen/rechte-und-pflichten/datenschutzrecht/. Last accessed 28 September 2023.
-* forschungsdaten.info. (2023b). Der Daten­manage­ment­plan. Eine Wegbeschreibung für Daten. Forschungsdaten und Forschungsdatenmanagement. Available at: https://forschungsdaten.info/themen/informieren-und-planen/datenmanagementplan/. Last accessed 15 September 2022.
+* forschungsdaten.info. (2023a). Datenschutzrecht. Schutz von personenbezogenen Forschungsdaten. forschungsdaten.info. Available at: https://forschungsdaten.info/themen/rechte-und-pflichten/datenschutzrecht/. Last accessed 28 September 2023.
+* forschungsdaten.info. (2023b). Der Datenmanagementplan. Eine Wegbeschreibung für Daten. Forschungsdaten und Forschungsdatenmanagement. Available at: https://forschungsdaten.info/themen/informieren-und-planen/datenmanagementplan/. Last accessed 15 September 2022.
 * forschungsdaten.info. (2023c). FAIRe Daten. Wie die FAIR-Prinzipien umgesetzt werden können. Available at: https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/faire-daten/. Last accessed 27 November 2023.
 * GFBio. (2022). How to create a data management plan (DMP)? gfbio. Available at: https://www.gfbio.org/how-to-create-a-dmp. Last accessed 15 September 2022.
 * GFBio. (2023a). GFBio DMPT. GFBio. Available at: https://www.gfbio.org/plan/. Last accessed 27 November 2023.
