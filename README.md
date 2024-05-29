@@ -540,7 +540,7 @@ These concepts illuminate the diverse ways species are defined and have signific
 
 ##### 4.4.1.2. Species names
 
-A species name is a hypothesis about the evolutionary relationships and distinctive characteristics between groups of organisms. The binomial nomenclature, i.e. the scientific name of a species, carries a lot of information, provided it is reported in full: Genus epithet Authority Year, e.g. Canis lupus Linnaeus, 1758 [(ASM Mammal Diversity Database #1005943) fetched 2023-10-09. Mammal Diversity Database. 2023](https://www.mammaldiversity.org/explore.html#genus=Dipodomys&species=deserti&id=1005943).
+A species name is a hypothesis about the evolutionary relationships and distinctive characteristics between groups of organisms. The binomial nomenclature, i.e. the scientific name of a species, carries a lot of information, provided it is reported in full: Genus epithet Authority Year, e.g. _Canis lupus_ Linnaeus, 1758 [(ASM Mammal Diversity Database #1005943) fetched 2023-10-09. Mammal Diversity Database. 2023](https://www.mammaldiversity.org/explore.html#genus=Dipodomys&species=deserti&id=1005943).
 
 The authority and year point to the publication of the respective species description. This publication reports a distinct set of morphological, (phylo-)genetic, geographical and/or behavioural characteristics to define a new species. Furthermore, it specifies the type, i.e. the actual specimen or group of specimens that was used to describe the new species. The type specimens are used as physical reference and usually incorporated into institutional scientific collections to facilitate long-term preservation, curation and public access. There are institutions that govern the process of naming species such as [International Code of Nomenclature for algae, fungi, and plants (ICN)](https://www.iapt-taxon.org/nomen/main.php) or [International Code of Zoological Nomenclature (ICZN](https://www.iczn.org/)), but these institutions do not regulate what constitutes a species (see species concepts).
 
@@ -560,48 +560,48 @@ In the following there are common pitfalls:
         {{1}}
 **Variable spelling of species name**
 
--   *Data set 1*: Carabus arvensis Herbst 1784 (valid name)
+-   *Data set 1*: _Carabus arvensis_ Herbst 1784 (valid name)
 
--   *Data set 2*: Carabus arcensis Herbst 1784 (Synonym)
+-   *Data set 2*: _Carabus arcensis_ Herbst 1784 (Synonym)
 
--   *Data set 3*: Carabus aruensis Herbst 1784 (misspelt epithet)
+-   *Data set 3*: _Carabus aruensis_ Herbst 1784 (misspelt epithet)
 
         {{2}}
 **Variable spelling of authority**
 
--   *Data set 1*: Carabus arvensis Herbst 1784
+-   *Data set 1*: _Carabus arvensis_ Herbst 1784
 
--   *Data set 2*: Carabus arvensis Hbst., 1784 (official abbreviation of authority)
+-   *Data set 2*: _Carabus arvensis_ Hbst., 1784 (official abbreviation of authority)
 
--   *Data set 3*: Carabus arvensis Hrst. 1784 (misspelt authority)
+-   *Data set 3*: _Carabus arvensis_ Hrst. 1784 (misspelt abbreviation of authority)
 
         {{3}}
 **Missing authority**
 
--   *Data set 1*: Glocianus punctiger
+-   *Data set 1*: _Glocianus punctiger_
 
-    -   Meaning [Glocianus punctiger (C.R.Sahlberg, 1835)](https://www.gbif.org/species/11356251)
+    -   Meaning [_Glocianus punctiger_ (C.R.Sahlberg, 1835)](https://www.gbif.org/species/11356251)
 
-    -   Synonym of [Rhynchaenus punctiger Sahlb., 1834-39](https://www.gbif.org/species/1187423)
+    -   Synonym of [_Rhynchaenus punctiger_ Sahlb., 1834-39](https://www.gbif.org/species/1187423)
 
--   *Data set 2*: Glocianus punctiger
+-   *Data set 2*: _Glocianus punctiger_
 
-    -   Meaning [Glocianus punctiger (Gyllenhal, 1837)](https://www.gbif.org/species/4464480)
+    -   Meaning [_Glocianus punctiger_ (Gyllenhal, 1837)](https://www.gbif.org/species/4464480)
 
-    -   Synonym of [Ceuthorhynchus punctiger Gyllenhal, 1837](https://www.gbif.org/species/1178810)
+    -   Synonym of [_Ceuthorhynchus punctiger_ Gyllenhal, 1837](https://www.gbif.org/species/1178810)
 
         {{4}}
 **Mismatch of ranks**
 
--   *Data set 1*: Carabus arvensis Herbst 1784
+-   *Data set 1*: _Carabus arvensis_ Herbst 1784
 
 -   *Data set 2* (Red List Germany 2009 ff., red-list status was evaluated for three subspecies):
 
-  -   [Carabus arvensis arvensis Herbst, 1784](https://www.rote-liste-zentrum.de/de/Detailseite.html?species_uuid=b7ba04d4-dfa3-47ca-8c27-33ca111ba604) - Vorwarnliste (similar to IUCN Red List Near threatened (NT), but different methodology)
+  -   [_Carabus arvensis arvensis_ Herbst, 1784](https://www.rote-liste-zentrum.de/de/Detailseite.html?species_uuid=b7ba04d4-dfa3-47ca-8c27-33ca111ba604) - Vorwarnliste (similar to IUCN Red List Near threatened (NT), but different methodology)
 
-  -   [Carabus arvensis noricus Sokolar, 1910](https://www.rote-liste-zentrum.de/de/Detailseite.html?species_uuid=87484ab2-2c44-4420-9417-5333f3333b4a) - Ungefährdet (similar to IUCN Red List Least concern (LC), but different methodology)
+  -   [_Carabus arvensis noricus_ Sokolar, 1910](https://www.rote-liste-zentrum.de/de/Detailseite.html?species_uuid=87484ab2-2c44-4420-9417-5333f3333b4a) - Ungefährdet (similar to IUCN Red List Least concern (LC), but different methodology)
 
-  -   [Carabus arvensis sylvaticus Dejean, 1826](https://www.rote-liste-zentrum.de/de/Detailseite.html?species_uuid=3a2efe3d-563d-431b-9457-8d4cf5e44b89) - Gefährdet (similar to IUCN Red List Endangered (ED), but different methodology)
+  -   [_Carabus arvensis sylvaticus_ Dejean, 1826](https://www.rote-liste-zentrum.de/de/Detailseite.html?species_uuid=3a2efe3d-563d-431b-9457-8d4cf5e44b89) - Gefährdet (similar to IUCN Red List Endangered (ED), but different methodology)
 
 -   *Data set 3*: Carabus sp.
 
@@ -692,7 +692,7 @@ How should metadata ideally be stored?
 What is the correct order of a species name?
 
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-[[ (_Ptilocercus_) | _lowii_ | J. E. Gray | 1848 ]][[ _Ptilocercus_ | (_lowii_) | J. E. Gray | 1848 ]][[ _Ptilocercus_ | _lowii_ | (J. E. Gray) | 1848 ]][[ _Ptilocercus_ | _lowii_ | J. E. Gray | (1848) ]] 
+[[_lowii_ | J. E. Gray | (_Ptilocercus_) | 1848 ]][[ 1848 | _Ptilocercus_ | J. E. Gray | (_lowii_) ]][[ 1848  | (J. E. Gray) | _lowii_| _Ptilocercus_ ]][[ J. E. Gray | _Ptilocercus_ | _lowii_ | (1848) ]] 
 ***
 Correct! Species names consist of Genus, epithet, authority, and year of publication of the species description.
 
