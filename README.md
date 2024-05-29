@@ -603,7 +603,7 @@ In the following there are common pitfalls:
 
   -   [_Carabus arvensis sylvaticus_ Dejean, 1826](https://www.rote-liste-zentrum.de/de/Detailseite.html?species_uuid=3a2efe3d-563d-431b-9457-8d4cf5e44b89) - Gefährdet (similar to IUCN Red List Endangered (ED), but different methodology)
 
--   *Data set 3*: Carabus sp.
+-   *Data set 3*: _Carabus_ sp.
 
 -   *Data set 4*: Carabidae sp. 4
 
@@ -702,7 +702,7 @@ The pen-tailed treeshrew (_Ptilocercus lowii_ J. E. Gray, 1848) is a treeshrew o
 What is the correct order of a species name?
 
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-[[ (_Arthrobotrys_) | _oligospora_ | Fresen | 1850 ]] [[ _Arthrobotrys_ | (_oligospora_) | Fresen | 1850 ]] [[ _Arthrobotrys_ | _oligospora_ | (Fresen) | 1850 ]] [[ _Arthrobotrys_ | _oligospora_ | Fresen | (1850) ]]
+[[ Fresen | _oligospora_ | (_Arthrobotrys_) | 1850 ]] [[ _Arthrobotrys_ | 1850 | Fresen | (_oligospora_) ]] [[ 1850 | _oligospora_ |_Arthrobotrys_ | (Fresen) |]] [[ _Arthrobotrys_ | (1850) | Fresen | _oligospora_ ]]
 ***
 Correct! Species names consist of Genus, epithet, authority, and year of publication of the species description.
 
