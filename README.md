@@ -435,9 +435,7 @@ Surrounding these question hexagons are larger blue segments with more specific 
 "Why" points to "Research question and hypothesis."
 "With what" points to "Devices and measurement technology used," "Documentation of the procedure," and "Settings of devices and techniques used."
 Each of these blue segments also contains smaller text detailing various aspects of research data management, such as rights of use, citation guidelines, possible uses of data, co-authors, and parameters.
-The overall diagram serves as a visual guide to the considerations and components of managing and understanding research data, emphasizing the interconnectedness of these elements.](images/figure4_metadata_categories_FOKUSproject.png)
-
-"Figure 4. Different categories of metadata to describe the actual research data. Source: [FOKUS](https://www.uni-marburg.de/en/hefdi/about-hefdi/projects/fokus), by Henrike Becker, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), English translation by HeFDI."
+The overall diagram serves as a visual guide to the considerations and components of managing and understanding research data, emphasizing the interconnectedness of these elements.](images/figure4_metadata_categories_FOKUSproject.png "Figure 4. Different categories of metadata to describe the actual research data. Source: [FOKUS](https://www.uni-marburg.de/en/hefdi/about-hefdi/projects/fokus), by Henrike Becker, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), English translation by HeFDI.")
 
 #### 4.3.2.4. Metadata standards
 
