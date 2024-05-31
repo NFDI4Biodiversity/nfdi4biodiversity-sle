@@ -720,50 +720,50 @@ In the following there are common pitfalls:
         {{1}}
 **Variable spelling of species name**
 
--   *Data set 1*: Carabus arvensis Herbst 1784 (valid name)
+-   *Data set 1*: _Carabus arvensis_ Herbst 1784 (valid name)
 
--   *Data set 2*: Carabus arcensis Herbst 1784 (Synonym)
+-   *Data set 2*: _Carabus arcensis_ Herbst 1784 (Synonym)
 
--   *Data set 3*: Carabus aruensis Herbst 1784 (misspelt epithet)
+-   *Data set 3*: _Carabus aruensis_ Herbst 1784 (misspelt epithet)
 
         {{2}}
 **Variable spelling of authority**
 
--   *Data set 1*: Carabus arvensis Herbst 1784
+-   *Data set 1*: _Carabus arvensis_ Herbst 1784
 
--   *Data set 2*: Carabus arvensis Hbst., 1784 (official abbreviation of authority)
+-   *Data set 2*: _Carabus arvensis_ Hbst., 1784 (official abbreviation of authority)
 
--   *Data set 3*: Carabus arvensis Hrst. 1784 (misspelt authority)
+-   *Data set 3*: _Carabus arvensis_ Hrst. 1784 (misspelt abbreviation of authority)
 
         {{3}}
 **Missing authority**
 
--   *Data set 1*: Glocianus punctiger
+-   *Data set 1*: _Glocianus punctiger_
 
-    -   Meaning [Glocianus punctiger (C.R.Sahlberg, 1835)](https://www.gbif.org/species/11356251)
+    -   Meaning [_Glocianus punctiger_ (C.R.Sahlberg, 1835)](https://www.gbif.org/species/11356251)
 
-    -   Synonym of [Rhynchaenus punctiger Sahlb., 1834-39](https://www.gbif.org/species/1187423)
+    -   Synonym of [_Rhynchaenus punctiger_ Sahlb., 1834-39](https://www.gbif.org/species/1187423)
 
--   *Data set 2*: Glocianus punctiger
+-   *Data set 2*: _Glocianus punctiger_
 
-    -   Meaning [Glocianus punctiger (Gyllenhal, 1837)](https://www.gbif.org/species/4464480)
+    -   Meaning [_Glocianus punctiger_ (Gyllenhal, 1837)](https://www.gbif.org/species/4464480)
 
-    -   Synonym of [Ceuthorhynchus punctiger Gyllenhal, 1837](https://www.gbif.org/species/1178810)
+    -   Synonym of [_Ceuthorhynchus punctiger_ Gyllenhal, 1837](https://www.gbif.org/species/1178810)
 
         {{4}}
 **Mismatch of ranks**
 
--   *Data set 1*: Carabus arvensis Herbst 1784
+-   *Data set 1*: _Carabus arvensis_ Herbst 1784
 
 -   *Data set 2* (Red List Germany 2009 ff., red-list status was evaluated for three subspecies):
 
-  -   [Carabus arvensis arvensis Herbst, 1784](https://www.rote-liste-zentrum.de/de/Detailseite.html?species_uuid=b7ba04d4-dfa3-47ca-8c27-33ca111ba604) - Vorwarnliste (similar to IUCN Red List Near threatened (NT), but different methodology)
+  -   [_Carabus arvensis arvensis_ Herbst, 1784](https://www.rote-liste-zentrum.de/de/Detailseite.html?species_uuid=b7ba04d4-dfa3-47ca-8c27-33ca111ba604) - Vorwarnliste (similar to IUCN Red List Near threatened (NT), but different methodology)
 
-  -   [Carabus arvensis noricus Sokolar, 1910](https://www.rote-liste-zentrum.de/de/Detailseite.html?species_uuid=87484ab2-2c44-4420-9417-5333f3333b4a) - Ungefährdet (similar to IUCN Red List Least concern (LC), but different methodology)
+  -   [_Carabus arvensis noricus_ Sokolar, 1910](https://www.rote-liste-zentrum.de/de/Detailseite.html?species_uuid=87484ab2-2c44-4420-9417-5333f3333b4a) - Ungefährdet (similar to IUCN Red List Least concern (LC), but different methodology)
 
-  -   [Carabus arvensis sylvaticus Dejean, 1826](https://www.rote-liste-zentrum.de/de/Detailseite.html?species_uuid=3a2efe3d-563d-431b-9457-8d4cf5e44b89) - Gefährdet (similar to IUCN Red List Endangered (ED), but different methodology)
+  -   [_Carabus arvensis sylvaticus_ Dejean, 1826](https://www.rote-liste-zentrum.de/de/Detailseite.html?species_uuid=3a2efe3d-563d-431b-9457-8d4cf5e44b89) - Gefährdet (similar to IUCN Red List Endangered (ED), but different methodology)
 
--   *Data set 3*: Carabus sp.
+-   *Data set 3*: _Carabus_ sp.
 
 -   *Data set 4*: Carabidae sp. 4
 
@@ -861,7 +861,7 @@ How should metadata ideally be stored?
 What is the correct order of a species name?
 
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-[[ (_Ptilocercus_) | _lowii_ | J. E. Gray | 1848 ]][[ _Ptilocercus_ | (_lowii_) | J. E. Gray | 1848 ]][[ _Ptilocercus_ | _lowii_ | (J. E. Gray) | 1848 ]][[ _Ptilocercus_ | _lowii_ | J. E. Gray | (1848) ]] 
+[[_lowii_ | J. E. Gray | (_Ptilocercus_) | 1848 ]][[ 1848 | _Ptilocercus_ | J. E. Gray | (_lowii_) ]][[ 1848  | (J. E. Gray) | _lowii_| _Ptilocercus_ ]][[ J. E. Gray | _Ptilocercus_ | _lowii_ | (1848) ]] 
 ***
 Correct! Species names consist of Genus, epithet, authority, and year of publication of the species description.
 
@@ -871,7 +871,7 @@ The pen-tailed treeshrew (_Ptilocercus lowii_ J. E. Gray, 1848) is a treeshrew o
 What is the correct order of a species name?
 
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-[[ (_Arthrobotrys_) | _oligospora_ | Fresen | 1850 ]] [[ _Arthrobotrys_ | (_oligospora_) | Fresen | 1850 ]] [[ _Arthrobotrys_ | _oligospora_ | (Fresen) | 1850 ]] [[ _Arthrobotrys_ | _oligospora_ | Fresen | (1850) ]]
+[[ Fresen | _oligospora_ | (_Arthrobotrys_) | 1850 ]] [[ _Arthrobotrys_ | 1850 | Fresen | (_oligospora_) ]] [[ 1850 | _oligospora_ |_Arthrobotrys_ | (Fresen) |]] [[ _Arthrobotrys_ | (1850) | Fresen | _oligospora_ ]]
 ***
 Correct! Species names consist of Genus, epithet, authority, and year of publication of the species description.
 
