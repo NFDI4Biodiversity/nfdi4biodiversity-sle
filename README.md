@@ -558,13 +558,7 @@ Surrounding these question hexagons are larger blue segments with more specific 
 Each of these blue segments also contains smaller text detailing various aspects of research data management, such as rights of use, citation guidelines, possible uses of data, co-authors, and parameters.
 The overall diagram serves as a visual guide to the considerations and components of managing and understanding research data, emphasizing the interconnectedness of these elements.](images/figure4_metadata_categories_FOKUSproject.png
 
-<<<<<<< HEAD
 "Figure 4. Different categories of metadata to describe the actual research data. Source: [FOKUS](https://www.uni-marburg.de/en/hefdi/about-hefdi/projects/fokus), by Henrike Becker, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), English translation by HeFDI."
-=======
-"Figure 4. Different categories of metadata to describe the actual research data. Source: [FOKUS](https://www.uni-marburg.de/en/hefdi/about-hefdi/projects/fokus), by Henrike Becker, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), English translation by HeFDI."-)
-
-*************************************************************************************************************
->>>>>>> eva
 
 #### 4.3.2.4. Metadata standards
 
@@ -1507,11 +1501,8 @@ These data are not typically protected by copyright. By using tools like [CC0](h
 In a scientific context, the combination of data from different sources is a common and important part of research. Making data interoperable is supposed to facilitate re-use and re-combination. However, not all CC licences are compatible (Figure 8). Therefore, it is important to choose an open licence like CC0 or CC BY 4.0.
 
 ![Figure 8. is the CC licence compatibility chart by Kennisland, CC0. It is a comparison of the different types of open source licences, as described in Figure 7. And thus shows which types are compatible with each other and which are not](https://wiki.creativecommons.org/images/5/5b/CC_License_Compatibility_Chart.png "Figure 8. CC licence compatibility chart by Kennisland, [CC0](https://creativecommons.org/publicdomain/zero/1.0/).")
-<<<<<<< HEAD
-=======
 
 *************************************************************************************************************
->>>>>>> eva
 
 ### 7.2.6. Granting of rights of use within the framework of service and employment contracts
 
