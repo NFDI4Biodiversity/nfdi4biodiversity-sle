@@ -45,7 +45,7 @@ You can listen to the text by clicking on the little PLAY button on top of each 
 ![location play button](images/figure0-1_play-button.png)
 
         {{3}}
-You can automatically translate the course with one click. However, please be aware that any autmatic translation may contain mistakes and mistranslations of terms and concepts.
+You can automatically translate the course with one click. However, please be aware that any automatic translation may contain mistakes and mistranslations of terms and concepts.
 
 ![where to click for translation](images/figure0-3_translation.png)
 
