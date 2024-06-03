@@ -22,11 +22,38 @@ Marlen Fischer, Juliane Röder, Johannes Signer, Daniel Tschink, Tanja Weibulat,
 
 For more details about NFDI4Biodiversity and research data management for biodiversity data, visit [www.nfdi4biodiversity.org](https://www.nfdi4biodiversity.org).
 
-**Please note that this is a LiaScript course!**
+*************************************************************************************************************
 
-**To follow the course in its intended format, please follow [this link](https://liascript.github.io/course/?https://raw.githubusercontent.com/NFDI4Biodiversity/nfdi4biodiversity-sle/main/README.md)!**
+## How to use this course
 
-**Only if you use the link, you will be able to answer the questions we included in this course.**
+{{|>}}
+*************************************************************************************************************
+**How to use this course**
+
+This is a LiaScript course. To follow the course in its intended format, please follow [this link](https://liascript.github.io/course/?https://raw.githubusercontent.com/NFDI4Biodiversity/nfdi4biodiversity-sle/main/README.md)!
+
+Only if you use the link, you will be able use all features of this course:
+
+        {{1}}
+After each chapter, you can test your knowledge with questions. These questions only work in the LiaScript version, not in simple Markdown.
+
+        {{2}}
+You can listen to the text by clicking on the little PLAY button on top of each page.
+
+![location play button]()
+
+        {{3}}
+You can automatically translate the course with one click. However, please be aware that any autmatic translation may contain mistakes and mistranslations of terms and concepts.
+
+![where to click for translation]()
+
+        {{4}}
+Please note that if you want to **listen** to a **translation** of the text, you should change the narrator voice in the html header in the raw version of this file. 
+
+![picture of header with narrator English Female]() 
+
+For more details on the Markdown dialect LiaScript, see the [LiaScript documentation](https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1).
+ 
 
 *************************************************************************************************************
 
@@ -830,14 +857,14 @@ Species names connect physical, functional, spatial, and genetic data sets. Prov
 How do I collect metadata?
 
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-- [(X)] I enquire about suitable metadata standards before starting research and collect as much metadata aspossible to ensure that the data can also be understood by other researchers:
+- [(X)] I enquire about suitable metadata standards before starting research and collect as much metadata as possible to ensure that the data can also be understood by other researchers.
 - [( )] I simply transfer the metadata from another project.
 - [( )] I always follow the same scheme, no matter what type of research data it is.
 
 When should the associated metadata be deleted if research data is deleted from a repository?
 
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-- [(X)] Preferably not at all. If research data is withdrawn, the metadata provides an overview of the project andpossibly why the data was withdrawn.
+- [(X)] Preferably not at all. If research data is withdrawn, the metadata provides an overview of the project and possibly why the data was withdrawn.
 - [( )] The metadata is deleted together with the research data.
 - [( )] For legal reasons, the metadata must remain in the repository for at least one year.
 
@@ -851,9 +878,9 @@ What exactly is metadata?
 How should metadata ideally be stored?
 
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-- [( )] I create metadata according to my own schema according to the requirements of my own researchdata.
+- [( )] I create metadata according to my own schema according to the requirements of my own research data.
 - [(X)] Metadata should be created according to specific metadata standards.
-- [( )]Metadata should only be readable by myself in order to protect my research data.
+- [( )] Metadata should only be readable by myself in order to protect my research data.
 
 
 What is the correct order of a species name?
@@ -1217,10 +1244,10 @@ Which of these statements are true? Select all correct answers.
 What is a repository?
 
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-- [(X)] A digital, curated data center for the storage and reuse of research data
-- [( )] A search engine that makes any research data freely available to everyone without restrictions
-- [( )] A research community that deals with the reutilization of research data
-- [( )] A local copy of all research data collected in a project
+- [(X)] A digital, curated data center for the storage and reuse of research data.
+- [( )] A search engine that makes any research data freely available to everyone without restrictions.
+- [( )] A research community that deals with the reutilization of research data.
+- [( )] A local copy of all research data collected in a project.
 
 Which of the following repositories are generic, and which are subject-specific? Assign the repositories to the two categories.
 
@@ -1599,10 +1626,10 @@ The genetic resources provided by a country can be decoded and digitally archive
 Which of the following statements is NOT true? Choose the wrong answer.
 
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-- [( )] The structure of a database is protected by copyright law in Germany
-- [( )] The owner of the database producer rights is usually the institution employing a researcher
+- [( )] The structure of a database is protected by copyright law in Germany.
+- [( )] The owner of the database producer rights is usually the institution employing a researcher.
 - [(X)] Quantitative, raw data, are copyright protected due to the investment to produce the data.
-- [( )] There are specific licenses to share database material
+- [( )] There are specific licenses to share database material.
 
 What is the preferred choice for publishing research data? Sort the following data publication strategies from most accessible to least accessible
 
@@ -1612,18 +1639,18 @@ What is the preferred choice for publishing research data? Sort the following da
 What role do persistent identifiers (PIDs) play in data retrieval and findability?  Choose the correct answer.
 
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-- [( )] They provide encryption for data
-- [(X)] They link metadata to the actual data set
-- [( )] They limit access to confidential data
-- [( )] They are used for short-term archiving
+- [( )] They provide encryption for data.
+- [(X)] They link metadata to the actual data set.
+- [( )] They limit access to confidential data.
+- [( )] They are used for short-term archiving.
 
 Why are open and documented data formats preferred for long-term data storage? Choose the correct answer.
 
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-- [( )] They are less compatible with various systems
-- [( )] They require frequent migrations
-- [(X)] They facilitate interoperability and have a longer lifespan
-- [( )] They have higher compression ratios
+- [( )] They are less compatible with various systems.
+- [( )] They require frequent migrations.
+- [(X)] They facilitate interoperability and have a longer lifespan.
+- [( )] They have higher compression ratios.
 
 *************************************************************************************************************
 
@@ -1853,7 +1880,7 @@ RDM[^1] introduces you to many new abbreviations. Which of the following abbreva
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
 - [(DFG) (ORCID) (ABCD) (DwC) (GFBio) (GBIF) (DMP) (DSI) (DOI)]
 - [ (X)    ( )    ( )    ( )   ( )     ( )    ( )   ( )   ( ) ] Deutsche Forschungsgemeinschaft
-- [ ( )    (X)    ( )    ( )   ( )     ( )    ( )   ( )   ( ) ] Open Researcher Contributor Identification Initiative (name obsolete)
+- [ ( )    (X)    ( )    ( )   ( )     ( )    ( )   ( )   ( ) ] Open Researcher Contributor Identification Initiative (full name obsolete)
 - [ ( )    ( )    (X)    ( )   ( )     ( )    ( )   ( )   ( ) ] Access to Biological Collection Data
 - [ ( )    ( )    ( )    (X)   ( )     ( )    ( )   ( )   ( ) ] Darwin Core
 - [ ( )    ( )    ( )    ( )   (X)     ( )    ( )   ( )   ( ) ] Gesellschaft für Biologische Daten (German Federation for Biological Data)
