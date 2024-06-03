@@ -22,9 +22,11 @@ Marlen Fischer, Juliane Röder, Johannes Signer, Daniel Tschink, Tanja Weibulat,
 
 For more details about NFDI4Biodiversity and research data management for biodiversity data, visit [www.nfdi4biodiversity.org](https://www.nfdi4biodiversity.org).
 
-*Please note that this is a LiaScript course!*
-*To follow the course in its intended format, please use [this link](https://liascript.github.io/course/?https://raw.githubusercontent.com/NFDI4Biodiversity/nfdi4biodiversity-sle/main/README.md)!*
-*Only if you use the link, you will be able to answer the questions we included in this course.*
+**Please note that this is a LiaScript course!**
+
+**To follow the course in its intended format, please follow [this link](https://liascript.github.io/course/?https://raw.githubusercontent.com/NFDI4Biodiversity/nfdi4biodiversity-sle/main/README.md)!**
+
+**Only if you use the link, you will be able to answer the questions we included in this course.**
 
 *************************************************************************************************************
 
