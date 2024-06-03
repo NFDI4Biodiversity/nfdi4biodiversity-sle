@@ -83,6 +83,7 @@ This course will be updated regularly, responding to feedback from the community
 
 - December 14, 2023; Version 1.0.0: https://zenodo.org/records/10377868
 - December 22, 2023; Version 1.1.0: https://ilias.uni-marburg.de/goto.php?target=pg_443261_3276691&client_id=UNIMR
+- June 6, 2024;      Version 1.2.0: https://github.com/NFDI4Biodiversity/nfdi4biodiversity-sle/
 
 *************************************************************************************************************
 
