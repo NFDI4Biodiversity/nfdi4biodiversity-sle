@@ -37,20 +37,22 @@ Only if you use the link, you will be able use all features of this course:
         {{1}}
 After each chapter, you can test your knowledge with questions. These questions only work in the LiaScript version, not in simple Markdown.
 
+![LiaScript question](images/figure0-2_LiaScript-questions.png)
+
         {{2}}
 You can listen to the text by clicking on the little PLAY button on top of each page.
 
-![location play button]()
+![location play button](images/figure0-1_play-button.png)
 
         {{3}}
 You can automatically translate the course with one click. However, please be aware that any autmatic translation may contain mistakes and mistranslations of terms and concepts.
 
-![where to click for translation]()
+![where to click for translation](images/figure0-3_translation.png)
 
         {{4}}
 Please note that if you want to **listen** to a **translation** of the text, you should change the narrator voice in the html header in the raw version of this file. 
 
-![picture of header with narrator English Female]() 
+![picture of header with narrator English Female](images/figure0-4_narrator.png) 
 
 For more details on the Markdown dialect LiaScript, see the [LiaScript documentation](https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1).
  
