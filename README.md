@@ -40,7 +40,7 @@ After each chapter, you can test your knowledge with questions. These questions 
 ![LiaScript question](images/figure0-2_LiaScript-questions.png)
 
         {{2}}
-You can listen to the text by clicking on the little PLAY button on top of each page.
+You can listen to the text by clicking on the little PLAY button on top of each page. Please note that this feature is used as commentary, this is **not** a tool to increase accessibility.
 
 ![location play button](images/figure0-1_play-button.png)
 
