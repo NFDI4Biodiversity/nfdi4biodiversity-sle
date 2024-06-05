@@ -171,6 +171,10 @@ Which of the following statements is a goal of research data management? Choose 
 - [( )] Preventing active re-use of one's own research data by other researchers
 - [( )] Making any research data available to all without technical restrictions
 - [(X)] Minimising data loss
+***
+Correct! Minimising data loss is a goal of data security, which aims at the general protection of data and belongs to the area of data organisation. Data security doesn’t only include measures on the digital level (e.g. using anti-virus programmes or regular backups), but also on the analogue level (e.g. storing data media with very important data in fireproof boxes).
+***
+
 
 What is **not** part of this unit? Choose the correct answer.
 
@@ -179,6 +183,10 @@ What is **not** part of this unit? Choose the correct answer.
 - [( )] Contents of a data management plan
 - [(X)] Legally binding information on your research data
 - [( )] Metadata and the use of metadata standards
+***
+Correct! No trained lawyers or research data officers were involved in the creation of this self-study unit, which is why legally binding information on research data cannot be given. It is merely information on the topic of “research data and law”, but it reflects common practice in research data management and is also taught by lawyers. If you need legally binding information, you should contact the legal department or/and the data protection officer of your institution.
+***
+
 
 Select the correct abbreviations.
 
@@ -364,6 +372,9 @@ Which of these aspects are part of a data management plan?
 - [[X]] Information on storage and backup during the project
 - [[ ]] Description of the benefits of the data management plan
 - [[X]] Information on data publication
+***
+Right! There is of course much more information that should also be mentioned in a DMP, such as information on the data formats produced, data types and the estimated amount of data, in projects with several participants also information on how the data is shared within the project, or information on legal features, if existing.
+***
 
 Which statement is true?
 
@@ -371,6 +382,10 @@ Which statement is true?
 - [(X)] A data management plan saves time and helps me to minimize data loss.
 - [( )] I only need to create a DMP if I expect large amounts of data.
 - [( )] The DMP is primarily a control instrument for funding institutions.
+***
+Right! Also, a DMP created before or with the start of the project will help you organise the research data management for you and your team. Remember, however, that it is a living document that might need adjustments at regular intervals. A well-maintained DMP can also facilitate the onboarding of new project staff with regard to research data management.
+***
+
 
 *************************************************************************************************************
 
@@ -831,6 +846,9 @@ How do I collect metadata?
 - [(X)] I enquire about suitable metadata standards before starting research and collect as much metadata aspossible to ensure that the data can also be understood by other researchers:
 - [( )] I simply transfer the metadata from another project.
 - [( )] I always follow the same scheme, no matter what type of research data it is.
+***
+Correct! But it really won't hurt to ask colleagues of the same discipline whether there are any known suitable metadata standards and how they should be applied.
+***
 
 When should the associated metadata be deleted if research data is deleted from a repository?
 
@@ -838,6 +856,9 @@ When should the associated metadata be deleted if research data is deleted from 
 - [(X)] Preferably not at all. If research data is withdrawn, the metadata provides an overview of the project andpossibly why the data was withdrawn.
 - [( )] The metadata is deleted together with the research data.
 - [( )] For legal reasons, the metadata must remain in the repository for at least one year.
+***
+Correct! One reason, above all, is the obligation to provide proof of research data. If, for example, a text was published in 2017 that examined data from 2015, but in 2019 it turns out that the data collected at that time violated certain legal requirements, the text must still retain evidence that this research data actually still existed and was accessible at the time of publication, and also information about what this data contained.
+***
 
 What exactly is metadata?
 
@@ -845,6 +866,9 @@ What exactly is metadata?
 - [(X)] Metadata describes other data of any kind in a structured way and helps to understand this data.
 - [( )] Metadata is data that stores information about files in encrypted form.
 - [( )] Metadata is used to make the actual research data available, as it would otherwise not be accessible.
+***
+Correct! Metadata is data about data. Metadata therefore contain descriptive information to understand another or the described data set. Understanding the described data is mostly dependent on already having expertise in dealing with this type of data through one's own research or studies.
+***
 
 How should metadata ideally be stored?
 
@@ -852,7 +876,9 @@ How should metadata ideally be stored?
 - [( )] I create metadata according to my own schema according to the requirements of my own researchdata.
 - [(X)] Metadata should be created according to specific metadata standards.
 - [( )]Metadata should only be readable by myself in order to protect my research data.
-
+***
+Correct. Ideally, metadata should be available as subject-specific standards. However, this is not always the case, so depending on the research project, metadata sometimes has to be created.
+***
 
 What is the correct order of a species name?
 
@@ -1219,6 +1245,9 @@ What is a repository?
 - [( )] A search engine that makes any research data freely available to everyone without restrictions
 - [( )] A research community that deals with the reutilization of research data
 - [( )] A local copy of all research data collected in a project
+***
+That is correct. At the University of Marburg, data_UMR is available to you as a repository.
+***
 
 Which of the following repositories are generic, and which are subject-specific? Assign the repositories to the two categories.
 
