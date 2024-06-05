@@ -22,7 +22,40 @@ Marlen Fischer, Juliane Röder, Johannes Signer, Daniel Tschink, Tanja Weibulat,
 
 For more details about NFDI4Biodiversity and research data management for biodiversity data, visit [www.nfdi4biodiversity.org](https://www.nfdi4biodiversity.org).
 
-This is a LiaScript course. To follow the course in its intended format, please use [this link](https://liascript.github.io/course/?https://raw.githubusercontent.com/NFDI4Biodiversity/nfdi4biodiversity-sle/main/README.md).
+*************************************************************************************************************
+
+## How to use this course
+
+{{|>}}
+*************************************************************************************************************
+**How to use this course**
+
+This is a LiaScript course. To follow the course in its intended format, please follow [this link](https://liascript.github.io/course/?https://raw.githubusercontent.com/NFDI4Biodiversity/nfdi4biodiversity-sle/main/README.md)!
+
+Only if you use the link, you will be able use all features of this course:
+
+        {{1}}
+After each chapter, you can test your knowledge with questions. These questions only work in the LiaScript version, not in simple Markdown.
+
+![LiaScript question](images/figure0-2_LiaScript-questions.png)
+
+        {{2}}
+You can listen to the text by clicking on the little PLAY button on top of each page. Please note that this feature is used as commentary, this is **not** a tool to increase accessibility.
+
+![location play button](images/figure0-1_play-button.png)
+
+        {{3}}
+You can automatically translate the course with one click. However, please be aware that any automatic translation may contain mistakes and mistranslations of terms and concepts.
+
+![where to click for translation](images/figure0-3_translation.png)
+
+        {{4}}
+Please note that if you want to **listen** to a **translation** of the text, you should change the narrator voice in the html header in the raw version of this file. 
+
+![picture of header with narrator English Female](images/figure0-4_narrator.png) 
+
+For more details on the Markdown dialect LiaScript, see the [LiaScript documentation](https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1).
+ 
 
 *************************************************************************************************************
 
@@ -31,15 +64,15 @@ This is a LiaScript course. To follow the course in its intended format, please 
 {{|>}}
 *************************************************************************************************************
 
-The NFDI4Biodiversity Self-Study Unit (SSU) provides in-depth knowledge for both students and researchers specializing in biodiversity and environmental sciences. This learning is based on the online learning unit "Forschungsdatenmanagement - eine Online-Einführung (HeFDI Data Learning Materials)" of the Hessian Research Data Infrastructures. Developed in collaboration between several partners within NFDI4Biodiversity, the SSU offers essential domain-specific knowledge in research data management. 
+The NFDI4Biodiversity Self-Study Unit provides in-depth knowledge for both students and researchers specializing in biodiversity and environmental sciences. This course is based on the online course [Selbstlerneinheit Forschungsdatenmanagement - eine Online-Einführung (HeFDI Data Learning Materials)](https://ilias.uni-marburg.de/goto.php?target=crs_1730142&client_id=UNIMR) of the Hessian Research Data Infrastructures ([HeFDI](https://www.uni-marburg.de/en/hefdi)). Developed in collaboration between several partners within NFDI4Biodiversity, this course offers essential domain-specific knowledge in research data management.
 
 - **Prerequisites**: No previous knowledge is required for this module. The chapters build on each other thematically, but can also be worked through individually. If information from other chapters is needed, they are linked.
 
-- **Target audience**: students at PhD-level and beyond and researchers in the field of biology and environmental sciences, especially those working with biodiversity data, who are looking for a first introduction to research data management.
+- **Target audience**: Master and PhD students and researchers in the field of biology and environmental sciences, especially those working with biodiversity data, who are looking for a first introduction to research data management.
 
-- **Learning objectives**: After completing this unit you will be able to understand the content and purpose of research data management and apply it in the field of biology. The detailed learning objectives are given at the beginning of each chapter.
+- **Learning objectives**: After completing this unit you will be able to understand the content and purpose of research data management and apply it in the field of biology. Learning objectives are given at the beginning of each chapter.
 
-The self-study unit undergoes periodic updates, responding to feedback from the community for continuous improvement. For inquiries or additional information, please feel free to reach out to us via our contact page: [NFDI4Biodiversity Contact](https://www.nfdi4biodiversity.org/en/contact/).
+This course will be updated regularly, responding to feedback from the community for continuous improvement. For inquiries or additional information, please feel free to reach out to us by opening an issue or via our contact form: [NFDI4Biodiversity Contact](https://www.nfdi4biodiversity.org/en/contact/).
 
 *************************************************************************************************************
 
@@ -50,6 +83,7 @@ The self-study unit undergoes periodic updates, responding to feedback from the 
 
 - December 14, 2023; Version 1.0.0: https://zenodo.org/records/10377868
 - December 22, 2023; Version 1.1.0: https://ilias.uni-marburg.de/goto.php?target=pg_443261_3276691&client_id=UNIMR
+- June 6, 2024;      Version 1.2.0: https://github.com/NFDI4Biodiversity/nfdi4biodiversity-sle/
 
 *************************************************************************************************************
 
@@ -573,9 +607,7 @@ Surrounding these question hexagons are larger blue segments with more specific 
 Each of these blue segments also contains smaller text detailing various aspects of research data management, such as rights of use, citation guidelines, possible uses of data, co-authors, and parameters.
 The overall diagram serves as a visual guide to the considerations and components of managing and understanding research data, emphasizing the interconnectedness of these elements.](images/figure4_metadata_categories_FOKUSproject.png
 
-"Figure 4. Different categories of metadata to describe the actual research data. Source: [FOKUS](https://www.uni-marburg.de/en/hefdi/about-hefdi/projects/fokus), by Henrike Becker, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), English translation by HeFDI."-)
-
-*************************************************************************************************************
+"Figure 4. Different categories of metadata to describe the actual research data. Source: [FOKUS](https://www.uni-marburg.de/en/hefdi/about-hefdi/projects/fokus), by Henrike Becker, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), English translation by HeFDI."
 
 #### 4.3.2.4. Metadata standards
 
@@ -731,50 +763,50 @@ In the following there are common pitfalls:
         {{1}}
 **Variable spelling of species name**
 
--   *Data set 1*: Carabus arvensis Herbst 1784 (valid name)
+-   *Data set 1*: _Carabus arvensis_ Herbst 1784 (valid name)
 
--   *Data set 2*: Carabus arcensis Herbst 1784 (Synonym)
+-   *Data set 2*: _Carabus arcensis_ Herbst 1784 (Synonym)
 
--   *Data set 3*: Carabus aruensis Herbst 1784 (misspelt epithet)
+-   *Data set 3*: _Carabus aruensis_ Herbst 1784 (misspelt epithet)
 
         {{2}}
 **Variable spelling of authority**
 
--   *Data set 1*: Carabus arvensis Herbst 1784
+-   *Data set 1*: _Carabus arvensis_ Herbst 1784
 
--   *Data set 2*: Carabus arvensis Hbst., 1784 (official abbreviation of authority)
+-   *Data set 2*: _Carabus arvensis_ Hbst., 1784 (official abbreviation of authority)
 
--   *Data set 3*: Carabus arvensis Hrst. 1784 (misspelt authority)
+-   *Data set 3*: _Carabus arvensis_ Hrst. 1784 (misspelt abbreviation of authority)
 
         {{3}}
 **Missing authority**
 
--   *Data set 1*: Glocianus punctiger
+-   *Data set 1*: _Glocianus punctiger_
 
-    -   Meaning [Glocianus punctiger (C.R.Sahlberg, 1835)](https://www.gbif.org/species/11356251)
+    -   Meaning [_Glocianus punctiger_ (C.R.Sahlberg, 1835)](https://www.gbif.org/species/11356251)
 
-    -   Synonym of [Rhynchaenus punctiger Sahlb., 1834-39](https://www.gbif.org/species/1187423)
+    -   Synonym of [_Rhynchaenus punctiger_ Sahlb., 1834-39](https://www.gbif.org/species/1187423)
 
--   *Data set 2*: Glocianus punctiger
+-   *Data set 2*: _Glocianus punctiger_
 
-    -   Meaning [Glocianus punctiger (Gyllenhal, 1837)](https://www.gbif.org/species/4464480)
+    -   Meaning [_Glocianus punctiger_ (Gyllenhal, 1837)](https://www.gbif.org/species/4464480)
 
-    -   Synonym of [Ceuthorhynchus punctiger Gyllenhal, 1837](https://www.gbif.org/species/1178810)
+    -   Synonym of [_Ceuthorhynchus punctiger_ Gyllenhal, 1837](https://www.gbif.org/species/1178810)
 
         {{4}}
 **Mismatch of ranks**
 
--   *Data set 1*: Carabus arvensis Herbst 1784
+-   *Data set 1*: _Carabus arvensis_ Herbst 1784
 
 -   *Data set 2* (Red List Germany 2009 ff., red-list status was evaluated for three subspecies):
 
-  -   [Carabus arvensis arvensis Herbst, 1784](https://www.rote-liste-zentrum.de/de/Detailseite.html?species_uuid=b7ba04d4-dfa3-47ca-8c27-33ca111ba604) - Vorwarnliste (similar to IUCN Red List Near threatened (NT), but different methodology)
+  -   [_Carabus arvensis arvensis_ Herbst, 1784](https://www.rote-liste-zentrum.de/de/Detailseite.html?species_uuid=b7ba04d4-dfa3-47ca-8c27-33ca111ba604) - Vorwarnliste (similar to IUCN Red List Near threatened (NT), but different methodology)
 
-  -   [Carabus arvensis noricus Sokolar, 1910](https://www.rote-liste-zentrum.de/de/Detailseite.html?species_uuid=87484ab2-2c44-4420-9417-5333f3333b4a) - Ungefährdet (similar to IUCN Red List Least concern (LC), but different methodology)
+  -   [_Carabus arvensis noricus_ Sokolar, 1910](https://www.rote-liste-zentrum.de/de/Detailseite.html?species_uuid=87484ab2-2c44-4420-9417-5333f3333b4a) - Ungefährdet (similar to IUCN Red List Least concern (LC), but different methodology)
 
-  -   [Carabus arvensis sylvaticus Dejean, 1826](https://www.rote-liste-zentrum.de/de/Detailseite.html?species_uuid=3a2efe3d-563d-431b-9457-8d4cf5e44b89) - Gefährdet (similar to IUCN Red List Endangered (ED), but different methodology)
+  -   [_Carabus arvensis sylvaticus_ Dejean, 1826](https://www.rote-liste-zentrum.de/de/Detailseite.html?species_uuid=3a2efe3d-563d-431b-9457-8d4cf5e44b89) - Gefährdet (similar to IUCN Red List Endangered (ED), but different methodology)
 
--   *Data set 3*: Carabus sp.
+-   *Data set 3*: _Carabus_ sp.
 
 -   *Data set 4*: Carabidae sp. 4
 
@@ -843,7 +875,7 @@ Species names connect physical, functional, spatial, and genetic data sets. Prov
 How do I collect metadata?
 
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-- [(X)] I enquire about suitable metadata standards before starting research and collect as much metadata aspossible to ensure that the data can also be understood by other researchers:
+- [(X)] I enquire about suitable metadata standards before starting research and collect as much metadata as possible to ensure that the data can also be understood by other researchers.
 - [( )] I simply transfer the metadata from another project.
 - [( )] I always follow the same scheme, no matter what type of research data it is.
 ***
@@ -853,7 +885,7 @@ Correct! But it really won't hurt to ask colleagues of the same discipline wheth
 When should the associated metadata be deleted if research data is deleted from a repository?
 
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-- [(X)] Preferably not at all. If research data is withdrawn, the metadata provides an overview of the project andpossibly why the data was withdrawn.
+- [(X)] Preferably not at all. If research data is withdrawn, the metadata provides an overview of the project and possibly why the data was withdrawn.
 - [( )] The metadata is deleted together with the research data.
 - [( )] For legal reasons, the metadata must remain in the repository for at least one year.
 ***
@@ -873,7 +905,7 @@ Correct! Metadata is data about data. Metadata therefore contain descriptive inf
 How should metadata ideally be stored?
 
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-- [( )] I create metadata according to my own schema according to the requirements of my own researchdata.
+- [( )] I create metadata according to my own schema according to the requirements of my own research data.
 - [(X)] Metadata should be created according to specific metadata standards.
 - [( )]Metadata should only be readable by myself in order to protect my research data.
 ***
@@ -883,7 +915,7 @@ Correct. Ideally, metadata should be available as subject-specific standards. Ho
 What is the correct order of a species name?
 
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-[[ (_Ptilocercus_) | _lowii_ | J. E. Gray | 1848 ]][[ _Ptilocercus_ | (_lowii_) | J. E. Gray | 1848 ]][[ _Ptilocercus_ | _lowii_ | (J. E. Gray) | 1848 ]][[ _Ptilocercus_ | _lowii_ | J. E. Gray | (1848) ]] 
+[[_lowii_ | J. E. Gray | (_Ptilocercus_) | 1848 ]][[ 1848 | _Ptilocercus_ | J. E. Gray | (_lowii_) ]][[ 1848  | (J. E. Gray) | _lowii_| _Ptilocercus_ ]][[ J. E. Gray | _Ptilocercus_ | _lowii_ | (1848) ]] 
 ***
 Correct! Species names consist of Genus, epithet, authority, and year of publication of the species description.
 
@@ -893,7 +925,7 @@ The pen-tailed treeshrew (_Ptilocercus lowii_ J. E. Gray, 1848) is a treeshrew o
 What is the correct order of a species name?
 
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-[[ (_Arthrobotrys_) | _oligospora_ | Fresen | 1850 ]] [[ _Arthrobotrys_ | (_oligospora_) | Fresen | 1850 ]] [[ _Arthrobotrys_ | _oligospora_ | (Fresen) | 1850 ]] [[ _Arthrobotrys_ | _oligospora_ | Fresen | (1850) ]]
+[[ Fresen | _oligospora_ | (_Arthrobotrys_) | 1850 ]] [[ _Arthrobotrys_ | 1850 | Fresen | (_oligospora_) ]] [[ 1850 | _oligospora_ |_Arthrobotrys_ | (Fresen) |]] [[ _Arthrobotrys_ | (1850) | Fresen | _oligospora_ ]]
 ***
 Correct! Species names consist of Genus, epithet, authority, and year of publication of the species description.
 
@@ -1241,6 +1273,7 @@ Which of these statements are true? Select all correct answers.
 What is a repository?
 
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
+
 - [(X)] A digital, curated data center for the storage and reuse of research data
 - [( )] A search engine that makes any research data freely available to everyone without restrictions
 - [( )] A research community that deals with the reutilization of research data
@@ -1626,10 +1659,10 @@ The genetic resources provided by a country can be decoded and digitally archive
 Which of the following statements is NOT true? Choose the wrong answer.
 
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-- [( )] The structure of a database is protected by copyright law in Germany
-- [( )] The owner of the database producer rights is usually the institution employing a researcher
+- [( )] The structure of a database is protected by copyright law in Germany.
+- [( )] The owner of the database producer rights is usually the institution employing a researcher.
 - [(X)] Quantitative, raw data, are copyright protected due to the investment to produce the data.
-- [( )] There are specific licenses to share database material
+- [( )] There are specific licenses to share database material.
 
 What is the preferred choice for publishing research data? Sort the following data publication strategies from most accessible to least accessible
 
@@ -1639,18 +1672,18 @@ What is the preferred choice for publishing research data? Sort the following da
 What role do persistent identifiers (PIDs) play in data retrieval and findability?  Choose the correct answer.
 
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-- [( )] They provide encryption for data
-- [(X)] They link metadata to the actual data set
-- [( )] They limit access to confidential data
-- [( )] They are used for short-term archiving
+- [( )] They provide encryption for data.
+- [(X)] They link metadata to the actual data set.
+- [( )] They limit access to confidential data.
+- [( )] They are used for short-term archiving.
 
 Why are open and documented data formats preferred for long-term data storage? Choose the correct answer.
 
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
-- [( )] They are less compatible with various systems
-- [( )] They require frequent migrations
-- [(X)] They facilitate interoperability and have a longer lifespan
-- [( )] They have higher compression ratios
+- [( )] They are less compatible with various systems.
+- [( )] They require frequent migrations.
+- [(X)] They facilitate interoperability and have a longer lifespan.
+- [( )] They have higher compression ratios.
 
 *************************************************************************************************************
 
@@ -1880,7 +1913,7 @@ RDM[^1] introduces you to many new abbreviations. Which of the following abbreva
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
 - [(DFG) (ORCID) (ABCD) (DwC) (GFBio) (GBIF) (DMP) (DSI) (DOI)]
 - [ (X)    ( )    ( )    ( )   ( )     ( )    ( )   ( )   ( ) ] Deutsche Forschungsgemeinschaft
-- [ ( )    (X)    ( )    ( )   ( )     ( )    ( )   ( )   ( ) ] Open Researcher Contributor Identification Initiative (name obsolete)
+- [ ( )    (X)    ( )    ( )   ( )     ( )    ( )   ( )   ( ) ] Open Researcher Contributor Identification Initiative (full name obsolete)
 - [ ( )    ( )    (X)    ( )   ( )     ( )    ( )   ( )   ( ) ] Access to Biological Collection Data
 - [ ( )    ( )    ( )    (X)   ( )     ( )    ( )   ( )   ( ) ] Darwin Core
 - [ ( )    ( )    ( )    ( )   (X)     ( )    ( )   ( )   ( ) ] Gesellschaft für Biologische Daten (German Federation for Biological Data)
