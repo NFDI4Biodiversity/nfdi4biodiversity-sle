@@ -14,4 +14,5 @@ https://www.youtube.com/watch?v=TKJ4RdhyB5Y
 ### open question
 * angeblich lässt sich in einer issue auch auf Zeilen im Code referieren:
     * https://stackoverflow.com/questions/27615972/how-can-i-use-a-link-to-source-code-in-github-issue
-* mir werden diese Menüoptionen jedoch leider nicht angezeigt
+* mir werden diese Menüoptionen jedoch leider nicht angezeigt (in Linux)
+* bei Juliane (Windows, Firefox) funktioniert es wunderbar
