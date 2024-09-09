@@ -100,6 +100,8 @@ In the ever-evolving realms of ecology and environmental science, data play a pi
 
 As you progress through this unit, you'll become proficient in managing data effectively and contribute to the advancement of ecological and environmental science by ensuring that your research data is findable, accessible, interoperable, and reusable. These skills are not only valuable for your work but also for the broader scientific community and society as a whole. Ecology and environmental science rely heavily on data to understand the natural world and address environmental challenges - data diversity for biodiversity.
 
+___
+
 [^1]: American Museum of Natural History. (2023). What is Biodiversity? Available at: https://www.amnh.org/research/center-for-biodiversity-conservation/what-is-biodiversity. Last accessed 24 November 2023.   
 
 [^2]: Biodiversity Data Journal. (2023). Biodiversity Data Journal. Available at: https://bdj.pensoft.net/. Last accessed 24 November 2023     
@@ -143,12 +145,20 @@ To put good research practice[^6] and the FAIR principles into practice effectiv
 
 !?[This video by GFBio (2020) explains the challenges and solutions of dealing with heterogeneous data.](https://youtu.be/s2N2Nh0YNio "This video by GFBio (2020) explains the challenges and solutions of dealing with heterogeneous data.")
 
+___
+
 [^1]: Biodiversity Data Journal. (2023). Biodiversity Data Journal. Available at: https://bdj.pensoft.net/. Last accessed 24 November 2023.     
+
 [^2]: Haase, P., Tonkin, J.D., Stoll, S., Burkhard, B., Frenzel, M., Geijzendorffer, I.R., et al. (2018). The next generation of site-based long-term ecological monitoring: Linking essential biodiversity variables and ecosystem integrity. Science of The Total Environment, 613–614, 1376–1384. https://doi.org/10.1016/j.scitotenv.2017.08.111     
+
 [^3]: Brondízio, E.S., Settele, J., Díaz, S. & Ngo, H.T. (Eds.). (2019). The global assessment report of the intergovernmental science-policy platform on biodiversity and ecosystem services. Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES), Bonn. https://doi.org/10.5281/zenodo.3831673     
+
 [^4]: Wilkinson, M.D., Dumontier, M., Aalbersberg, Ij.J., Appleton, G., Axton, M., Baak, A., et al. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Sci Data, 3, 160018. https://doi.org/10.1038/sdata.2016.18     
+
 [^5]: Carroll, S.R., Garba, I., Figueroa-Rodríguez, O.L., Holbrook, J., Lovett, R., Materechera, S., et al. (2020). The CARE Principles for Indigenous Data Governance. Data Science Journal, 19, 43. https://doi.org/10.5334/dsj-2020-043     
+
 [^6]: DFG. (2022). Guidelines for Safeguarding Good Research Practice. Code of Conduct. https://doi.org/10.5281/zenodo.6472827     
+
 [^7]: Members of the Working Group on Data Management of the DFG Senate Commission on Biodiversity Research. (n.d.). Guidelines on the Handling of Research Data in Biodiversity Research. https://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/forschungsdaten/guidelines_biodiversity_research.pdf     
 
 *************************************************************************************************************
@@ -164,8 +174,12 @@ The FAIR principles were developed in 2014 in a workshop at the Lorentz Center i
 
 Data has to adhere to certain properties to be **F**indable, **A**ccessible, **I**nteroperable and **R**eusable, for example machine-readability, being deposited in a trusted repository etc. The FAIR principles have been significantly refined recently[^2]; in addition, tools have been developed to evaluate your data according to FAIR[^3]. Ultimately, the entire research data management is geared towards fulfilling these concrete verge requirements of the FAIR principles.
 
+___
+
 [^1]: Wilkinson, M.D., Dumontier, M., Aalbersberg, Ij.J., Appleton, G., Axton, M., Baak, A., et al. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Sci Data, 3, https://www.doi.org/160018   
+
 [^2]: Carroll, S.R., Garba, I., Figueroa-Rodríguez, O.L., Holbrook, J., Lovett, R., Materechera, S., et al. (2020). The CARE Principles for Indigenous Data Governance. Data Science Journal, 19, 43. https://doi.org/10.5334/dsj-2020-043   
+
 [^3]: Lang, K., Assmann, C., Neute, N., Gerlach, R. & Rex, J. (2023). FAIR Assessment Tools Overview.  https://doi.org/10.5281/zenodo.7022037   
 
 *************************************************************************************************************
@@ -177,7 +191,10 @@ Data has to adhere to certain properties to be **F**indable, **A**ccessible, **I
 
 The CARE principles (**C**ollective Benefit, **A**uthority to Control, **R**esponsibility, and **E**thics), an addition to the FAIR principles, were introduced by the Global Indigenous Data Alliance (GIDA) in 2019 to address ethical concerns related to indigenous data[^1]. They emphasise the rights of Indigenous Peoples in relation to their data, including information about their language, customs, and territories. It is true that the application of the CARE principles in Germany is still in its infancy. The Government has established the so called [3-way-strategy](https://www.kmk.org/fileadmin/Dateien/pdf/PresseUndAktuelles/2020/201014_Kontaktstelle-Sammlungsgut_Konzept_3-Wege-Strategie.pdf) to provide for access, transparency and cooperation with regard to artefacts of indigenous provenance[^2]. At the same time, they are certainly relevant for biodiversity data. For example, specimens from natural history museums have sometimes been acquired in such a way that they might contradict the CARE principles. The process of coming to terms with these relationships is just beginning and will certainly become more relevant to the biodiversity community in the future. These CARE Principles collectively aim to promote the responsible and ethical use of indigenous data, safeguarding the rights and interests of Indigenous Peoples.
 
+___
+
 [^1]: Carroll, S.R., Garba, I., Figueroa-Rodríguez, O.L., Holbrook, J., Lovett, R., Materechera, S., et al. (2020). The CARE Principles for Indigenous Data Governance. Data Science Journal, 19, 43. https://doi.org/10.5334/dsj-2020-043   
+
 [^2]: Kultusministerkonferenz. (2020). Zugang – Transparenz – Kooperation. Leitlinien einer „3 Wege-Strategie“ für die Erfassung und digitale Veröffentlichung von Sammlungsgut aus kolonialen Kontexten in Deutschland.   
 
 *************************************************************************************************************
@@ -282,7 +299,10 @@ In general, the following aspects could be relevant for planning:
 
 Creating a DMP for your research project is the initial step of the data life cycle and the starting point of your research data management[^1][^2].
 
+___
+
 [^1]: ELIXIR converge. (2023e). Data management plan. RDMkit. Available at: https://rdmkit.elixir-europe.org/data_management_plan. Last accessed 24 November 2023.   
+
 [^2]: GFBio. (2022). How to create a data management plan (DMP)? gfbio. Available at: https://www.gfbio.org/how-to-create-a-dmp. Last accessed 15 September 2022.   
 
 *************************************************************************************************************
@@ -301,6 +321,8 @@ The DMP thus records how the research data are handled during and after the rese
 The DMP contains general information about the project and the way of documentation, descriptions of the used and collected data, used metadata, and ontologies (Figure 3). Furthermore, it includes information about data storage, data security, and preservation during and after the project, sharing of the data, and publication. The responsibilities, costs, and resources needed are listed as well as information about ethical and legal issues[^1]. This is also important to meet the Nagoya protocol needs, e.g. permits for collecting samples.
 
 !?[This video by GFBio (2020) explains why you should create a DMP at the beginning of your project.](https://youtu.be/h3qAHg27jYY "This video by GFBio (2020) explains why you should create a DMP at the beginning of your project")
+
+___
 
 [^1]: ELIXIR converge. (2023b). Data Life Cycle - Planning. RDMkit. Available at: https://rdmkit.elixir-europe.org/planning. Last accessed 4 October 2022.   
 
@@ -335,6 +357,8 @@ There are different DMP templates available which you can use. Before writing yo
 1.  GFBio services provide expert guidance and assistance on standards and suitable archives. You can use the [GFBio DMP Tool](https://dmp.gfbio.org/) online, or refer to the [GFBio Model Data Management Plan (DMP)](https://data.goettingen-research-online.de/dataset.xhtml?persistentId=doi:10.25625/W3YEEQ) for basic structuring.
 2.  The HU Berlin offers standardised [DMP templates](https://www.cms.hu-berlin.de/de/dl/dataman/arbeiten/dmp_erstellen) for different funders (Horizon 2020, BMBF, DFG, Volkswagenstiftung).
 
+___
+
 [^1]: DFG. (2022). Guidelines for Safeguarding Good Research Practice. Code of Conduct. https://doi.org/10.5281/zenodo.6472827   
 
 *************************************************************************************************************
@@ -348,7 +372,10 @@ A DMP will make your project more efficient, simplify your own reuse of the data
 
 Overall, the DMP will save you time later on in the publishing process and prevents data loss - the main winner of creating a DMP is you! If you consider in advance how the data should be processed, stored, and filed, you probably won't have to reorganise your data. If, for example, it is already clear during data collection how the data is to be archived later, it can be formatted and stored right away in such a way that the transfer to the later archive is as simple as possible. Some domain-specific data centers strongly encourage you to contact them early on in a project to determine concrete requirements for taking on your data. There is a strong benefit of going towards FAIRness with a DMP: A DMP will allow you to gather in one document how to deal with the heterogeneous biodiversity data from collections, research, etc. and will serve as a model for understanding this information and disseminating it.
 
+___
+
 [^1]: ELIXIR converge. (2023b). Data Life Cycle - Planning. RDMkit. Available at: https://rdmkit.elixir-europe.org/planning. Last accessed 4 October 2022.   
+
 [^2]: forschungsdaten.info. (2023b). Der Datenmanagementplan. Eine Wegbeschreibung für Daten. Forschungsdaten und Forschungsdatenmanagement. Available at: https://forschungsdaten.info/themen/informieren-und-planen/datenmanagementplan/. Last accessed 15 September 2022.   
 
 *************************************************************************************************************
@@ -387,10 +414,16 @@ Furthermore, there are data management tools which support data management durin
 
 GFBio recommends two major systems with [tools](https://www.gfbio.org/tools/) for biodiversity data management: [Diversity Workbench](https://diversityworkbench.net/Portal/Diversity_Workbench) (DWB) and [BEXIS2](https://bexis2.github.io/software/features) and offers training for both. DWB facilitates efficient data entry, storage, and management for biodiversity research, encompassing various data types. It enforces data standardisation to maintain consistency. BEXIS2 specialises in managing large-scale biodiversity data, integrating diverse sources for easier analysis. It emphasises metadata and documentation to provide context for datasets. Both systems can further help you during data collection. In addition, various tools exist which help you collecting and managing your data in the lLab as well as in the field such as [Smatrix](https://smatrix.systems/), [RightField](https://rightfield.org.uk/) and Laboratory Information Management Systems (LIMS) or Electronic Lab Notebooks[^2][^3][^4][^5]. Smatrix and RightField aid in data collection and structuring, while LIMS systems provide comprehensive solutions for data organisation and management within laboratory environments. ELNs, on the other hand, offer digital platforms for recording, storing, and sharing experimental findings, streamlining the research process. Together, these tools play a pivotal role in advancing data management capabilities.
 
+___
+
 [^1]: ELIXIR converge. (2023e). Data management plan. RDMkit. Available at: https://rdmkit.elixir-europe.org/data_management_plan. Last accessed 24 November 2023.   
+
 [^2]: ELIXIR converge. (2022b). Data Life Cycle - Collecting. RDMkit. Available at: https://rdmkit.elixir-europe.org/collecting. Last accessed 4 October 2023.   
+
 [^3]: GFBio. (2023c). GFBio Training Materials: Data Life Cycle Fact-Sheet: Data Life Cycle: Collect. GFBio. Available at: https://www.gfbio.org/training/material/data-life-cycle/collect/. Last accessed 27 November 2023.   
+
 [^4]: Wolstencroft, K., Owen, S., Horridge, M., Krebs, O., Mueller, W., Snoep, J.L., et al. (2011). RightField: embedding ontology annotation in spreadsheets. Bioinformatics, 27, 2021–2022. https://www.doi.org/10.1093/bioinformatics/btr312   
+
 [^5]: ZB Med. (2023). ELN Finder. TU Darmstadt. Available at: https://eln-finder.ulb.tu-darmstadt.de/home. Last accessed 30 October 2023.   
 
 *************************************************************************************************************
@@ -466,7 +499,10 @@ After completing this chapter, you will be able to...
     {{8}}
 ...name the important elements of taxonomic information that are necessary to merge different species data sets
 
+___
+
 [^1]: ELIXIR converge. (2022b). Data Life Cycle - Collecting. RDMkit. Available at: https://rdmkit.elixir-europe.org/collecting. Last accessed 4 October 2023.   
+
 [^2]: GFBio. (2023c). GFBio Training Materials: Data Life Cycle Fact-Sheet: Data Life Cycle: Collect. GFBio. Available at: https://www.gfbio.org/training/material/data-life-cycle/collect/. Last accessed 27 November 2023.   
 
 *************************************************************************************************************
@@ -534,7 +570,10 @@ eLabFTW is a free, secure and open source ELN for research teams. You can docume
 
 !?[This video by The NOMAD Laboratory (2022) shows you how to set up eLabFTW.](https://www.youtube.com/watch?v=oEsJmlKy4WE "This video by The NOMAD Laboratory (2022) shows you how to set up eLabFTW.")
 
+___
+
 [^1]: NFDI4Chem. (2023). Electronic Lab Notebooks (ELNs). NFDI4Chem Knowledge Base. Available at: https://knowledgebase.nfdi4chem.de/knowledge_base/docs/eln/. Last accessed 4 October 2023.   
+
 [^2]: TU Darmstadt. (2023). ELN Finder. ELN Finder. Available at: https://eln-finder.ulb.tu-darmstadt.de/search. Last accessed 21 November 2023.   
 
 *************************************************************************************************************
@@ -546,7 +585,10 @@ eLabFTW is a free, secure and open source ELN for research teams. You can docume
 
 A crucial step in RDM is to describe your data in a way that you and other researchers can understand, find, reuse and properly cite your data. Making your data FAIR means that you need to describe the data in a structured and detailed way. A structured description of the data is called metadata. It contains information about the subject and the creator of the data, such as why, how, where and when the data was generated and what the content of the data is. To avoid errors and to create compatible and interoperable metadata, specific metadata standards can be used[^1][^2].
 
+___
+
 [^1]: ELIXIR converge. (2023f). Documentation and metadata. RDMkit. Available at: https://rdmkit.elixir-europe.org/metadata_management. Last accessed 2 October 2023.   
+
 [^2]: GFBio. (2023d). GFBio Training Materials: Data Life Cycle Fact-Sheet: Data Life Cycle: Describe. GFBio. Available at: https://www.gfbio.org/training/material/data-life-cycle/describe/. Last accessed 27 November 2023.   
 
 *************************************************************************************************************
@@ -564,7 +606,10 @@ In order to assign metadata correctly and to be able to continue to use your dat
 
 Often, however, it is no longer possible to create certain metadata retrospectively. This can be the case, for example, in a long project when it is necessary to explain the provenance (origin) of the data precisely for others.
 
+___
+
 [^1]: ELIXIR converge. (2023f). Documentation and metadata. RDMkit. Available at: https://rdmkit.elixir-europe.org/metadata_management. Last accessed 2 October 2023.   
+
 [^2]: GFBio. (2023d). GFBio Training Materials: Data Life Cycle Fact-Sheet: Data Life Cycle: Describe. GFBio. Available at: https://www.gfbio.org/training/material/data-life-cycle/describe/. Last accessed 27 November 2023.   
 
 *************************************************************************************************************
@@ -636,6 +681,8 @@ There are many different metadata standards, some are more generic (e.g. [Dublin
 
 -   [Data submission templates for biodiversity, ecological and collection data - GFBio Data Cent](https://gfbio.biowikifarm.net/wiki/Data_submission_templates_for_biodiversity,_ecological_and_collection_data)ers
 
+___
+
 [^1]: ELIXIR converge. (2023f). Documentation and metadata. RDMkit. Available at: https://rdmkit.elixir-europe.org/metadata_management. Last accessed 2 October 2023.   
 
 *************************************************************************************************************
@@ -703,7 +750,10 @@ Biodiversity encompasses different approaches that are related to the underlying
 
 However, species names and concepts are not static; they evolve across both space and time. Harmonising species names from various datasets is an essential aspect of data integration in the field of biological sciences[^2]. The main reason for the diversity of taxonomies lies in the existence of multiple scientifically sound methods for defining a species. Diverse institutions and academic traditions curate a multitude of taxonomic frameworks for a wide range of taxa. These differing species concepts can diverge markedly when it comes to determining which populations should be included or excluded in the characterization of a species. It's essential to recognize that no single concept comprehensively accounts for all facets of diversity across all organisms. Equally important is understanding which taxonomic reference databases are suitable for specific taxa.
 
+___
+
 [^1]: Grace, O.M., Pérez-Escobar, O.A., Lucas, E.J., Vorontsova, M.S., Lewis, G.P., Walker, B.E., et al. (2021). Botanical Monography in the Anthropocene. Trends in Plant Science, 26, 433–441. https://doi.org/10.1016/j.tplants.2020.12.018   
+
 [^2]: Sandall, E.L., Maureaud, A.A., Guralnick, R., McGeoch, M.A., Sica, Y.V., Rogan, M.S., et al. (2023). A globally integrated structure of taxonomy to support biodiversity science and conservation. Trends in Ecology & Evolution, https://doi.org/10.1016/j.tree.2023.08.004   
 
 *************************************************************************************************************
@@ -729,10 +779,16 @@ Other noteworthy concepts include the evolutionarily significant unit (conservat
 
 These concepts illuminate the diverse ways species are defined and have significant implications in various fields of biology and conservation.
 
+___
+
 [^1]: Darwin, C. (1859). On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life. John Murray, London.   
+
 [^2]: Mayr, E. (1942). Systematics and the origin of species, from the viewpoint of a zoologist. Columbia University Press, New York.   
+
 [^3]: Linnaeus, C. (1753). Species plantarum. 1st edition. Laurentius Salvius, Stockholm, Sweden.   
+
 [^4]: Nixon, K.C. & Wheeler, Q.D. (1990). An amplification of the phylogenetic species concept. Cladistics, 6, 211–223. https://www.doi.org/10.1111/j.1096-0031.1990.tb00541.x   
+
 [^5]: Hebert, P.D.N., Cywinska, A., Ball, S.L. & DeWaard, J.R. (2003). Biological identifications through DNA barcodes. Proceedings of the Royal Society B-Biological Sciences, 270. https://www.doi.org/10.1098/rspb.2002.2218   
 
 *************************************************************************************************************
@@ -750,7 +806,10 @@ Understanding species and subspecies is crucial in conservation efforts, aiding 
 
 In summary, species data integration is pivotal in safeguarding biodiversity and making informed decisions with far-reaching implications.
 
+___
+
 [^1]: IPBES. (2016). Summary for policymakers of the assessment report of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services on pollinators, pollination and food production. Zenodo. https://doi.org/10.5281/zenodo.2616458   
+
 [^2]: IPBES. (2019). Summary for policymakers of the global assessment report on biodiversity and ecosystem services. Zenodo. https://doi.org/10.5281/zenodo.3553458   
 
 *************************************************************************************************************
@@ -864,9 +923,14 @@ If you are collecting new taxonomic data yourself, or in collaboration with taxo
 
 Species names connect physical, functional, spatial, and genetic data sets. Providing detailed taxonomic metadata will help to keep your data alive and re-usable for your own and for others research.
 
+___
+
 [^1]: Schellenberger Costa, D., Boehnisch, G., Freiberg, M., Govaerts, R., Grenié, M., Hassler, M., et al. (2023). The big four of plant taxonomy – a comparison of global checklists of vascular plant names. New Phytologist, nph. https://doi.org/10.1111/nph.18961   
+
 [^2]: Grenié, M., Berti, E., Carvajal-Quintero, J., Dädlow, G., Sagouis, A. & Winter, M. (2021). taxharmonizexplorer - Navigate the Taxonomic Harmonization landscape. taxharmonizeexplorer. Available at: https://mgrenie.shinyapps.io/taxharmonizexplorer/. Last accessed 24 October 2023.   
+
 [^3]: Grenié, M., Berti, E., Carvajal‐Quintero, J., Dädlow, G.M.L., Sagouis, A. & Winter, M. (2022). Harmonizing taxon names in biodiversity data: A review of tools, databases and best practices. Methods Ecol Evol, 2041–210X.13802. https://doi.org/10.1111/2041-210X.13802   
+
 [^4]: Sandall, E.L., Maureaud, A.A., Guralnick, R., McGeoch, M.A., Sica, Y.V., Rogan, M.S., et al. (2023). A globally integrated structure of taxonomy to support biodiversity science and conservation. Trends in Ecology & Evolution, S016953472300215X. https://doi.org/10.1016/j.tree.2023.08.004   
 
 *************************************************************************************************************
@@ -978,11 +1042,18 @@ After completing this chapter, you will be able to...
         {{2}}
 ...explain why code management helps to make your data analyses more transparent
 
+___
+
 [^1]: ELIXIR converge. (2022a). Data Life Cycle - Analysing. RDMkit. Available at: https://rdmkit.elixir-europe.org/analysing. Last accessed 4 October 2023.   
+
 [^2]: ELIXIR converge. (2023a). Data Analysis. RDMkit. Available at: https://rdmkit.elixir-europe.org/data_analysis. Last accessed 4 October 2023.   
+
 [^3]: GFBio. (2021a). GFBio Training Materials: Data Life Cycle Fact-Sheet: Data Life Cycle: Analyze. GFBio. Available at: https://www.gfbio.org/training/material/data-life-cycle/analyze/. Last accessed 10 October 2023.   
+
 [^4]: ELIXIR converge. (2022a). Data Life Cycle - Analysing. RDMkit. Available at: https://rdmkit.elixir-europe.org/analysing. Last accessed 4 October 2023.   
+
 [^5]: ELIXIR converge. (2023a). Data Analysis. RDMkit. Available at: https://rdmkit.elixir-europe.org/data_analysis. Last accessed 4 October 2023.   
+
 [^6]: GFBio. (2021a). GFBio Training Materials: Data Life Cycle Fact-Sheet: Data Life Cycle: Analyze. GFBio. Available at: https://www.gfbio.org/training/material/data-life-cycle/analyze/. Last accessed 10 October 2023.   
 
 *************************************************************************************************************
@@ -1110,7 +1181,10 @@ After completing this chapter, you will be able to...
         {{5}}
 ...choose a repository where to publish your data
 
+___
+
 [^1]: ELIXIR converge. (2023c). Data Life Cycle - Preserving. RDMkit. Available at: https://rdmkit.elixir-europe.org/preserving. Last accessed 4 October 2023.   
+
 [^2]: GFBio. (2023e). GFBio Training Materials: Data Life Cycle Fact-Sheet: Data Life Cycle: Preserve. GFBio. Available at: https://www.gfbio.org/training/material/data-life-cycle/preserve/. Last accessed 27 November 2023.   
 
 *************************************************************************************************************
@@ -1231,7 +1305,10 @@ Check [re3data.org](https://www.re3data.org/) and further resources listed in [T
 
 Data centers, in contrast to repositories, are well-equipped to ensure long-term preservation of data, often adhering to domain-specific standards and best practices for data management and archiving. They are typically connected to data portals that systematically harvest and disseminate metadata, enhancing data discoverability and accessibility on a broader scale. This structured approach and their commitment to domain-specific standards make data centers a reliable choice for researchers seeking robust and standardised long-term data preservation solutions. NFDI4Biodiversity collaborates with a network of specialised data centers, the GFBio Data Centers ([Table 5](#Table-5.-List-of-GFBio-Data-Centers)), each with distinct expertise. These centres include those focused on nucleotide, plant, and environmental data such as e!DAL-PGP, ENA, and PANGAEA, as well as data centers associated with natural science collections like the Botanical Garden and Botanical Museum Berlin (BGBM), DSMZ-German Collection of Microorganisms and Cell Cultures, Leibniz-Institut zur Analyse des Biodiversitätswandels (LIB), Museum für Naturkunde Berlin (MfN), Senckenberg, Staatliches Museum für Naturkunde Stuttgart (SMNS) and Staatliche Naturwissenschaftliche Sammlungen Bayerns (SNSB). These centres can manage a wide range of data types crucial for biodiversity research, from occurrence data and environmental variables to molecular sequences, multimedia files, experimental measurements, and even geospatial data like orthophotos and digital surface models, offering comprehensive support for biodiversity-related research endeavours. The method for data submission varies depending on the data center you choose. You have the option to submit data directly or utilise tools like Diversity Workbench. Additionally, the [GFBio Data Submission Service](https://submissions.gfbio.org/) offers professional assistance, particularly beneficial if you are dealing with heterogeneous datasets or are uncertain about the most suitable data center for your specific requirements. Regardless of where you end up publishing your data, always make sure to include a descriptive "metadata file" in addition to the data, describing the data and setting out the context of the data collection.
 
+___
+
 [^1]: forschungsdaten.info. (2023a). Datenschutzrecht. Schutz von personenbezogenen Forschungsdaten. forschungsdaten.info. Available at: https://forschungsdaten.info/themen/rechte-und-pflichten/datenschutzrecht/. Last accessed 28 September 2023   
+
 [^2]: DFG. (2022). Guidelines for Safeguarding Good Research Practice. Code of Conduct. https://doi.org/10.5281/zenodo.6472827   
 
 *************************************************************************************************************
@@ -1357,8 +1434,12 @@ Sharing data for reproducing results is essential to science and practice. Howev
 
 To publish your data, make sure you have the rights for it, keep all ethical, legal or intellectual property restrictions in mind, check the requirements of your funder or institution, use persistent identifiers, so that the data is citable and consider applying for a specific licence [^1][^3].
 
+___
+
 [^1]: ELIXIR converge. (2023d). Data Life Cycle - Sharing. RDMkit. Available at: https://rdmkit.elixir-europe.org/sharing. Last accessed 2 October 2023.   
+
 [^2]: ALLEA. (2017). The European Code of Conduct for Research Integrity. allea All European Academies. Available at: https://www.allea.org/wp-content/uploads/2017/05/ALLEA-European-Code-of-Conduct-for-Research-Integrity-2017.pdf. Last accessed 30 October 2023.   
+
 [^3]: GFBio. (2023f). GFBio Training Materials: Data Life Cycle Fact-Sheet: Data Life Cycle: Publish. GFBio. Available at: https://www.gfbio.org/training/material/data-life-cycle/publish/. Last accessed 27 November 2023.   
 
 *************************************************************************************************************
@@ -1392,6 +1473,8 @@ Before data can be made publicly available, there are many legal aspects to cons
 ![Figure 6 is showing the decision process for data publication. Most of the questions that have to be answered with yes or no in order to reach a decision relate to the legal usability of the data or datasets. This concerns, for example, whether the data was collected by third parties or whether it can be anonymised](images/figure6_decide_data_publication.png "Figure 6. Decision-making process for data publication, Source: [Forschungsdaten veröffentlichen?](https://doi.org/10.5281/ZENODO.3368292)[^1], English translation by HeFDI, [CC0](https://creativecommons.org/public-domain/cc0/)")
 
 Essentially, but not exclusively, questions of data protection and copyright must be clarified before publication. The decisive course for the possibility of publishing research data in a repository is therefore often already set when the data are collected, and the corresponding declarations of consent are obtained. If you are unsure, contact the legal department of your university or institute.
+
+___
 
 [^1]: Schleußinger, M. & Rex, J. (2019). Forschungsdaten veröffentlichen? https://doi.org/10.5281/zenodo.3368292   
 
@@ -1498,6 +1581,8 @@ Copyright is a legal concept that grants creators the exclusive right to control
 
 In the case of non-protected research data (e.g. measurement results), it can be unclear from a legal point of view who has the decision-making authority over the data in a specific individual case. Whether a possible personal right of the scientist also allows an assignment of the research data to a person in these cases is disputed. There may also be rights of the employing institution. **Please make sure you discuss this topic early on and openly with your co-workers and supervisors to avoid conflict later on.** A **data management plan** helps to define each contributor's rights of use of project data before any data is collected.
 
+___
+
 [^1]: Act on Copyright and Related Rights. (2021). Urheberrechtsgesetz – UrhG.   
 
 *************************************************************************************************************
@@ -1533,9 +1618,14 @@ These licenses are shown in circles with the respective abbreviations and symbol
 At the bottom of the spectrum, labeled as "least open," is the traditional copyright symbol, a "C" within a circle, with the words "all rights reserved" next to it, and a bar indicating a gradient from green at the top (most open) to red at the bottom (least open).
 The background is divided into sections of light green, cream, and grey, each section darker as the licenses become less open. The graphic serves as a guide to understanding the levels of permissions and restrictions associated with different types of copyright licenses.](images/figure7_CC-license_spectrum.png "Figure 7. [Creative Commons License Spectrum](https://commons.wikimedia.org/wiki/File:Creative_commons_license_spectrum.svg) by Shaddim, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)]"))
 
+___
+
 [^1]: HeFDI-Hessische Forschungsdateninfrastrukturen. (2021). Rechtliche Rahmenbedingungen des Forschungsdatenmanagements - Teil 1: Urheber- und Leistungsschutzrechte an Forschungsdaten; Teil 2: Entscheidungsbefugnis über den Umgang mit Forschungsdaten; Teil 3: Nutzungsrechtseinräumung an Forschungsdaten, Teil 7: Veröffentlichung und Lizenzierung von Forschungsdaten, Teil 8: (Nach-)Nutzung fremder Forschungsdaten, Teil 9: Haftungen bei Rechtsverletzungen im Rahmen des Forschungsdatenmanagements. Zenodo. https://doi.org/10.5281/zenodo.4625417   
+
 [^2]: Langner, P., Krippes, C. & Dworschak, N. (2022). Rechtliche Rahmenbedingungen des Forschungsdatenmanagements - Teil 10: Datenschutzrechtliche Vorgaben bei personenbezogenen Daten, Teil 11: Rechtmäßigkeit der Datenverarbeitung personenbezogener Daten, Teil 12: Haftungsfragen bei personenbezogenen Daten. https://www.doi.org/10.5281/ZENODO.6357219   
+
 [^3]: Klimpel, P. (2012). Freies Wissen dank Creative-Commons-Lizenzen. Folgen, Risiken und Nebenwirkungen der Bedingung »nicht-kommerziell – NC«.   
+
 [^4]: Kreutzer, T. & Deutsche UNESCO-Kommission (Eds.). (2014). Open Content: a practical guide to using Creative Commons Licences. German Comm. for UNESCO, Bonn.   
 
 *************************************************************************************************************
@@ -1592,7 +1682,10 @@ The following Figure 9 illustrates the issues of the transfer of exploitation ri
 
 It should be noted that the granting of rights of use within the framework of service and employment contracts may also be tacit if the granting of rights of use is not expressly regulated in the contract. Within the framework of the (tacit) granting, the scientist also leaves the right to determine to the employer whether and how the work is published. On the other hand, each scientist retains their right to be named.
 
+___
+
 [^1]: Act on Copyright and Related Rights. (2021). Urheberrechtsgesetz – UrhG.   
+
 [^2]: Brettschneider, P. (2020). Wem “gehören” Forschungsdaten? https://doi.org/10.5281/zenodo.3762995   
 
 *************************************************************************************************************
@@ -1628,7 +1721,10 @@ According to the German Federal Environmental Information Act ([Umweltinformatio
 
 Environmental information includes data on the state of air, atmosphere, water, soil, landscape and natural habitats, as well as information on noise, energy, substances or radiation. But citizens can also obtain environmental information about plans and programs that actually or potentially affect the environment, about the implementation of environmental law or cost-benefit analyses of environmental projects[^1][^2].
 
+___
+
 [^1]: Bundesamt für Naturschutz (BfN). (2023). Zugang zu Umweltinformationen. BfN. Available at: https://www.bfn.de/zugang-zu-umweltinformationen. Last accessed 30 October 2023.   
+
 [^2]: BMUV. (2023). Umweltinformation. Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz. Available at: https://www.bmuv.de/themen/umweltinformation/ueberblick-umweltinformation. Last accessed 16 October 2023.   
 
 *************************************************************************************************************
@@ -1648,8 +1744,12 @@ For more information on the implications of the Nagoya Protocol in your research
 
 The genetic resources provided by a country can be decoded and digitally archived as DNA sequence data, known as digital sequence information (DSI) in policy circles[^2]. DSI, and its open-access in databases, has revolutionised life sciences and became the foundation of modern-day biodiversity research and technological innovation in fields as diverse as medicine, food security, and green energy production[^3]. Until recently, there were no agreements on the access to the DSI generated from the sovereign genetic resources because the use of DSI is unconnected from physical access and related permits, and financial advantages from DSI via commercialization do not return to the provider countries -- many of which are low- and middle-income countries (LMICs). DSI is seen as a flaw that prevents the fair and equal distribution of benefits, violating their sovereign rights[^3]. During the Conference of the Parties under the Convention on Biological Diversity (COP 15), in December 2022, the parties endorsed an agreement on DSI benefit sharing. The decision calls for a multilateral mechanism which is decoupled from the access and use of DSI, aiming to ensure the open-access to DSI as we know. How the mechanism will actually be implemented, however, is still under debate and to be further discussed. In order to provide the scientific community a voice in worldwide policy discussions on DSI, the [DSI Scientific Network](https://www.dsiscientificnetwork.org/) was established. Their main goal is to bring awareness to policymakers and other stakeholders on the global advantages of open-access to DSI through public online databases and the importance to research, biodiversity conservation, and public health.
 
+___
+
 [^1]: Schroeder, D. (2007). Benefit sharing: it’s time for a definition. Journal of Medical Ethics, 33, 205–209. https://www.doi.org/10.1136/jme.2006.016790   
+
 [^2]: Brink, M. & Van Hintum, T. (2022). Practical consequences of digital sequence information (DSI) definitions and access and benefit‐sharing scenarios from a plant genebank’s perspective. Plants People Planet, 4, 23–32. https://www.doi.org/10.1002/ppp3.10201   
+
 [^3]: Scholz, A.H., Freitag, J., Lyal, C.H.C., Sara, R., Cepeda, M.L., Cancio, I., et al. (2022). Multilateral benefit-sharing from digital sequence information will support both science and biodiversity conservation. Nat Commun, 13, 1086. https://www.doi.org/10.1038/s41467-022-28594-0   
 
 *************************************************************************************************************
