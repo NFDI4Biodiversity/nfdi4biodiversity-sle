@@ -101,9 +101,13 @@ In the ever-evolving realms of ecology and environmental science, data play a pi
 As you progress through this unit, you'll become proficient in managing data effectively and contribute to the advancement of ecological and environmental science by ensuring that your research data is findable, accessible, interoperable, and reusable. These skills are not only valuable for your work but also for the broader scientific community and society as a whole. Ecology and environmental science rely heavily on data to understand the natural world and address environmental challenges - data diversity for biodiversity.
 
 [^1]: American Museum of Natural History. (2023). What is Biodiversity? Available at: https://www.amnh.org/research/center-for-biodiversity-conservation/what-is-biodiversity. Last accessed 24 November 2023.   
+
 [^2]: Biodiversity Data Journal. (2023). Biodiversity Data Journal. Available at: https://bdj.pensoft.net/. Last accessed 24 November 2023     
+
 [^3]: National Geographic. (2023). Biodiversity. Available at: https://education.nationalgeographic.org/resource/biodiversity. Last accessed 24 November 2023.     
-[^4]: Wilkinson, M.D., Dumontier, M., Aalbersberg, Ij.J., Appleton, G., Axton, M., Baak, A., et al. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Sci Data, 3, 160018. http://"]https://doi.org/10.1038/sdata.2016.18     
+
+[^4]: Wilkinson, M.D., Dumontier, M., Aalbersberg, Ij.J., Appleton, G., Axton, M., Baak, A., et al. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Sci Data, 3, 160018. http://"]https://doi.org/10.1038/sdata.2016.18    
+
 [^5]: Carroll, S.R., Garba, I., Figueroa-Rodríguez, O.L., Holbrook, J., Lovett, R., Materechera, S., et al. (2020). The CARE Principles for Indigenous Data Governance. Data Science Journal, 19, 43. https://doi.org/10.5334/dsj-2020-043     
 
 *************************************************************************************************************
