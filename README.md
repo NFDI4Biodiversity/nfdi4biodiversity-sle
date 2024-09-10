@@ -386,7 +386,7 @@ ___
 *************************************************************************************************************
 There is now a whole range of tools to support researchers during each step of the data lifecycle. Data Management Planning tools, for example, facilitate the creation of data management plans either using text modules ([RDMO Organiser on GitHub](https://rdmorganiser.github.io/en/), [RDMO University Marburg](https://rdmo.uni-marburg.de/)) or one is guided through a catalogue of questions. There are usually different templates for different funders and purposes that often provide web-based DMP tools that help you to draft your own suitable DMP[^1]. GFBio, for instance, offers a Data Management Plan Tool ([GFBio DMP-Tool](https://dmp.gfbio.org/), [DMP Tool](https://dmptool.org/), [DMP online](https://dmponline.dcc.ac.uk/)) that is tailored to create customised DMPs according to DFG guidelines based on the requirements of biodiversity, ecological, and environmental projects. Further, GFBio offers professional support. Thus, your DMP will be cross-checked by experts in the field.
 
-![Figure 3a. shows the user interface of the GFBio DMP Tool with the entry fields "Name", "Category", "Reproducible", "Additional information" and "Project Type"](images/figure3a_DMP_form.png "Figure 3a. User interface of the [GFBio DMP Tool](https://dmp.gfbio.org/).") ![Figure 3b. shows the final DMP created with the GFBio DMP tool. Besides showing the information the user just provided in the "general project information" like explained in fgire 3a., it also delivers information about the data collection, like the type of data or the number of datasets e.g.](images/figure3b_DMP_example.png "Figure 3b. Final data management plan created with the [GFBio DMP Tool](https://dmp.gfbio.org/).")
+![Figure 3a shows the user interface of the GFBio DMP Tool with the entry fields "Name", "Category", "Reproducible", "Additional information", and "Project Type"](images/figure3a_DMP_form.png "Figure 3a. User interface of the [GFBio DMP Tool](https://dmp.gfbio.org/).") ![Figure 3b shows the final DMP created with the GFBio DMP tool. Besides showing the information the user just provided in the "general project information" like explained in figure 3a, it also delivers information about the data collection, like the type of data or the number of datasets e.g.](images/figure3b_DMP_example.png "Figure 3b. Final data management plan created with the [GFBio DMP Tool](https://dmp.gfbio.org/).")
 
 Furthermore, there are data management tools which support data management during the active project phase. Data management tools are software applications or platforms designed to efficiently collect, store, organise, process, and analyse data, but they often have to be set up and hosted by your institution or project partners. Here's a brief explanation of key aspects of data management tools:
 
@@ -646,7 +646,7 @@ Some metadata requirements are always the same. This also applies to the categor
 
 ![The image is a colorful diagram with an octagonal shape made up of several smaller segments, centered around the concept of "Research data", which is written in the middle of a yellow hexagonal core.
 Around this core are six orange hexagons with the questions "What", "Who", "Where", "When", "Why", and "With what", each pointing to the central concept.
-Surrounding these question hexagons are larger blue segments with more specific details related to the questions:
+Surrounding these question hexagons are larger blue segments with more specific details related to the following questions. 
 "What" points to "Research subject" and "Unambiguous attribution of research data".
 "Who" points to "Researcher with persistent ID" and "DOI for research data and metadata".
 "Where" points to "Geographical features", "Country", "Society", and "Laboratory conditions".
@@ -885,9 +885,9 @@ To integrate taxonomic data sets for your own purposes, you should match the two
 
 
 ![This image is a diagram explaining the concept of "Taxonomic Harmonization" between two datasets, A and B.
-On the left side, labeled "Dataset A," there are circles with different colors and labels representing the conservation status of species: green with 'LC' for Sp1, yellow with 'VU' for Sp2, teal with 'NT' for Sp3, and red with 'CR' for Sp5.
+On the left side, labeled "Dataset A", there are circles with different colors and labels representing the conservation status of species: green with 'LC' for Sp1, yellow with 'VU' for Sp2, teal with 'NT' for Sp3, and red with 'CR' for Sp5.
 In the center, there is a column with the title "Taxonomic Reference Database" with a list of species, Sp1 to Sp6. The species from Dataset A (Sp1, Sp2, Sp3, and Sp5) are matched with their counterparts in the database. Sp5 from Dataset A is dashed, indicating an uncertain match with Sp6 in the database.
-On the right side, labeled "Dataset B," there are colored bars representing the traits of species Sp2, Sp3, Sp4, and Sp6, with each species having a unique combination of colors.
+On the right side, labeled "Dataset B", there are colored bars representing the traits of species Sp2, Sp3, Sp4, and Sp6, with each species having a unique combination of colors.
 Arrows show the correspondence between the datasets and the taxonomic reference database, illustrating the process of harmonization where species are cross-referenced and aligned between different datasets based on a standard taxonomic concept.](images/figure5_taxonomic_reference_databases_Grenie_etal2022.PNG "Figure 5. Taxonomic reference databases are essential to integrate taxonomic data sets. Source: Grenié et al. (2023)[^3]")
 
 Taxonomic databases serve specific tasks and encompass different aspects of biodiversity. The suitability of a particular database for your project depends on the type of data you are looking for [^4]:
