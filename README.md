@@ -646,12 +646,7 @@ Some metadata requirements are always the same. This also applies to the categor
 
 ![The image is a colorful diagram with an octagonal shape made up of several smaller segments, centered around the concept of "Research data", which is written in the middle of a yellow hexagonal core.
 Around this core are six orange hexagons with the questions "What", "Who", "Where", "When", "Why", and "With what", each pointing to the central concept.
-Surrounding these question hexagons are larger blue segments with more specific details related to the following questions. 
-"What" points to "Research subject" and "Unambiguous attribution of research data".
-"Who" points to "Researcher with persistent ID" and "DOI for research data and metadata".
-"Where" points to "Geographical features", "Country", "Society", and "Laboratory conditions".
-"When" points to "Date of the survey", "Day Night", and "Season".
-"Why" points to "Research question and hypothesis".
+Surrounding these question hexagons are larger blue segments with more specific details related to the following questions.
 "With what" points to "Devices and measurement technology used", "Documentation of the procedure", and "Settings of devices and techniques used".
 Each of these blue segments also contains smaller text detailing various aspects of research data management, such as rights of use, citation guidelines, possible uses of data, co-authors, and parameters.
 The overall diagram serves as a visual guide to the considerations and components of managing and understanding research data, emphasizing the interconnectedness of these elements.](images/figure4metadatacategoriesFOKUSproject.png 
