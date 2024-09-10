@@ -644,9 +644,7 @@ If specific software was used to create the research data, the name of the softw
 
 Some metadata requirements are always the same. This also applies to the categories just listed, which are very generic. For such cases, there are subject-independent metadata standards. Other requirements can differ greatly between different disciplines. Therefore, there are subject-specific standards that cover these requirements.
 
-![The image is a colorful diagram with an octagonal shape made up of several smaller segments, centered around the concept of "Research data", which is written in the middle of a yellow hexagonal core.
-Around this core are six orange hexagons with the questions "What", "Who", "Where", "When", "Why", and "With what", each pointing to the central concept.
-Surrounding these question hexagons are larger blue segments with more specific details related to the following questions.](images/figure4metadatacategoriesFOKUSproject.png 
+![The image is a colorful diagram with an octagonal shape made up of several smaller segments, centered around the concept of "Research data", which is written in the middle of a yellow hexagonal core.](images/figure4metadatacategoriesFOKUSproject.png 
 "Figure 4. Different categories of metadata to describe the actual research data. Source: [FOKUS](https://www.uni-marburg.de/en/hefdi/about-hefdi/projects/fokus), by Henrike Becker, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), English translation by HeFDI.")
 
 *************************************************************************************************************
