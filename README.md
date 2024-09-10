@@ -644,17 +644,7 @@ If specific software was used to create the research data, the name of the softw
 
 Some metadata requirements are always the same. This also applies to the categories just listed, which are very generic. For such cases, there are subject-independent metadata standards. Other requirements can differ greatly between different disciplines. Therefore, there are subject-specific standards that cover these requirements.
 
-![The image is a colorful diagram with an octagonal shape made up of several smaller segments, centered around the concept of "Research data," which is written in the middle of a yellow hexagonal core.
-Around this core are six orange hexagons with the questions "What," "Who," "Where," "When," "Why," and "With what," each pointing to the central concept.
-Surrounding these question hexagons are larger blue segments with more specific details related to the questions:
-"What" points to "Research subject" and "Unambiguous attribution of research data."
-"Who" points to "Researcher with persistent ID" and "DOI for research data and metadata."
-"Where" points to "Geographical features," "Country," "Society," and "Laboratory conditions."
-"When" points to "Date of the survey," "Day/night," and "Season."
-"Why" points to "Research question and hypothesis."
-"With what" points to "Devices and measurement technology used," "Documentation of the procedure," and "Settings of devices and techniques used."
-Each of these blue segments also contains smaller text detailing various aspects of research data management, such as rights of use, citation guidelines, possible uses of data, co-authors, and parameters.
-The overall diagram serves as a visual guide to the considerations and components of managing and understanding research data, emphasizing the interconnectedness of these elements.](images/figure4metadatacategoriesFOKUSproject.png)
+![](images/figure4metadatacategoriesFOKUSproject.png)
 
 "Figure 4. Different categories of metadata to describe the actual research data. Source: [FOKUS](https://www.uni-marburg.de/en/hefdi/about-hefdi/projects/fokus), by Henrike Becker, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), English translation by HeFDI."
 
