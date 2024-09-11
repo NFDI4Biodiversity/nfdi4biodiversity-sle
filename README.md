@@ -961,7 +961,7 @@ How should metadata ideally be stored?
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
 - [( )] I create metadata according to my own schema according to the requirements of my own research data.
 - [(X)] Metadata should be created according to specific metadata standards.
-- [( )]Metadata should only be readable by myself in order to protect my research data.
+- [( )] Metadata should only be readable by myself in order to protect my research data.
 ***
 Correct. Ideally, metadata should be available as subject-specific standards. However, this is not always the case, so depending on the research project, metadata sometimes has to be created.
 ***
@@ -1333,9 +1333,9 @@ Which of these statements are true? Select all correct answers.
 
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
 - [[ ]] Published data is always open access.
-- [[ ]] Metadata should be accessible, even if data access is restricted.
+- [[X]] Metadata should be accessible, even if data access is restricted.
 - [[X]] Publishing data in a subject-specific repository will increase data visibility and data citations.
-- [[X]] Publishing data is always free of charge.
+- [[ ]] Publishing data is always free of charge.
 
 What is a repository?
 
