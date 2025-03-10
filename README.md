@@ -2,6 +2,8 @@
 
 language: en
 
+translate: false
+
 narrator: English Female
 
 author: Marlen Fischer, Juliane Röder, Johannes Signer, Daniel Tschink, Tanja Weibulat, Ortrun Brand
