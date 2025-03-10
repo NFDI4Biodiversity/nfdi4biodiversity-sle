@@ -2,7 +2,7 @@
 
 language: en
 
-translate: false
+translation: Please note that by using Google translate, the Google Terms of Service apply.
 
 narrator: English Female
 
