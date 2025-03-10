@@ -2,7 +2,7 @@
 
 language: en
 
-translation: any other language: Please note that by using Google translate, the Google Terms of Service apply.
+translation: any other language - Please note that by using Google Translate, the Google Terms of Service apply.
 
 narrator: English Female
 
