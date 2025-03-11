@@ -1,22 +1,4 @@
 <!--
-
-language: en
-
-translation: any other language - Please note that by using Google Translate, the Google Terms of Service apply.
-
-narrator: English Female
-
-author: Marlen Fischer, Juliane Röder, Johannes Signer, Daniel Tschink, Tanja Weibulat, Ortrun Brand
-
-comment: **NFDI4Biodiversity Self-Study Unit - Research Data Management for Biodiversity Data**
-
-classroom: false
-
-version: 1.2.0
-
--->
-
-<!--
 @onload
 
 setTimeout(function() {
@@ -38,6 +20,19 @@ setTimeout(function() {
 }, 2000)
 
 @end
+
+language: en
+
+narrator: English Female
+
+author: Marlen Fischer, Juliane Röder, Johannes Signer, Daniel Tschink, Tanja Weibulat, Ortrun Brand
+
+comment: **NFDI4Biodiversity Self-Study Unit - Research Data Management for Biodiversity Data**
+
+classroom: false
+
+version: 1.2.0
+
 -->
 
 
