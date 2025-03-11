@@ -9,7 +9,9 @@ setTimeout(function() {
 
     // Show your custom confirmation dialog
     const userConfirmed = confirm(
-      "Here is the disclaimer text. Click OK to accept, or Cancel to abort."
+      "Note on translation: This website uses Google Translate to translate content into different languages. Please note that when you use this function, data is transmitted to Google and processed there. Further information can be found in [Google's Privacy Policy](https://policies.google.com/privacy?hl=de). 
+      
+      Click OK to accept, or Cancel to abort."
     );
 
     if (!userConfirmed) {
