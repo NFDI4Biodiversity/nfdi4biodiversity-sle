@@ -14,7 +14,29 @@ classroom: false
 
 version: 1.2.0
 
+@onload
+
+setTimeout(function() {
+  const checkbox = document.getElementById("lia-checkbox-google_translate")
+
+  checkbox.addEventListener("click", function(event) {
+    event.preventDefault();
+
+    // Show your custom confirmation dialog
+    const userConfirmed = confirm(
+      "Here is the disclaimer text. Click OK to accept, or Cancel to abort."
+    );
+
+    if (!userConfirmed) {
+      event.stopImmediatePropagation();
+    }
+  }, true);
+
+}, 2000)
+
+@end
 -->
+
 
 # NFDI4Biodiversity Self-Study Unit - Research Data Management for Biodiversity Data
 
