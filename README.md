@@ -29,6 +29,8 @@ author: Marlen Fischer, Juliane Röder, Johannes Signer, Daniel Tschink, Tanja W
 
 comment: **NFDI4Biodiversity Self-Study Unit - Research Data Management for Biodiversity Data**
 
+logo: https://nfdi4biodiversity.org/documents/18/NFDI_4_Biodiversity___Logo_Positiv_Kopie.png
+
 classroom: false
 
 version: 1.2.0
