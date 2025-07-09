@@ -1662,7 +1662,7 @@ In a scientific context, the combination of data from different sources is a com
 {{|>}}
 *************************************************************************************************************
 
-If the creation of copyright-protected work is one of the duties or central tasks of the employment contract such as writing journal articles, the employer is granted rights of use to these so-called "compulsory works" on the basis of the employment contract or employment relationship [^46].
+If the creation of copyright-protected work is one of the duties or central tasks of the employment contract such as writing journal articles, the employer is granted rights of use to these so-called "compulsory works" on the basis of the employment contract or employment relationship[^46].
 
 The following "mapping" of research data results from the balance of interests with the freedom of research (Art. 5 para. 3 GG (German Basic Law)):
 
@@ -1672,7 +1672,7 @@ The following "mapping" of research data results from the balance of interests w
 
 -   In the case of **students and external doctoral candidates**, no rights of use are granted to the university, as they are not employees. However, different contractual agreements can be made, e.g. in the case of third-party funded projects, through which the university is granted rights of use.
 
-The following Figure 9 illustrates the issues of the transfer of exploitation rights to the employer ("compulsory work" under Section 43 UrhG) and the balancing of interests with the freedom of research (Article 5(3) GG) according to roles as they are to be weighed in the scientific field in individual cases[51]:
+The following Figure 9 illustrates the issues of the transfer of exploitation rights to the employer ("compulsory work" under Section 43 UrhG) and the balancing of interests with the freedom of research (Article 5(3) GG) according to roles as they are to be weighed in the scientific field in individual cases[^51]:
 
 ![](images/Figure9dataownership.png "Figure 9. Ownership of research data. Source: Brettschneider (2020)[^51], [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode), translation by HeFDI).")
 
@@ -2019,6 +2019,6 @@ RDM[^57] introduces you to many new abbreviations. Which of the following abbrev
 
 ___
 
-[^57] Research Data Management
+[^57]: Research Data Management
 
 *************************************************************************************************************
