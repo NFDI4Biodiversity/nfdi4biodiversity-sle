@@ -128,11 +128,11 @@ As you progress through this unit, you'll become proficient in managing data eff
 
 ___
 
-[^1]: American Museum of Natural History. (2025). What is Biodiversity? Available at: https://www.amnh.org/research/center-for-biodiversity-conservation/what-is-biodiversity/. Last accessed 08 July 2025.      
+[^1]: American Museum of Natural History. (2025). What is Biodiversity? Available at: https://www.amnh.org/research/center-for-biodiversity-conservation/what-is-biodiversity Last accessed 08 July 2025.      
 
-[^2]: Biodiversity Data Journal. (2025). Biodiversity Data Journal. Available at: https://bdj.pensoft.net/. Last accessed 08 July 2025.      
+[^2]: Biodiversity Data Journal. (2025). Biodiversity Data Journal. Available at: https://bdj.pensoft.net Last accessed 08 July 2025.      
 
-[^3]: National Geographic. (2025). Biodiversity. Available at: https://education.nationalgeographic.org/resource/biodiversity/. Last accessed 08 July 2025.     
+[^3]: National Geographic. (2025). Biodiversity. Available at: https://education.nationalgeographic.org/resource/biodiversity Last accessed 08 July 2025.     
 
 [^4]: Wilkinson, M.D., Dumontier, M., Aalbersberg, Ij.J., Appleton, G., Axton, M., Baak, A., et al. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Sci Data, 3, 160018. http://"]https://doi.org/10.1038/sdata.2016.18    
 
@@ -173,7 +173,7 @@ To put good research practice[^8] and the FAIR principles into practice effectiv
 
 ___
 
-[^2]: Biodiversity Data Journal. (2025). Biodiversity Data Journal. Available at: https://bdj.pensoft.net/. Last accessed 08 July 2025.     
+[^2]: Biodiversity Data Journal. (2025). Biodiversity Data Journal. Available at: https://bdj.pensoft.net Last accessed 08 July 2025.     
 
 [^6]: Haase, P., Tonkin, J.D., Stoll, S., Burkhard, B., Frenzel, M., Geijzendorffer, I.R., et al. (2018). The next generation of site-based long-term ecological monitoring: Linking essential biodiversity variables and ecosystem integrity. Science of The Total Environment, 613–614, 1376–1384. https://doi.org/10.1016/j.scitotenv.2017.08.111     
 
@@ -329,9 +329,9 @@ Creating a DMP for your research project is the initial step of the data life cy
 
 ___
 
-[^13]: ELIXIR converge. (2025a). Data management plan. RDMkit. Available at: https://rdmkit.elixir-europe.org/data_management_plan/. Last accessed 08 July 2025.   
+[^13]: ELIXIR converge. (2025a). Data management plan. RDMkit. Available at: https://rdmkit.elixir-europe.org/data_management_plan Last accessed 08 July 2025.   
 
-[^14]: GFBio. (2025a). How to create a data management plan (DMP)? gfbio. Available at: https://www.gfbio.org/how-to-create-a-dmp/. Last accessed 08 July 2025.   
+[^14]: GFBio. (2025a). How to create a data management plan (DMP)? gfbio. Available at: https://www.gfbio.org/how-to-create-a-dmp Last accessed 08 July 2025.   
 
 *************************************************************************************************************
 
@@ -352,7 +352,7 @@ The DMP contains general information about the project and the way of documentat
 
 ___
 
-[^15]: ELIXIR converge. (2025b). Data Life Cycle - Planning. RDMkit. Available at: https://rdmkit.elixir-europe.org/planning/. Last accessed 08 July 2025.   
+[^15]: ELIXIR converge. (2025b). Data Life Cycle - Planning. RDMkit. Available at: https://rdmkit.elixir-europe.org/planning Last accessed 08 July 2025.   
 
 *************************************************************************************************************
 
@@ -402,9 +402,9 @@ Overall, the DMP will save you time later on in the publishing process and preve
 
 ___
 
-[^15]: ELIXIR converge. (2025b). Data Life Cycle - Planning. RDMkit. Available at: https://rdmkit.elixir-europe.org/planning/. Last accessed 08 July 2025.   
+[^15]: ELIXIR converge. (2025b). Data Life Cycle - Planning. RDMkit. Available at: https://rdmkit.elixir-europe.org/planning Last accessed 08 July 2025.   
 
-[^16]: forschungsdaten.info. (2025a). Der Datenmanagementplan. Eine Wegbeschreibung für Daten. Forschungsdaten und Forschungsdatenmanagement. Available at: https://forschungsdaten.info/themen/informieren-und-planen/datenmanagementplan/. Last accessed 08 July 2025.   
+[^16]: forschungsdaten.info. (2025a). Der Datenmanagementplan. Eine Wegbeschreibung für Daten. Forschungsdaten und Forschungsdatenmanagement. Available at: https://forschungsdaten.info/themen/informieren-und-planen/datenmanagementplan Last accessed 08 July 2025.   
 
 *************************************************************************************************************
 
@@ -444,15 +444,15 @@ GFBio recommends two major systems with [tools](https://www.gfbio.org/tools/) fo
 
 ___
 
-[^13]: ELIXIR converge. (2025a). Data management plan. RDMkit. Available at: https://rdmkit.elixir-europe.org/data_management_plan/. Last accessed 08 July 2025.   
+[^13]: ELIXIR converge. (2025a). Data management plan. RDMkit. Available at: https://rdmkit.elixir-europe.org/data_management_plan Last accessed 08 July 2025.   
 
-[^17]: ELIXIR converge. (2025c). Data Life Cycle - Collecting. RDMkit. Available at: https://rdmkit.elixir-europe.org/collecting/. Last accessed 08 July 2025.   
+[^17]: ELIXIR converge. (2025c). Data Life Cycle - Collecting. RDMkit. Available at: https://rdmkit.elixir-europe.org/collecting Last accessed 08 July 2025.   
 
-[^18]: GFBio. (2025b). GFBio Training Materials: Data Life Cycle Fact-Sheet: Data Life Cycle: Collect. GFBio. Available at: https://www.gfbio.org/training/material/data-life-cycle/collect/. Last accessed 08 July 2025.   
+[^18]: GFBio. (2025b). GFBio Training Materials: Data Life Cycle Fact-Sheet: Data Life Cycle: Collect. GFBio. Available at: https://www.gfbio.org/training/material/data-life-cycle/collect Last accessed 08 July 2025.   
 
 [^19]: Wolstencroft, K., Owen, S., Horridge, M., Krebs, O., Mueller, W., Snoep, J.L., et al. (2011). RightField: embedding ontology annotation in spreadsheets. Bioinformatics, 27, 2021–2022. https://doi.org/10.1093/bioinformatics/btr312   
 
-[^20]: TU Darmstadt. (2025). ELN Finder. Available at: https://eln-finder.ulb.tu-darmstadt.de/search/. Last accessed 08 July 2025.   
+[^20]: TU Darmstadt. (2025). ELN Finder. Available at: https://eln-finder.ulb.tu-darmstadt.de/search Last accessed 08 July 2025.   
 
 *************************************************************************************************************
 
@@ -529,9 +529,9 @@ After completing this chapter, you will be able to...
 
 ___
 
-[^17]: ELIXIR converge. (2025c). Data Life Cycle - Collecting. RDMkit. Available at: https://rdmkit.elixir-europe.org/collecting/. Last accessed 08 July 2025.   
+[^17]: ELIXIR converge. (2025c). Data Life Cycle - Collecting. RDMkit. Available at: https://rdmkit.elixir-europe.org/collecting Last accessed 08 July 2025.   
 
-[^18]: GFBio. (2025b). GFBio Training Materials: Data Life Cycle Fact-Sheet: Data Life Cycle: Collect. GFBio. Available at: https://www.gfbio.org/training/material/data-life-cycle/collect/. Last accessed 08 July 2025.   
+[^18]: GFBio. (2025b). GFBio Training Materials: Data Life Cycle Fact-Sheet: Data Life Cycle: Collect. GFBio. Available at: https://www.gfbio.org/training/material/data-life-cycle/collect Last accessed 08 July 2025.   
 
 *************************************************************************************************************
 
@@ -600,9 +600,9 @@ eLabFTW is a free, secure and open source ELN for research teams. You can docume
 
 ___
 
-[^21]: NFDI4Chem. (2025). Electronic Lab Notebooks (ELNs). NFDI4Chem Knowledge Base. Available at: https://knowledgebase.nfdi4chem.de/knowledge_base/docs/eln/. Last accessed 08 July 2025.   
+[^21]: NFDI4Chem. (2025). Electronic Lab Notebooks (ELNs). NFDI4Chem Knowledge Base. Available at: https://knowledgebase.nfdi4chem.de/knowledge_base/docs/eln Last accessed 08 July 2025.   
 
-[^20]: TU Darmstadt. (2025). ELN Finder. Available at: https://eln-finder.ulb.tu-darmstadt.de/search/. Last accessed 08 July 2025.   
+[^20]: TU Darmstadt. (2025). ELN Finder. Available at: https://eln-finder.ulb.tu-darmstadt.de/search Last accessed 08 July 2025.   
 
 *************************************************************************************************************
 
@@ -615,9 +615,9 @@ A crucial step in RDM is to describe your data in a way that you and other resea
 
 ___
 
-[^22]: ELIXIR converge. (2025d). Documentation and metadata. RDMkit. Available at: https://rdmkit.elixir-europe.org/metadata_management/. Last accessed 08 July 2025.   
+[^22]: ELIXIR converge. (2025d). Documentation and metadata. RDMkit. Available at: https://rdmkit.elixir-europe.org/metadata_management Last accessed 08 July 2025.   
 
-[^23]: GFBio. (2025c). GFBio Training Materials: Data Life Cycle Fact-Sheet: Data Life Cycle: Describe. GFBio. Available at: https://www.gfbio.org/training/material/data-life-cycle/describe/. Last accessed 08 July 2025.   
+[^23]: GFBio. (2025c). GFBio Training Materials: Data Life Cycle Fact-Sheet: Data Life Cycle: Describe. GFBio. Available at: https://www.gfbio.org/training/material/data-life-cycle/describe Last accessed 08 July 2025.   
 
 *************************************************************************************************************
 
@@ -636,9 +636,9 @@ Often, however, it is no longer possible to create certain metadata retrospectiv
 
 ___
 
-[^22]: ELIXIR converge. (2025d). Documentation and metadata. RDMkit. Available at: https://rdmkit.elixir-europe.org/metadata_management/. Last accessed 08 July 2025.   
+[^22]: ELIXIR converge. (2025d). Documentation and metadata. RDMkit. Available at: https://rdmkit.elixir-europe.org/metadata_management Last accessed 08 July 2025.   
 
-[^23]: GFBio. (2025c). GFBio Training Materials: Data Life Cycle Fact-Sheet: Data Life Cycle: Describe. GFBio. Available at: https://www.gfbio.org/training/material/data-life-cycle/describe/. Last accessed 08 July 2025.   
+[^23]: GFBio. (2025c). GFBio Training Materials: Data Life Cycle Fact-Sheet: Data Life Cycle: Describe. GFBio. Available at: https://www.gfbio.org/training/material/data-life-cycle/describe Last accessed 08 July 2025.   
 
 *************************************************************************************************************
 
@@ -701,7 +701,7 @@ There are many different metadata standards, some are more generic (e.g. [Dublin
 
 ___
 
-[^22]: ELIXIR converge. (2025d). Documentation and metadata. RDMkit. Available at: https://rdmkit.elixir-europe.org/metadata_management/. Last accessed 08 July 2025.   
+[^22]: ELIXIR converge. (2025d). Documentation and metadata. RDMkit. Available at: https://rdmkit.elixir-europe.org/metadata_management Last accessed 08 July 2025.   
 
 *************************************************************************************************************
 
@@ -941,7 +941,7 @@ ___
 
 [^33]: Schellenberger Costa, D., Boehnisch, G., Freiberg, M., Govaerts, R., Grenié, M., Hassler, M., et al. (2023). The big four of plant taxonomy – a comparison of global checklists of vascular plant names. New Phytologist, nph.18961. https://doi.org/10.1111/nph.18961   
 
-[^34]: Grenié, M., Berti, E., Carvajal-Quintero, J., Dädlow, G., Sagouis, A. & Winter, M. (2021). taxharmonizexplorer - Navigate the Taxonomic Harmonization landscape. taxharmonizeexplorer. Available at: https://mgrenie.shinyapps.io/taxharmonizexplorer/. Last accessed 08 July 2025.      
+[^34]: Grenié, M., Berti, E., Carvajal-Quintero, J., Dädlow, G., Sagouis, A. & Winter, M. (2021). taxharmonizexplorer - Navigate the Taxonomic Harmonization landscape. taxharmonizeexplorer. Available at: https://mgrenie.shinyapps.io/taxharmonizexplorer Last accessed 08 July 2025.      
 
 [^35]: Grenié, M., Berti, E., Carvajal-Quintero, J., Dädlow, G.M.L., Sagouis, A. & Winter, M. (2022). Harmonizing taxon names in biodiversity data: A review of tools, databases and best practices. Methods Ecol Evol, 2041–210X.13802. https://doi.org/10.1111/2041-210X.13802   
 
@@ -1058,11 +1058,11 @@ After completing this chapter, you will be able to...
 
 ___
 
-[^36]: ELIXIR converge. (2025e). Data Life Cycle - Analysing. RDMkit. Available at: https://rdmkit.elixir-europe.org/analysing/. Last accessed 08 July 2025.   
+[^36]: ELIXIR converge. (2025e). Data Life Cycle - Analysing. RDMkit. Available at: https://rdmkit.elixir-europe.org/analysing Last accessed 08 July 2025.   
 
-[^37]: ELIXIR converge. (2025f). Data Analysis. RDMkit. Available at: https://rdmkit.elixir-europe.org/data_analysis/. Last accessed 08 July 2025.   
+[^37]: ELIXIR converge. (2025f). Data Analysis. RDMkit. Available at: https://rdmkit.elixir-europe.org/data_analysis Last accessed 08 July 2025.   
 
-[^38]: GFBio. (2025d). GFBio Training Materials: Data Life Cycle Fact-Sheet: Data Life Cycle: Analyze. GFBio. Available at: https://www.gfbio.org/training/material/data-life-cycle/analyze/. Last accessed 08 July 2025.   
+[^38]: GFBio. (2025d). GFBio Training Materials: Data Life Cycle Fact-Sheet: Data Life Cycle: Analyze. GFBio. Available at: https://www.gfbio.org/training/material/data-life-cycle/analyze Last accessed 08 July 2025.   
 
 *************************************************************************************************************
 
@@ -1191,9 +1191,9 @@ After completing this chapter, you will be able to...
 
 ___
 
-[^39]: ELIXIR converge. (2025g). Data Life Cycle - Preserving. RDMkit. Available at: https://rdmkit.elixir-europe.org/preserving/. Last accessed 08 July 2025.   
+[^39]: ELIXIR converge. (2025g). Data Life Cycle - Preserving. RDMkit. Available at: https://rdmkit.elixir-europe.org/preserving Last accessed 08 July 2025.   
 
-[^40]: GFBio. (2025e). GFBio Training Materials: Data Life Cycle Fact-Sheet: Data Life Cycle: Preserve. GFBio. Available at: https://www.gfbio.org/training/material/data-life-cycle/preserve/. Last accessed 08 July 2025.   
+[^40]: GFBio. (2025e). GFBio Training Materials: Data Life Cycle Fact-Sheet: Data Life Cycle: Preserve. GFBio. Available at: https://www.gfbio.org/training/material/data-life-cycle/preserve Last accessed 08 July 2025.   
 
 *************************************************************************************************************
 
@@ -1315,7 +1315,7 @@ Data centers, in contrast to repositories, are well-equipped to ensure long-term
 
 ___
 
-[^41]: forschungsdaten.info. (2025b). Datenschutzrecht. Schutz von personenbezogenen Forschungsdaten. forschungsdaten.info. Available at: https://forschungsdaten.info/themen/rechte-und-pflichten/datenschutzrecht/. Last accessed 08 July 2025.   
+[^41]: forschungsdaten.info. (2025b). Datenschutzrecht. Schutz von personenbezogenen Forschungsdaten. forschungsdaten.info. Available at: https://forschungsdaten.info/themen/rechte-und-pflichten/datenschutzrecht Last accessed 08 July 2025.   
 
 [^8]: DFG (2025). Guidelines for Safeguarding Good Research Practice. Code of Conduct. https://doi.org/10.5281/zenodo.14281892   
 
@@ -1444,11 +1444,11 @@ To publish your data, make sure you have the rights for it, keep all ethical, le
 
 ___
 
-[^43]: ELIXIR converge. (2025h). Data Life Cycle - Sharing. RDMkit. Available at: https://rdmkit.elixir-europe.org/sharing/. Last accessed 08 July 2025.   
+[^43]: ELIXIR converge. (2025h). Data Life Cycle - Sharing. RDMkit. Available at: https://rdmkit.elixir-europe.org/sharing Last accessed 08 July 2025.   
 
-[^42]: ALLEA. (2017). The European Code of Conduct for Research Integrity. allea All European Academies. Available at: https://www.allea.org/wp-content/uploads/2017/05/ALLEA-European-Code-of-Conduct-for-Research-Integrity-2017.pdf/. Last accessed 08 July 2025.      
+[^42]: ALLEA. (2017). The European Code of Conduct for Research Integrity. allea All European Academies. Available at: https://www.allea.org/wp-content/uploads/2017/05/ALLEA-European-Code-of-Conduct-for-Research-Integrity-2017.pdf Last accessed 08 July 2025.      
 
-[^44]: GFBio. (2025f). GFBio Training Materials: Data Life Cycle Fact-Sheet: Data Life Cycle: Publish. GFBio. Available at: https://www.gfbio.org/training/material/data-life-cycle/publish/. Last accessed 08 July 2025.   
+[^44]: GFBio. (2025f). GFBio Training Materials: Data Life Cycle Fact-Sheet: Data Life Cycle: Publish. GFBio. Available at: https://www.gfbio.org/training/material/data-life-cycle/publish Last accessed 08 July 2025.   
 
 *************************************************************************************************************
 
@@ -1719,9 +1719,9 @@ Environmental information includes data on the state of air, atmosphere, water, 
 
 ___
 
-[^52]: Bundesamt für Naturschutz (BfN). (2025). Zugang zu Umweltinformationen. BfN. Available at: https://www.bfn.de/zugang-zu-umweltinformationen/. Last accessed 08 July 2025.   
+[^52]: Bundesamt für Naturschutz (BfN). (2025). Zugang zu Umweltinformationen. BfN. Available at: https://www.bfn.de/zugang-zu-umweltinformationen Last accessed 08 July 2025.   
 
-[^53]: BMUV. (2025). Umweltinformation. Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz. Available at: https://www.bmuv.de/themen/umweltinformation/ueberblick-umweltinformation/. Last accessed 08 July 2025.   
+[^53]: BMUV. (2025). Umweltinformation. Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz. Available at: https://www.bmuv.de/themen/umweltinformation/ueberblick-umweltinformation Last accessed 08 July 2025.   
 
 *************************************************************************************************************
 
@@ -1811,62 +1811,62 @@ Why are open and documented data formats preferred for long-term data storage? C
 {{|>}}
 *************************************************************************************************************
 
-* [^46]: Act on Copyright and Related Rights. (2021). Urheberrechtsgesetz – UrhG.  
-* [^42]: ALLEA. (2017). The European Code of Conduct for Research Integrity. allea All European Academies. Available at: https://www.allea.org/wp-content/uploads/2017/05/ALLEA-European-Code-of-Conduct-for-Research-Integrity-2017.pdf/. Last accessed 08 July 2025.   
-* [^1]: American Museum of Natural History. (2025). What is Biodiversity? Available at: https://www.amnh.org/research/center-for-biodiversity-conservation/what-is-biodiversity/. Last accessed 08 July 2025.   
-* [^2]: Biodiversity Data Journal. (2025). Biodiversity Data Journal. Available at: https://bdj.pensoft.net/. Last accessed 08 July 2025.
-* [^53]: BMUV. (2025). Umweltinformation. Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz. Available at: https://www.bmuv.de/themen/umweltinformation/ueberblick-umweltinformation/. Last accessed 08 July 2025.
-* [^51]: Brettschneider, P. (2020). Wem “gehören” Forschungsdaten? https://doi.org/10.5281/zenodo.3762995
-* [^55]: Brink, M. & Van Hintum, T. (2022). Practical consequences of digital sequence information (DSI) definitions and access and benefit-sharing scenarios from a plant genebank’s perspective. Plants People Planet, 4, 23–32. https://doi.org/10.1002/ppp3.10201
-* [^7]: Brondízio, E.S., Settele, J., Díaz, S. & Ngo, H.T. (Eds.). (2019). The global assessment report of the intergovernmental science-policy platform on biodiversity and ecosystem services. Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES), Bonn. https://doi.org/10.5281/zenodo.3831673
-* [^52]: Bundesamt für Naturschutz (BfN). (2025). Zugang zu Umweltinformationen. BfN. Available at: https://www.bfn.de/zugang-zu-umweltinformationen/. Last accessed 08 July 2025.   
-* [^5]: Carroll, S.R., Garba, I., Figueroa-Rodríguez, O.L., Holbrook, J., Lovett, R., Materechera, S., et al. (2020). The CARE Principles for Indigenous Data Governance. Data Science Journal, 19, 43. https://doi.org/10.5334/dsj-2020-043
-* [^26]: Darwin, C. (1859). On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life. John Murray, London. https://doi.org/10.5962/bhl.title.82303
-* [^8]: DFG (2025). Guidelines for Safeguarding Good Research Practice. Code of Conduct. https://doi.org/10.5281/zenodo.14281892
-* [^10]: DFG. (2021). Handling of research data. Checklist for planning and description of handling of research data in research projects. http://www.dfg.de/research_data/checklist
-* [^13]: ELIXIR converge. (2025a). Data management plan. RDMkit. Available at: https://rdmkit.elixir-europe.org/data_management_plan/. Last accessed 08 July 2025.
-* [^15]: ELIXIR converge. (2025b). Data Life Cycle - Planning. RDMkit. Available at: https://rdmkit.elixir-europe.org/planning/. Last accessed 08 July 2025.
-* [^17]: ELIXIR converge. (2025c). Data Life Cycle - Collecting. RDMkit. Available at: https://rdmkit.elixir-europe.org/collecting/. Last accessed 08 July 2025.
-* [^22]: ELIXIR converge. (2025d). Documentation and metadata. RDMkit. Available at: https://rdmkit.elixir-europe.org/metadata_management/. Last accessed 08 July 2025.
-* [^36]: ELIXIR converge. (2025e). Data Life Cycle - Analysing. RDMkit. Available at: https://rdmkit.elixir-europe.org/analysing/. Last accessed 08 July 2025.
-* [^37]: ELIXIR converge. (2025f). Data Analysis. RDMkit. Available at: https://rdmkit.elixir-europe.org/data_analysis/. Last accessed 08 July 2025.
-* [^39]: ELIXIR converge. (2025g). Data Life Cycle - Preserving. RDMkit. Available at: https://rdmkit.elixir-europe.org/preserving/. Last accessed 08 July 2025.
-* [^43]: ELIXIR converge. (2025h). Data Life Cycle - Sharing. RDMkit. Available at: https://rdmkit.elixir-europe.org/sharing/. Last accessed 08 July 2025.
-* [^16]: forschungsdaten.info. (2025a). Der Datenmanagementplan. Eine Wegbeschreibung für Daten. Forschungsdaten und Forschungsdatenmanagement. Available at: https://forschungsdaten.info/themen/informieren-und-planen/datenmanagementplan/. Last accessed 08 July 2025.
-* [^41]: forschungsdaten.info. (2025b). Datenschutzrecht. Schutz von personenbezogenen Forschungsdaten. forschungsdaten.info. Available at: https://forschungsdaten.info/themen/rechte-und-pflichten/datenschutzrecht/. Last accessed 08 July 2025.   
-* [^14]: GFBio. (2025a). How to create a data management plan (DMP)? gfbio. Available at: https://www.gfbio.org/how-to-create-a-dmp/. Last accessed 08 July 2025.
-* [^18]: GFBio. (2025b). GFBio Training Materials: Data Life Cycle Fact-Sheet: Data Life Cycle: Collect. GFBio. Available at: https://www.gfbio.org/training/material/data-life-cycle/collect/. Last accessed 08 July 2025.
-* [^23]: GFBio. (2025c). GFBio Training Materials: Data Life Cycle Fact-Sheet: Data Life Cycle: Describe. GFBio. Available at: https://www.gfbio.org/training/material/data-life-cycle/describe/. Last accessed 08 July 2025.
-* [^38]: GFBio. (2025d). GFBio Training Materials: Data Life Cycle Fact-Sheet: Data Life Cycle: Analyze. GFBio. Available at: https://www.gfbio.org/training/material/data-life-cycle/analyze/. Last accessed 08 July 2025.
-* [^40]: GFBio. (2025e). GFBio Training Materials: Data Life Cycle Fact-Sheet: Data Life Cycle: Preserve. GFBio. Available at: https://www.gfbio.org/training/material/data-life-cycle/preserve/. Last accessed 08 July 2025.
-* [^44]: GFBio. (2025f). GFBio Training Materials: Data Life Cycle Fact-Sheet: Data Life Cycle: Publish. GFBio. Available at: https://www.gfbio.org/training/material/data-life-cycle/publish/. Last accessed 08 July 2025.
-* [^24]: Grace, O.M., Pérez-Escobar, O.A., Lucas, E.J., Vorontsova, M.S., Lewis, G.P., Walker, B.E., et al. (2021). Botanical Monography in the Anthropocene. Trends in Plant Science, 26, 433–441. https://doi.org/10.1016/j.tplants.2020.12.018
-* [^34]: Grenié, M., Berti, E., Carvajal-Quintero, J., Dädlow, G., Sagouis, A. & Winter, M. (2021). taxharmonizexplorer - Navigate the Taxonomic Harmonization landscape. taxharmonizeexplorer. Available at: https://mgrenie.shinyapps.io/taxharmonizexplorer/. Last accessed 08 July 2025.   
-* [^35]: Grenié, M., Berti, E., Carvajal-Quintero, J., Dädlow, G.M.L., Sagouis, A. & Winter, M. (2022). Harmonizing taxon names in biodiversity data: A review of tools, databases and best practices. Methods Ecol Evol, 2041–210X.13802. https://doi.org/10.1111/2041-210X.13802
-* [^6]: Haase, P., Tonkin, J.D., Stoll, S., Burkhard, B., Frenzel, M., Geijzendorffer, I.R., et al. (2018). The next generation of site-based long-term ecological monitoring: Linking essential biodiversity variables and ecosystem integrity. Science of The Total Environment, 613–614, 1376–1384. https://doi.org/10.1016/j.scitotenv.2017.08.111
-* [^30]: Hebert, P.D.N., Cywinska, A., Ball, S.L. & DeWaard, J.R. (2003). Biological identifications through DNA barcodes. Proceedings of the Royal Society B-Biological Sciences, 270. https://doi.org/10.1098/rspb.2002.2218
-* [^47]: HeFDI-Hessische Forschungsdateninfrastrukturen. (2021). Rechtliche Rahmenbedingungen des Forschungsdatenmanagements - Teil 1: Urheber- und Leistungsschutzrechte an Forschungsdaten; Teil 2: Entscheidungsbefugnis über den Umgang mit Forschungsdaten; Teil 3: Nutzungsrechtseinräumung an Forschungsdaten, Teil 7: Veröffentlichung und Lizenzierung von Forschungsdaten, Teil 8: (Nach-)Nutzung fremder Forschungsdaten, Teil 9: Haftungen bei Rechtsverletzungen im Rahmen des Forschungsdatenmanagements. https://doi.org/10.5281/zenodo.3957678
-* [^31]: IPBES. (2016). Summary for policymakers of the assessment report of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services on pollinators, pollination and food production. Zenodo. https://doi.org/10.5281/zenodo.2616458
-* [^32]: IPBES. (2019). Summary for policymakers of the global assessment report on biodiversity and ecosystem services. Zenodo. https://doi.org/10.5281/zenodo.3553458
-* [^49]: Klimpel, P. (2012). Freies Wissen dank Creative-Commons-Lizenzen. Folgen, Risiken und Nebenwirkungen der Bedingung »nicht-kommerziell – NC«. https://irights.info/wp-content/uploads/userfiles/CC-NC_Leitfaden_web.pdf    
-* [^50]: Kreutzer, T. & Deutsche UNESCO-Kommission (Eds.). (2014). Open Content: a practical guide to using Creative Commons Licences. German Comm. for UNESCO, Bonn.
-* [^12]: Kultusministerkonferenz. (2020). Zugang – Transparenz – Kooperation. Leitlinien einer „3 Wege-Strategie“ für die Erfassung und digitale Veröffentlichung von Sammlungsgut aus kolonialen Kontexten in Deutschland. https://www.kmk.org/fileadmin/Dateien/pdf/PresseUndAktuelles/2020/201014_Kontaktstelle-Sammlungsgut_Konzept_3-Wege-Strategie.pdf
-* [^11]: Lang, K., Assmann, C., Neute, N., Gerlach, R. & Rex, J. (2023). FAIR Assessment Tools Overview. https://zenodo.org/record/7022037
-* [^48]: Langner, P., Krippes, C. & Dworschak, N. (2022). Rechtliche Rahmenbedingungen des Forschungsdatenmanagements - Teil 10: Datenschutzrechtliche Vorgaben bei personenbezogenen Daten, Teil 11: Rechtmäßigkeit der Datenverarbeitung personenbezogener Daten, Teil 12: Haftungsfragen bei personenbezogenen Daten. https://doi.org/10.5281/zenodo.6357219
-* [^28]: Linnaeus, C. (1753). Species plantarum. 1st edition. Laurentius Salvius, Stockholm, Sweden. https://doi.org/10.5962/bhl.title.669
-* [^27]: Mayr, E. (1942). Systematics and the origin of species, from the viewpoint of a zoologist. Columbia University Press, New York.
-* [^9]: Members of the Working Group on Data Management of the DFG Senate Commission on Biodiversity Research. (n.d.). Guidelines on the Handling of Research Data in Biodiversity Research. https://www.dfg.de/resource/blob/171780/4dc984026c9b240a5201ed9068120273/guidelines-biodiversity-research-data.pdf
-* [^3]: National Geographic. (2025). Biodiversity. Available at: https://education.nationalgeographic.org/resource/biodiversity/. Last accessed 08 July 2025.
-* [^21]: NFDI4Chem. (2025). Electronic Lab Notebooks (ELNs). NFDI4Chem Knowledge Base. Available at: https://knowledgebase.nfdi4chem.de/knowledge_base/docs/eln/. Last accessed 08 July 2025.
-* [^29]: Nixon, K.C. & Wheeler, Q.D. (1990). An amplification of the phylogenetic species concept. Cladistics, 6, 211–223. https://doi.org/10.1111/j.1096-0031.1990.tb00541.x
-* [^25]: Sandall, E.L., Maureaud, A.A., Guralnick, R., McGeoch, M.A., Sica, Y.V., Rogan, M.S., et al. (2023). A globally integrated structure of taxonomy to support biodiversity science and conservation. Trends in Ecology & Evolution, https://doi.org/10.1016/j.tree.2023.08.004 
-* [^33]: Schellenberger Costa, D., Boehnisch, G., Freiberg, M., Govaerts, R., Grenié, M., Hassler, M., et al. (2023). The big four of plant taxonomy – a comparison of global checklists of vascular plant names. New Phytologist, nph.18961. https://doi.org/10.1111/nph.18961
-* [^45]: Schleußinger, M. & Rex, J. (2019). Forschungsdaten veröffentlichen? https://doi.org/10.5281/zenodo.3368292
-* [^56]: Scholz, A.H., Freitag, J., Lyal, C.H.C., Sara, R., Cepeda, M.L., Cancio, I., et al. (2022). Multilateral benefit-sharing from digital sequence information will support both science and biodiversity conservation. Nat Commun, 13, 1086. https://doi.org/10.1038/s41467-022-28594-0
-* [^54]: Schroeder, D. (2007). Benefit sharing: it’s time for a definition. Journal of Medical Ethics, 33, 205–209. https://doi.org/10.1136/jme.2006.016790
-* [^20]: TU Darmstadt. (2025). ELN Finder. Available at: https://eln-finder.ulb.tu-darmstadt.de/search/. Last accessed 08 July 2025.
-* [^4]: Wilkinson, M.D., Dumontier, M., Aalbersberg, Ij.J., Appleton, G., Axton, M., Baak, A., et al. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Sci Data, 3, 160018. https://doi.org/10.1038/sdata.2016.18
-* [^19]: Wolstencroft, K., Owen, S., Horridge, M., Krebs, O., Mueller, W., Snoep, J.L., et al. (2011). RightField: embedding ontology annotation in spreadsheets. Bioinformatics, 27, 2021–2022. https://doi.org/10.1093/bioinformatics/btr312
+* [^46] Act on Copyright and Related Rights. (2021). Urheberrechtsgesetz – UrhG.  
+* [^42] ALLEA. (2017). The European Code of Conduct for Research Integrity. allea All European Academies. Available at: https://www.allea.org/wp-content/uploads/2017/05/ALLEA-European-Code-of-Conduct-for-Research-Integrity-2017.pdf Last accessed 08 July 2025.   
+* [^1] American Museum of Natural History. (2025). What is Biodiversity? Available at: https://www.amnh.org/research/center-for-biodiversity-conservation/what-is-biodiversity Last accessed 08 July 2025.   
+* [^2] Biodiversity Data Journal. (2025). Biodiversity Data Journal. Available at: https://bdj.pensoft.net Last accessed 08 July 2025.
+* [^53] BMUV. (2025). Umweltinformation. Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz. Available at: https://www.bmuv.de/themen/umweltinformation/ueberblick-umweltinformation Last accessed 08 July 2025.
+* [^51] Brettschneider, P. (2020). Wem “gehören” Forschungsdaten? https://doi.org/10.5281/zenodo.3762995
+* [^55] Brink, M. & Van Hintum, T. (2022). Practical consequences of digital sequence information (DSI) definitions and access and benefit-sharing scenarios from a plant genebank’s perspective. Plants People Planet, 4, 23–32. https://doi.org/10.1002/ppp3.10201
+* [^7] Brondízio, E.S., Settele, J., Díaz, S. & Ngo, H.T. (Eds.). (2019). The global assessment report of the intergovernmental science-policy platform on biodiversity and ecosystem services. Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES), Bonn. https://doi.org/10.5281/zenodo.3831673
+* [^52] Bundesamt für Naturschutz (BfN). (2025). Zugang zu Umweltinformationen. BfN. Available at: https://www.bfn.de/zugang-zu-umweltinformationen Last accessed 08 July 2025.   
+* [^5] Carroll, S.R., Garba, I., Figueroa-Rodríguez, O.L., Holbrook, J., Lovett, R., Materechera, S., et al. (2020). The CARE Principles for Indigenous Data Governance. Data Science Journal, 19, 43. https://doi.org/10.5334/dsj-2020-043
+* [^26] Darwin, C. (1859). On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life. John Murray, London. https://doi.org/10.5962/bhl.title.82303
+* [^8] DFG (2025). Guidelines for Safeguarding Good Research Practice. Code of Conduct. https://doi.org/10.5281/zenodo.14281892
+* [^10] DFG. (2021). Handling of research data. Checklist for planning and description of handling of research data in research projects. http://www.dfg.de/research_data/checklist
+* [^13] ELIXIR converge. (2025a). Data management plan. RDMkit. Available at: https://rdmkit.elixir-europe.org/data_management_plan Last accessed 08 July 2025.
+* [^15] ELIXIR converge. (2025b). Data Life Cycle - Planning. RDMkit. Available at: https://rdmkit.elixir-europe.org/planning Last accessed 08 July 2025.
+* [^17] ELIXIR converge. (2025c). Data Life Cycle - Collecting. RDMkit. Available at: https://rdmkit.elixir-europe.org/collecting Last accessed 08 July 2025.
+* [^22] ELIXIR converge. (2025d). Documentation and metadata. RDMkit. Available at: https://rdmkit.elixir-europe.org/metadata_management Last accessed 08 July 2025.
+* [^36] ELIXIR converge. (2025e). Data Life Cycle - Analysing. RDMkit. Available at: https://rdmkit.elixir-europe.org/analysing Last accessed 08 July 2025.
+* [^37] ELIXIR converge. (2025f). Data Analysis. RDMkit. Available at: https://rdmkit.elixir-europe.org/data_analysis Last accessed 08 July 2025.
+* [^39] ELIXIR converge. (2025g). Data Life Cycle - Preserving. RDMkit. Available at: https://rdmkit.elixir-europe.org/preserving Last accessed 08 July 2025.
+* [^43] ELIXIR converge. (2025h). Data Life Cycle - Sharing. RDMkit. Available at: https://rdmkit.elixir-europe.org/sharing Last accessed 08 July 2025.
+* [^16] forschungsdaten.info. (2025a). Der Datenmanagementplan. Eine Wegbeschreibung für Daten. Forschungsdaten und Forschungsdatenmanagement. Available at: https://forschungsdaten.info/themen/informieren-und-planen/datenmanagementplan Last accessed 08 July 2025.
+* [^41] forschungsdaten.info. (2025b). Datenschutzrecht. Schutz von personenbezogenen Forschungsdaten. forschungsdaten.info. Available at: https://forschungsdaten.info/themen/rechte-und-pflichten/datenschutzrecht Last accessed 08 July 2025.   
+* [^14] GFBio. (2025a). How to create a data management plan (DMP)? gfbio. Available at: https://www.gfbio.org/how-to-create-a-dmp Last accessed 08 July 2025.
+* [^18] GFBio. (2025b). GFBio Training Materials: Data Life Cycle Fact-Sheet: Data Life Cycle: Collect. GFBio. Available at: https://www.gfbio.org/training/material/data-life-cycle/collect Last accessed 08 July 2025.
+* [^23] GFBio. (2025c). GFBio Training Materials: Data Life Cycle Fact-Sheet: Data Life Cycle: Describe. GFBio. Available at: https://www.gfbio.org/training/material/data-life-cycle/describe Last accessed 08 July 2025.
+* [^38] GFBio. (2025d). GFBio Training Materials: Data Life Cycle Fact-Sheet: Data Life Cycle: Analyze. GFBio. Available at: https://www.gfbio.org/training/material/data-life-cycle/analyze Last accessed 08 July 2025.
+* [^40] GFBio. (2025e). GFBio Training Materials: Data Life Cycle Fact-Sheet: Data Life Cycle: Preserve. GFBio. Available at: https://www.gfbio.org/training/material/data-life-cycle/preserve Last accessed 08 July 2025.
+* [^44] GFBio. (2025f). GFBio Training Materials: Data Life Cycle Fact-Sheet: Data Life Cycle: Publish. GFBio. Available at: https://www.gfbio.org/training/material/data-life-cycle/publish Last accessed 08 July 2025.
+* [^24] Grace, O.M., Pérez-Escobar, O.A., Lucas, E.J., Vorontsova, M.S., Lewis, G.P., Walker, B.E., et al. (2021). Botanical Monography in the Anthropocene. Trends in Plant Science, 26, 433–441. https://doi.org/10.1016/j.tplants.2020.12.018
+* [^34] Grenié, M., Berti, E., Carvajal-Quintero, J., Dädlow, G., Sagouis, A. & Winter, M. (2021). taxharmonizexplorer - Navigate the Taxonomic Harmonization landscape. taxharmonizeexplorer. Available at: https://mgrenie.shinyapps.io/taxharmonizexplorer Last accessed 08 July 2025.   
+* [^35] Grenié, M., Berti, E., Carvajal-Quintero, J., Dädlow, G.M.L., Sagouis, A. & Winter, M. (2022). Harmonizing taxon names in biodiversity data: A review of tools, databases and best practices. Methods Ecol Evol, 2041–210X.13802. https://doi.org/10.1111/2041-210X.13802
+* [^6] Haase, P., Tonkin, J.D., Stoll, S., Burkhard, B., Frenzel, M., Geijzendorffer, I.R., et al. (2018). The next generation of site-based long-term ecological monitoring: Linking essential biodiversity variables and ecosystem integrity. Science of The Total Environment, 613–614, 1376–1384. https://doi.org/10.1016/j.scitotenv.2017.08.111
+* [^30] Hebert, P.D.N., Cywinska, A., Ball, S.L. & DeWaard, J.R. (2003). Biological identifications through DNA barcodes. Proceedings of the Royal Society B-Biological Sciences, 270. https://doi.org/10.1098/rspb.2002.2218
+* [^47] HeFDI-Hessische Forschungsdateninfrastrukturen. (2021). Rechtliche Rahmenbedingungen des Forschungsdatenmanagements - Teil 1: Urheber- und Leistungsschutzrechte an Forschungsdaten; Teil 2: Entscheidungsbefugnis über den Umgang mit Forschungsdaten; Teil 3: Nutzungsrechtseinräumung an Forschungsdaten, Teil 7: Veröffentlichung und Lizenzierung von Forschungsdaten, Teil 8: (Nach-)Nutzung fremder Forschungsdaten, Teil 9: Haftungen bei Rechtsverletzungen im Rahmen des Forschungsdatenmanagements. https://doi.org/10.5281/zenodo.3957678
+* [^31] IPBES. (2016). Summary for policymakers of the assessment report of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services on pollinators, pollination and food production. Zenodo. https://doi.org/10.5281/zenodo.2616458
+* [^32] IPBES. (2019). Summary for policymakers of the global assessment report on biodiversity and ecosystem services. Zenodo. https://doi.org/10.5281/zenodo.3553458
+* [^49] Klimpel, P. (2012). Freies Wissen dank Creative-Commons-Lizenzen. Folgen, Risiken und Nebenwirkungen der Bedingung »nicht-kommerziell – NC«. https://irights.info/wp-content/uploads/userfiles/CC-NC_Leitfaden_web.pdf    
+* [^50] Kreutzer, T. & Deutsche UNESCO-Kommission (Eds.). (2014). Open Content: a practical guide to using Creative Commons Licences. German Comm. for UNESCO, Bonn.
+* [^12] Kultusministerkonferenz. (2020). Zugang – Transparenz – Kooperation. Leitlinien einer „3 Wege-Strategie“ für die Erfassung und digitale Veröffentlichung von Sammlungsgut aus kolonialen Kontexten in Deutschland. https://www.kmk.org/fileadmin/Dateien/pdf/PresseUndAktuelles/2020/201014_Kontaktstelle-Sammlungsgut_Konzept_3-Wege-Strategie.pdf
+* [^11] Lang, K., Assmann, C., Neute, N., Gerlach, R. & Rex, J. (2023). FAIR Assessment Tools Overview. https://zenodo.org/record/7022037
+* [^48] Langner, P., Krippes, C. & Dworschak, N. (2022). Rechtliche Rahmenbedingungen des Forschungsdatenmanagements - Teil 10: Datenschutzrechtliche Vorgaben bei personenbezogenen Daten, Teil 11: Rechtmäßigkeit der Datenverarbeitung personenbezogener Daten, Teil 12: Haftungsfragen bei personenbezogenen Daten. https://doi.org/10.5281/zenodo.6357219
+* [^28] Linnaeus, C. (1753). Species plantarum. 1st edition. Laurentius Salvius, Stockholm, Sweden. https://doi.org/10.5962/bhl.title.669
+* [^27] Mayr, E. (1942). Systematics and the origin of species, from the viewpoint of a zoologist. Columbia University Press, New York.
+* [^9] Members of the Working Group on Data Management of the DFG Senate Commission on Biodiversity Research. (n.d.). Guidelines on the Handling of Research Data in Biodiversity Research. https://www.dfg.de/resource/blob/171780/4dc984026c9b240a5201ed9068120273/guidelines-biodiversity-research-data.pdf
+* [^3] National Geographic. (2025). Biodiversity. Available at: https://education.nationalgeographic.org/resource/biodiversity Last accessed 08 July 2025.
+* [^21] NFDI4Chem. (2025). Electronic Lab Notebooks (ELNs). NFDI4Chem Knowledge Base. Available at: https://knowledgebase.nfdi4chem.de/knowledge_base/docs/eln Last accessed 08 July 2025.
+* [^29] Nixon, K.C. & Wheeler, Q.D. (1990). An amplification of the phylogenetic species concept. Cladistics, 6, 211–223. https://doi.org/10.1111/j.1096-0031.1990.tb00541.x
+* [^25] Sandall, E.L., Maureaud, A.A., Guralnick, R., McGeoch, M.A., Sica, Y.V., Rogan, M.S., et al. (2023). A globally integrated structure of taxonomy to support biodiversity science and conservation. Trends in Ecology & Evolution, https://doi.org/10.1016/j.tree.2023.08.004 
+* [^33] Schellenberger Costa, D., Boehnisch, G., Freiberg, M., Govaerts, R., Grenié, M., Hassler, M., et al. (2023). The big four of plant taxonomy – a comparison of global checklists of vascular plant names. New Phytologist, nph.18961. https://doi.org/10.1111/nph.18961
+* [^45] Schleußinger, M. & Rex, J. (2019). Forschungsdaten veröffentlichen? https://doi.org/10.5281/zenodo.3368292
+* [^56] Scholz, A.H., Freitag, J., Lyal, C.H.C., Sara, R., Cepeda, M.L., Cancio, I., et al. (2022). Multilateral benefit-sharing from digital sequence information will support both science and biodiversity conservation. Nat Commun, 13, 1086. https://doi.org/10.1038/s41467-022-28594-0
+* [^54] Schroeder, D. (2007). Benefit sharing: it’s time for a definition. Journal of Medical Ethics, 33, 205–209. https://doi.org/10.1136/jme.2006.016790
+* [^20] TU Darmstadt. (2025). ELN Finder. Available at: https://eln-finder.ulb.tu-darmstadt.de/search Last accessed 08 July 2025.
+* [^4] Wilkinson, M.D., Dumontier, M., Aalbersberg, Ij.J., Appleton, G., Axton, M., Baak, A., et al. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Sci Data, 3, 160018. https://doi.org/10.1038/sdata.2016.18
+* [^19] Wolstencroft, K., Owen, S., Horridge, M., Krebs, O., Mueller, W., Snoep, J.L., et al. (2011). RightField: embedding ontology annotation in spreadsheets. Bioinformatics, 27, 2021–2022. https://doi.org/10.1093/bioinformatics/btr312
 
 
 *************************************************************************************************************
