@@ -1620,7 +1620,7 @@ ___
 
 [^48]: Langner, P., Krippes, C. & Dworschak, N. (2022). Rechtliche Rahmenbedingungen des Forschungsdatenmanagements - Teil 10: Datenschutzrechtliche Vorgaben bei personenbezogenen Daten, Teil 11: Rechtmäßigkeit der Datenverarbeitung personenbezogener Daten, Teil 12: Haftungsfragen bei personenbezogenen Daten. https://doi.org/10.5281/zenodo.6357219   
 
-[^49]: Klimpel, P. (2012). Freies Wissen dank Creative-Commons-Lizenzen. Folgen, Risiken und Nebenwirkungen der Bedingung »nicht-kommerziell – NC«. https://irights.info/wp-content/uploads/userfiles/CC-NC_Leitfaden_web.pdf
+[^49]: Klimpel, P. (2012). Freies Wissen dank Creative-Commons-Lizenzen. Folgen, Risiken und Nebenwirkungen der Bedingung »nicht-kommerziell – NC«. https://irights.info/wp-content/uploads/userfiles/CC-NC_Leitfaden_web.pdf    
 
 [^50]: Kreutzer, T. & Deutsche UNESCO-Kommission (Eds.). (2014). Open Content: a practical guide to using Creative Commons Licences. German Comm. for UNESCO, Bonn.
 ![grafik](https://github.com/user-attachments/assets/684e1bde-73fb-4b75-8b11-7b5e4f005259)
@@ -1850,7 +1850,7 @@ Why are open and documented data formats preferred for long-term data storage? C
 * [^47]: HeFDI-Hessische Forschungsdateninfrastrukturen. (2021). Rechtliche Rahmenbedingungen des Forschungsdatenmanagements - Teil 1: Urheber- und Leistungsschutzrechte an Forschungsdaten; Teil 2: Entscheidungsbefugnis über den Umgang mit Forschungsdaten; Teil 3: Nutzungsrechtseinräumung an Forschungsdaten, Teil 7: Veröffentlichung und Lizenzierung von Forschungsdaten, Teil 8: (Nach-)Nutzung fremder Forschungsdaten, Teil 9: Haftungen bei Rechtsverletzungen im Rahmen des Forschungsdatenmanagements. https://doi.org/10.5281/zenodo.3957678
 * [^31]: IPBES. (2016). Summary for policymakers of the assessment report of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services on pollinators, pollination and food production. Zenodo. https://doi.org/10.5281/zenodo.2616458
 * [^32]: IPBES. (2019). Summary for policymakers of the global assessment report on biodiversity and ecosystem services. Zenodo. https://doi.org/10.5281/zenodo.3553458
-* [^49]: Klimpel, P. (2012). Freies Wissen dank Creative-Commons-Lizenzen. Folgen, Risiken und Nebenwirkungen der Bedingung »nicht-kommerziell – NC«. https://irights.info/wp-content/uploads/userfiles/CC-NC_Leitfaden_web.pdf
+* [^49]: Klimpel, P. (2012). Freies Wissen dank Creative-Commons-Lizenzen. Folgen, Risiken und Nebenwirkungen der Bedingung »nicht-kommerziell – NC«. https://irights.info/wp-content/uploads/userfiles/CC-NC_Leitfaden_web.pdf    
 * [^50]: Kreutzer, T. & Deutsche UNESCO-Kommission (Eds.). (2014). Open Content: a practical guide to using Creative Commons Licences. German Comm. for UNESCO, Bonn.
 * [^12]: Kultusministerkonferenz. (2020). Zugang – Transparenz – Kooperation. Leitlinien einer „3 Wege-Strategie“ für die Erfassung und digitale Veröffentlichung von Sammlungsgut aus kolonialen Kontexten in Deutschland. https://www.kmk.org/fileadmin/Dateien/pdf/PresseUndAktuelles/2020/201014_Kontaktstelle-Sammlungsgut_Konzept_3-Wege-Strategie.pdf
 * [^11]: Lang, K., Assmann, C., Neute, N., Gerlach, R. & Rex, J. (2023). FAIR Assessment Tools Overview. https://zenodo.org/record/7022037
@@ -2005,8 +2005,7 @@ Assign the terms to the FAIR principles.
 | [[ Findable | (Accessible) | Interoperable | Reusable ]]      | [[ Persistent indetifier (PID) | Data is described with rich metadata | License | (Metadata is accessible, even if data is (no longer) available or accessible) | Use a metadata standard to describe your data ]]|
 | [[ Findable | Accessible | (Interoperable) | Reusable ]]      | [[ Persistent indetifier (PID) | Data is described with rich metadata | License | Metadata is accessible, even if data is (no longer) available or accessible | (Use a metadata standard to describe your data) ]]|
 
-RDM[^1] introduces you to many new abbreviations. Which of the following abbrevations belongs to which term?
-[^1] Research data management
+RDM[^57] introduces you to many new abbreviations. Which of the following abbrevations belongs to which term?
 
 <!-- data-randomize data-max-trials="3" data-show-solution-button="0"-->
 - [(DFG) (ORCID) (ABCD) (DwC) (GFBio) (GBIF) (DMP) (DSI) (DOI)]
@@ -2019,5 +2018,9 @@ RDM[^1] introduces you to many new abbreviations. Which of the following abbreva
 - [ ( )    ( )    ( )    ( )   ( )     ( )    (X)   ( )   ( ) ] Data Management Plan
 - [ ( )    ( )    ( )    ( )   ( )     ( )    ( )   (X)   ( ) ] Digital Sequence Information
 - [ ( )    ( )    ( )    ( )   ( )     ( )    ( )   ( )   (X) ] Digital Object Identifier
+
+___
+
+[^57] Research Data Management
 
 *************************************************************************************************************
