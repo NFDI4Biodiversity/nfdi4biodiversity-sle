@@ -35,6 +35,9 @@ classroom: false
 
 version: 1.2.0
 
+logo: https://nfdi4biodiversity.org/documents/18/NFDI_4_Biodiversity___Logo_Positiv_Kopie.png
+icon: https://nfdi4biodiversity.org/documents/18/NFDI_4_Biodiversity___Logo_Positiv_Kopie.png
+
 -->
 
 
