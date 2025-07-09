@@ -32,6 +32,7 @@ comment: **NFDI4Biodiversity Self-Study Unit - Research Data Management for Biod
 logo: https://nfdi4biodiversity.org/documents/18/NFDI_4_Biodiversity___Logo_Positiv_Kopie.png
 
 classroom: false
+classroom: disable
 
 version: 1.2.0
 
