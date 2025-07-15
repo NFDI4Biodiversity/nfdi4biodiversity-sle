@@ -33,6 +33,7 @@ logo: https://nfdi4biodiversity.org/documents/18/NFDI_4_Biodiversity___Logo_Posi
 
 classroom: false
 classroom: disable
+sharing: off
 
 version: 1.2.0
 
