@@ -42,8 +42,7 @@ icon: https://nfdi4biodiversity.org/documents/18/NFDI_4_Biodiversity___Logo_Posi
 
 -->
 
-[![course badge](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://LiaScript.github.io/course/?https://github.com/NFDI4Biodiversity/nfdi4biodiversity-sle/blob/main/README.md)
-
+[![course badge](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://LiaScript.github.io/course/?https://raw.githubusercontent.com/NFDI4Biodiversity/nfdi4biodiversity-sle/main/README.md)
 
 # NFDI4Biodiversity Self-Study Unit - Research Data Management for Biodiversity Data
 
@@ -2029,5 +2028,6 @@ ___
 [^57]: Research Data Management
 
 *************************************************************************************************************
+
 
 
