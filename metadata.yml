@@ -66,6 +66,7 @@ creator:
     type: Person
     affiliation:
       name: German Federation for Biological Data e.V. (GFBio)
+      id: https://ror.org/02qtnz251
       type: Organization
   - givenName: Tanja
     familyName: Weibulat
