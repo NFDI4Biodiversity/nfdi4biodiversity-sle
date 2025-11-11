@@ -73,6 +73,7 @@ creator:
     type: Person
     affiliation:
       name: Staatliche Naturwissenschaftliche Sammlungen Bayerns (SNSB)
+      id: https://ror.org/05th1v540
       type: Organization
   - givenName: Ortrun
     familyName: Brand
