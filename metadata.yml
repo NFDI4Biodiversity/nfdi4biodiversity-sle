@@ -35,6 +35,8 @@ description: >-
 license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 id: >-
   https://liascript.github.io/course/?https://raw.githubusercontent.com/NFDI4Biodiversity/nfdi4biodiversity-sle/main/README.md#1
+  - !include versions/pdf.yml
+  - !include versions/ilias_umr.yml
 creator:
   - givenName: Marlen
     familyName: Fischer
