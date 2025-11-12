@@ -2,8 +2,8 @@
 creativeWorkStatus: Published
 type: LearningResource
 name: >-
-  NFDI4Biodiversity Self-Paced Online Course - Research Data Management for Biodiversity
-  Data
+  NFDI4Biodiversity Self-Paced Online Course - Research Data Management for
+  Biodiversity Data
 description: >-
   This self-paced online course developed by NFDI4Biodiversity provides in-depth
   knowledge for both students and researchers specializing in biodiversity and
@@ -130,7 +130,10 @@ about:
   - https://w3id.org/kim/hochschulfaechersystematik/n064
   - https://w3id.org/kim/hochschulfaechersystematik/n385
   - https://w3id.org/kim/hochschulfaechersystematik/n42
+image: >-
+  https://www.nfdi4biodiversity.org/documents/22/NFDI_4_Biodiversity___Logo_Positiv_Kopie.svg
 learningResourceType:
   - https://w3id.org/kim/hcrt/course
 educationalLevel:
   - https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2024-06-06'
