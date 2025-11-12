@@ -1,0 +1,140 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: >-
+  NFDI4Biodiversity Self-Study Unit - Research Data Management for Biodiversity
+  Data
+description: >-
+  The NFDI4Biodiversity Self-Study Unit (SSU) provides in-depth knowledge for
+  both students and researchers specializing in biodiversity and environmental
+  sciences. This learning is based on the online learning unit
+  "Forschungsdatenmanagement - eine Online-Einführung (HeFDI Data Learning
+  Materials)" (https://doi.org/10.5281/zenodo.6373596) of the Hessian Research
+  Data Infrastructures. Developed in collaboration between several partners
+  within NFDI4Biodiversity, the SSU offers essential domain-specific knowledge
+  in research data management. 
+
+
+  Prerequisites: No previous knowledge is required for this module. The chapters
+  build on each other thematically, but can also be worked through individually.
+  If information from other chapters is needed, they are linked.
+
+
+  Target audience: students at PhD-level and beyond and researchers in the field
+  of biology and environmental sciences, especially those working with
+  biodiversity data, who are looking for a first introduction to research data
+  management.
+
+
+  Learning objectives: After completing this unit you will be able to understand
+  the content and purpose of research data management and apply it in the field
+  of biology. The detailed learning objectives are given at the beginning of
+  each chapter.
+
+
+  The self-study unit undergoes periodic updates, responding to feedback from
+  the community for continuous improvement. For inquiries or additional
+  information, please feel free to reach out to us via our contact page:
+  NFDI4Biodiversity Contact (https://www.nfdi4biodiversity.org/de/kontakt/)
+license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
+id: https://doi.org/10.5281/zenodo.10377868
+creator:
+  - givenName: Marlen
+    familyName: Fischer
+    id: https://orcid.org/0000-0003-3491-740X
+    type: Person
+    affiliation:
+      name: Philipps-Universität Marburg
+      id: https://ror.org/01rdrb571
+      type: Organization
+  - givenName: Juliane
+    familyName: Röder
+    id: https://orcid.org/0000-0002-4692-2700
+    type: Person
+    affiliation:
+      name: Philipps-Universität Marburg
+      id: https://ror.org/01rdrb571
+      type: Organization
+  - givenName: Johannes
+    familyName: Signer
+    id: https://orcid.org/0000-0002-1771-7775
+    type: Person
+    affiliation:
+      name: Georg-August-Universität Göttingen
+      id: https://ror.org/01y9bpm73
+      type: Organization
+  - givenName: Daniel
+    familyName: Tschink
+    id: https://orcid.org/0000-0001-8683-2534
+    type: Person
+    affiliation:
+      name: German Federation for Biological Data e.V. (GFBio)
+      id: https://ror.org/02qtnz251
+      type: Organization
+  - givenName: Tanja
+    familyName: Weibulat
+    id: https://orcid.org/0000-0003-2976-2300
+    type: Person
+    affiliation:
+      name: Staatliche Naturwissenschaftliche Sammlungen Bayerns (SNSB)
+      id: https://ror.org/05th1v540
+      type: Organization
+  - givenName: Ortrun
+    familyName: Brand
+    id: https://orcid.org/0000-0002-6850-5123
+    type: Person
+    affiliation:
+      name: Philipps-Universität Marburg
+      id: https://ror.org/01rdrb571
+      type: Organization
+keywords:
+  - research data management
+  - training
+  - RDM
+  - rdm training
+  - biodiversity
+  - Nationale Forschungsdateninfrastruktur
+  - NFDI
+  - NFDI4Biodiversity
+  - National Research Data Infrastructure
+  - research data
+  - Data Life Cycle
+  - DLC
+  - FAIR principles
+  - CARE principles
+  - good scientific practice
+  - data management plan
+  - DMP
+  - documentation
+  - data collection
+  - standardization
+  - metadata
+  - metadata standard
+  - terminology
+  - taxonomic harmonization
+  - naming convention
+  - versioning
+  - version control
+  - data availability
+  - data storage
+  - data preservation
+  - archiving
+  - long-term archiving
+  - data center
+  - research data repository
+  - data publication
+  - persistent Identifier
+  - PID
+inLanguage:
+  - en
+about:
+  - https://w3id.org/kim/hochschulfaechersystematik/n0
+  - https://w3id.org/kim/hochschulfaechersystematik/n026
+  - https://w3id.org/kim/hochschulfaechersystematik/n064
+  - https://w3id.org/kim/hochschulfaechersystematik/n385
+  - https://w3id.org/kim/hochschulfaechersystematik/n42
+learningResourceType:
+  - https://w3id.org/kim/hcrt/textbook
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2025-11-11'
