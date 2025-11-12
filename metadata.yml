@@ -137,3 +137,6 @@ learningResourceType:
 educationalLevel:
   - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2024-06-06'
+- !include versions/pdf.yml
+- !include versions/ilias_umr.yml
+- !include versions/import_ilias_moodle.yml
