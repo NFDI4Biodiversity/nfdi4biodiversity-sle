@@ -1,0 +1,111 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: 'Research Data Management for Biodiversity Data (by NFDI4Biodiversity) '
+description: >-
+  This course provides an introduction to research data management specifically
+  tailored to the needs of biologists and is offered by the Biodiversity Data
+  Consortium NFDI4Biodiversity in cooperation with the Hessian Research Data
+  Infrastructure HeFDI. 
+license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
+id: https://ilias.uni-marburg.de/goto.php/crs/3219917
+creator:
+  - givenName: Marlen
+    familyName: Fischer
+    id: https://orcid.org/0000-0003-3491-740X
+    type: Person
+    affiliation:
+      name: Philipps-Universität Marburg
+      id: https://ror.org/01rdrb571
+      type: Organization
+  - givenName: Juliane
+    familyName: Röder
+    id: https://orcid.org/0000-0002-4692-2700
+    type: Person
+    affiliation:
+      name: Philipps-Universität Marburg
+      id: https://ror.org/01rdrb571
+      type: Organization
+  - givenName: Johannes
+    familyName: Signer
+    id: https://orcid.org/0000-0002-1771-7775
+    type: Person
+    affiliation:
+      name: Georg-August-Universität Göttingen
+      id: https://ror.org/01y9bpm73
+      type: Organization
+  - givenName: Daniel
+    familyName: Tschink
+    id: https://orcid.org/0000-0001-8683-2534
+    type: Person
+    affiliation:
+      name: German Federation for Biological Data e.V. (GFBio)
+      id: https://ror.org/02qtnz251
+      type: Organization
+  - givenName: Tanja
+    familyName: Weibulat
+    id: https://orcid.org/0000-0003-2976-2300
+    type: Person
+    affiliation:
+      name: Staatliche Naturwissenschaftliche Sammlungen Bayerns (SNSB)
+      id: https://ror.org/05th1v540
+      type: Organization
+  - givenName: Ortrun
+    familyName: Brand
+    id: https://orcid.org/0000-0002-6850-5123
+    type: Person
+    affiliation:
+      name: Philipps-Universität Marburg
+      id: https://ror.org/01rdrb571
+      type: Organization
+keywords:
+  - research data management
+  - training
+  - RDM
+  - rdm training
+  - biodiversity
+  - Nationale Forschungsdateninfrastruktur
+  - NFDI
+  - NFDI4Biodiversity
+  - National Research Data Infrastructure
+  - research data
+  - Data Life Cycle
+  - DLC
+  - FAIR principles
+  - CARE principles
+  - good scientific practice
+  - data management plan
+  - DMP
+  - documentation
+  - data collection
+  - standardization
+  - metadata
+  - metadata standard
+  - terminology
+  - taxonomic harmonization
+  - naming convention
+  - versioning
+  - version control
+  - data availability
+  - data storage
+  - data preservation
+  - archiving
+  - long-term archiving
+  - data center
+  - research data repository
+  - data publication
+  - persistent Identifier
+  - PID
+inLanguage:
+  - en
+about:
+  - https://w3id.org/kim/hochschulfaechersystematik/n0
+  - https://w3id.org/kim/hochschulfaechersystematik/n026
+  - https://w3id.org/kim/hochschulfaechersystematik/n064
+  - https://w3id.org/kim/hochschulfaechersystematik/n385
+  - https://w3id.org/kim/hochschulfaechersystematik/n42
+learningResourceType:
+  - https://w3id.org/kim/hcrt/course
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2023-12-14'
