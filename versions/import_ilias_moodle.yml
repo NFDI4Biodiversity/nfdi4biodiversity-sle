@@ -1,0 +1,109 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: >-
+  NFDI4Biodiversity Self-Paced Online Course - Research Data Management for
+  Biodiversity Data
+description: "In NFDI4Biodiversity, we developed a self-paced online\_course on research data management for both students and researchers specializing in biodiversity and environmental sciences.\_This course is based on the online course HeFDI Data OER: Forschungsdatenmanagement - eine Online-Einführung (https://doi.org/10.5281/zenodo.6373596) of the Hessian Research Data Infrastructures (HeFDI, https://www.uni-marburg.de/en/hefdi). Developed in collaboration between several partners within NFDI4Biodiversity, this course offers essential domain-specific knowledge in research data management.\n\nWe offer\_this course in different formats to facilitate accessibility and re-usability:\n\n* LiaScript course (Markdown, available on GitHub): https://github.com/NFDI4Biodiversity/nfdi4biodiversity-sle\n* OER section of Marburg University Ilias (LiaScript import, SCORM1.2, certificate for successful completion):\_https://ilias.uni-marburg.de/goto.php/crs/3219917\n* Document (text and figure, no questions): https://doi.org/10.5281/zenodo.10377867\n\nHere, we additionally offer import files to use this course in your local Ilias or Moodle. If you are using a different learning management system (LMS) or if you want to adapt the course, you are free to clone the corresponding GitHub repository, adapt the course, and export it in a format suitable to your needs.\n\nPlease note the following characteristics (different from GitHub sourced online version):\n\n* SCORM1.2 format\n* mastery score 100 – learners need to achieve 100% correct answers in all questions. You can change this value in the Ilias/Moodle course settings after importing the course, or during the LiaScript export.\n* Unlimited trials to answer questions correctly, but no solution button\n\nThis course is subject to regular maintenance and updates. You can find the most up-to-date version on GitHub:\_https://github.com/NFDI4Biodiversity/nfdi4biodiversity-sle\n\nFor inquiries or additional information, please feel free to reach out to us: NFDI4Biodiversity Helpdesk (https://www.nfdi4biodiversity.org/en/contact/).\n\nPrerequisites - No previous knowledge is required for this course. The chapters build on each other thematically but can also be worked through individually. If information from other chapters is needed, they are linked.\n\nTarget audience - Graduate students, PhD students, and researchers in the field of biology and environmental sciences, especially those working with biodiversity data, who are looking for a first introduction to research data management.\n\nLearning objectives - After completing this self-paced course, you will be able to understand the content and purpose of research data management and apply it in the field of biology. The detailed learning objectives are given at the beginning of each chapter.\n\nContent - If you prefer to read, you can access the content of this unit through the text only. However, the embedded videos offer further access to the topic, so those who work well with video explanations will find the content presented here in a different way.\n\nDuration - If you concentrate on reading all the texts, you can expect to spend about 4-5 hours on the course. If you also watch the videos or follow the links, you will need more time. And remember to take breaks.\n\nLicensing – This course is licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).\_Please note that third-party content remains under its original licenses or copyright.\n\nPrivacy:\n\nEmbedded videos – Videos from YouTube are embedded in this course. When the videos are called up, Google/YouTube uses, processes and possibly passes on cookies and other data. Information on data protection and terms of use of the service can be found following the link https://policies.google.com/?hl=en&gl=en. The use of the online course requires corresponding consent.\n\nGoogle Translate - This course uses Google Translate to translate content into different languages. Please note that when you use this function, data is transmitted to Google and processed there. Further information can be found in Google's Privacy Policy (https://policies.google.com/privacy?hl=de). However, translation is not necessary to use this course."
+license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
+id: https://doi.org/10.5281/zenodo.17582795
+creator:
+  - givenName: Marlen
+    familyName: Fischer
+    id: https://orcid.org/0000-0003-3491-740X
+    type: Person
+    affiliation:
+      name: Philipps-Universität Marburg
+      id: https://ror.org/01rdrb571
+      type: Organization
+  - givenName: Juliane
+    familyName: Röder
+    id: https://orcid.org/0000-0002-4692-2700
+    type: Person
+    affiliation:
+      name: Philipps-Universität Marburg
+      id: https://ror.org/01rdrb571
+      type: Organization
+  - givenName: Johannes
+    familyName: Signer
+    id: https://orcid.org/0000-0002-1771-7775
+    type: Person
+    affiliation:
+      name: Georg-August-Universität Göttingen
+      id: https://ror.org/01y9bpm73
+      type: Organization
+  - givenName: Daniel
+    familyName: Tschink
+    id: https://orcid.org/0000-0001-8683-2534
+    type: Person
+    affiliation:
+      name: German Federation for Biological Data e.V. (GFBio)
+      id: https://ror.org/02qtnz251
+      type: Organization
+  - givenName: Tanja
+    familyName: Weibulat
+    id: https://orcid.org/0000-0003-2976-2300
+    type: Person
+    affiliation:
+      name: Staatliche Naturwissenschaftliche Sammlungen Bayerns (SNSB)
+      id: https://ror.org/05th1v540
+      type: Organization
+  - givenName: Ortrun
+    familyName: Brand
+    id: https://orcid.org/0000-0002-6850-5123
+    type: Person
+    affiliation:
+      name: Philipps-Universität Marburg
+      id: https://ror.org/01rdrb571
+      type: Organization
+keywords:
+  - research data management
+  - training
+  - RDM
+  - rdm training
+  - biodiversity
+  - Nationale Forschungsdateninfrastruktur
+  - NFDI
+  - NFDI4Biodiversity
+  - National Research Data Infrastructure
+  - research data
+  - Data Life Cycle
+  - DLC
+  - FAIR principles
+  - CARE principles
+  - good scientific practice
+  - data management plan
+  - DMP
+  - documentation
+  - data collection
+  - standardization
+  - metadata
+  - metadata standard
+  - terminology
+  - taxonomic harmonization
+  - naming convention
+  - versioning
+  - version control
+  - data availability
+  - data storage
+  - data preservation
+  - archiving
+  - long-term archiving
+  - data center
+  - research data repository
+  - data publication
+  - persistent Identifier
+  - PID
+inLanguage:
+  - en
+about:
+  - https://w3id.org/kim/hochschulfaechersystematik/n0
+  - https://w3id.org/kim/hochschulfaechersystematik/n026
+  - https://w3id.org/kim/hochschulfaechersystematik/n064
+  - https://w3id.org/kim/hochschulfaechersystematik/n385
+  - https://w3id.org/kim/hochschulfaechersystematik/n42
+learningResourceType:
+  - https://w3id.org/kim/hcrt/course
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2025-11-11'
