@@ -37,7 +37,7 @@ creator:
     id: https://orcid.org/0000-0001-8683-2534
     type: Person
     affiliation:
-      name: German Federation for Biological Data e.V. (GFBio)
+      name: Gesellschaft für Biologische Daten e.V. (GFBio)
       id: https://ror.org/02qtnz251
       type: Organization
   - givenName: Tanja
